@@ -10,7 +10,7 @@ def set_var():
 	global repo
 	username = ''
 	token = ''
-	repo = 'Nova1422/plugin-statistics'
+	repo = 'Nova1422/plugins'
 
 def get_date():
 	now = datetime.now()
