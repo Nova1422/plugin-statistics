@@ -54,8 +54,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>17</td>
-		<td>+ 17</td>
+		<td>19</td>
+		<td>+ 19</td>
 	</tr>
 </table>
 </sub></sup>
@@ -102,8 +102,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>17</td>
-		<td>+ 17</td>
+		<td>19</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
