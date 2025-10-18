@@ -1,16 +1,16 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.1-unlimited.dfc | downloads: 8
-v1.0.0-unlimited.dfc | downloads: 3
-v1.0.0-jumpdrive.extended | downloads: 39
+v1.0.0-unlimited.dfc | downloads: 5
+v1.0.0-jumpdrive.extended | downloads: 42
 v1.0.2-capture.archons | downloads: 46
 v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 6
-# TOTAL DOWNLOADS: 100
+# TOTAL DOWNLOADS: 105
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 capture.archons 50
-jumpdrive.extended 39
-unlimited.dfc 11
+jumpdrive.extended 42
+unlimited.dfc 13
