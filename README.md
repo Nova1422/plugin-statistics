@@ -36,6 +36,17 @@
 		<td>+ 16</td>
 	</tr>
 	<tr>
+		<td>purchaseable.cloakingdevice</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td></td>
+	</tr>
+	<tr>
 		<td>unlimited.dfc</td>
 		<td>0</td>
 		<td>0</td>
@@ -93,6 +104,17 @@
 		<td>0</td>
 		<td>15</td>
 		<td>+ 15</td>
+	</tr>
+	<tr>
+		<td>purchaseable.cloakingdevice</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td></td>
 	</tr>
 </table>
 </sub></sup>
