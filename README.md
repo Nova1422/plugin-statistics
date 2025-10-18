@@ -32,8 +32,8 @@
 		<td>28</td>
 		<td>28</td>
 		<td>28</td>
-		<td>39</td>
-		<td>+ 11</td>
+		<td>42</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -43,8 +43,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>11</td>
-		<td>+ 11</td>
+		<td>13</td>
+		<td>+ 13</td>
 	</tr>
 </table>
 </sub></sup>
@@ -80,8 +80,8 @@
 		<td>28</td>
 		<td>28</td>
 		<td>28</td>
-		<td>39</td>
-		<td>+ 11</td>
+		<td>42</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -91,8 +91,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>11</td>
-		<td>+ 11</td>
+		<td>13</td>
+		<td>+ 13</td>
 	</tr>
 </table>
 </sub></sup>
