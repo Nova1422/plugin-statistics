@@ -21,8 +21,8 @@
 		<td>39</td>
 		<td>39</td>
 		<td>39</td>
-		<td>54</td>
-		<td>+ 15</td>
+		<td>55</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -32,8 +32,8 @@
 		<td>28</td>
 		<td>28</td>
 		<td>28</td>
-		<td>46</td>
-		<td>+ 18</td>
+		<td>48</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -54,8 +54,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>19</td>
-		<td>+ 19</td>
+		<td>20</td>
+		<td>+ 20</td>
 	</tr>
 </table>
 </sub></sup>
@@ -80,8 +80,8 @@
 		<td>39</td>
 		<td>39</td>
 		<td>39</td>
-		<td>54</td>
-		<td>+ 15</td>
+		<td>55</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -91,8 +91,8 @@
 		<td>28</td>
 		<td>28</td>
 		<td>28</td>
-		<td>46</td>
-		<td>+ 18</td>
+		<td>48</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -102,8 +102,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>19</td>
-		<td>+ 19</td>
+		<td>20</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
