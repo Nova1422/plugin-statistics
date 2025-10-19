@@ -4,13 +4,13 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-10-12</td>
 		<td>2025-10-13</td>
 		<td>2025-10-14</td>
 		<td>2025-10-15</td>
 		<td>2025-10-16</td>
 		<td>2025-10-17</td>
 		<td>2025-10-18</td>
+		<td>2025-10-19</td>
 		<td>today +</td>
 	</tr>
 	<tr>
@@ -20,9 +20,9 @@
 		<td>39</td>
 		<td>39</td>
 		<td>39</td>
-		<td>39</td>
 		<td>55</td>
-		<td>+ 16</td>
+		<td>56</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -31,9 +31,9 @@
 		<td>28</td>
 		<td>28</td>
 		<td>28</td>
-		<td>28</td>
 		<td>48</td>
-		<td>+ 20</td>
+		<td>51</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -42,9 +42,9 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>0</td>
 		<td>3</td>
-		<td>+ 3</td>
+		<td>3</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -53,9 +53,9 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>0</td>
 		<td>20</td>
-		<td>+ 20</td>
+		<td>21</td>
+		<td>+ 1</td>
 	</tr>
 </table>
 </sub></sup>
@@ -63,13 +63,13 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-10-12</td>
 		<td>2025-10-13</td>
 		<td>2025-10-14</td>
 		<td>2025-10-15</td>
 		<td>2025-10-16</td>
 		<td>2025-10-17</td>
 		<td>2025-10-18</td>
+		<td>2025-10-19</td>
 		<td>today +</td>
 	</tr>
 	<tr>
@@ -79,9 +79,9 @@
 		<td>39</td>
 		<td>39</td>
 		<td>39</td>
-		<td>39</td>
 		<td>55</td>
-		<td>+ 16</td>
+		<td>56</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -90,9 +90,9 @@
 		<td>28</td>
 		<td>28</td>
 		<td>28</td>
-		<td>28</td>
 		<td>48</td>
-		<td>+ 20</td>
+		<td>51</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -101,9 +101,9 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>0</td>
 		<td>20</td>
-		<td>+ 20</td>
+		<td>21</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -112,9 +112,9 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>0</td>
 		<td>3</td>
-		<td>+ 3</td>
+		<td>3</td>
+		<td></td>
 	</tr>
 </table>
 </sub></sup>
