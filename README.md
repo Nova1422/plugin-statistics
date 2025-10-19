@@ -26,11 +26,11 @@
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
-		<td>28</td>
-		<td>28</td>
-		<td>28</td>
-		<td>28</td>
-		<td>28</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
 		<td>48</td>
 		<td>53</td>
 		<td>+ 5</td>
@@ -85,11 +85,11 @@
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
-		<td>28</td>
-		<td>28</td>
-		<td>28</td>
-		<td>28</td>
-		<td>28</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
 		<td>48</td>
 		<td>53</td>
 		<td>+ 5</td>
