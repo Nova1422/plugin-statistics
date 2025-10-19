@@ -2,17 +2,17 @@
 v1.0.1-unlimited.dfc | downloads: 13
 v1.0.0-unlimited.dfc | downloads: 8
 v1.0.0-purchaseable.cloakingdevice | downloads: 3
-v1.0.0-jumpdrive.extended | downloads: 51
+v1.0.0-jumpdrive.extended | downloads: 52
 v1.0.2-capture.archons | downloads: 53
 v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 7
-# TOTAL DOWNLOADS: 132
+# TOTAL DOWNLOADS: 133
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 capture.archons 57
-jumpdrive.extended 51
+jumpdrive.extended 52
 purchaseable.cloakingdevice 3
 unlimited.dfc 21
