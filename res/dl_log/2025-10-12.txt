@@ -1,13 +1,13 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.0-jumpdrive.extended | downloads: 28
+v1.0.0-jumpdrive.extended | downloads: 0
 v1.0.2-capture.archons | downloads: 35
 v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 4
-# TOTAL DOWNLOADS: 67
+# TOTAL DOWNLOADS: 39
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 capture.archons 39
-jumpdrive.extended 28
+jumpdrive.extended 0
