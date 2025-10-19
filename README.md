@@ -21,8 +21,8 @@
 		<td>39</td>
 		<td>39</td>
 		<td>55</td>
-		<td>56</td>
-		<td>+ 1</td>
+		<td>57</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -80,8 +80,8 @@
 		<td>39</td>
 		<td>39</td>
 		<td>55</td>
-		<td>56</td>
-		<td>+ 1</td>
+		<td>57</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
