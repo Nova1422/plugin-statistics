@@ -32,8 +32,8 @@
 		<td>28</td>
 		<td>28</td>
 		<td>48</td>
-		<td>51</td>
-		<td>+ 3</td>
+		<td>52</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -91,8 +91,8 @@
 		<td>28</td>
 		<td>28</td>
 		<td>48</td>
-		<td>51</td>
-		<td>+ 3</td>
+		<td>52</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
