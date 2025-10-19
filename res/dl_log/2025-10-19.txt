@@ -1,18 +1,18 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.1-unlimited.dfc | downloads: 14
+v1.0.1-unlimited.dfc | downloads: 16
 v1.0.0-unlimited.dfc | downloads: 8
-v1.0.0-purchaseable.cloakingdevice | downloads: 3
-v1.0.0-jumpdrive.extended | downloads: 53
-v1.0.2-capture.archons | downloads: 54
+v1.0.0-purchaseable.cloakingdevice | downloads: 4
+v1.0.0-jumpdrive.extended | downloads: 55
+v1.0.2-capture.archons | downloads: 56
 v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 7
-# TOTAL DOWNLOADS: 136
+# TOTAL DOWNLOADS: 143
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-capture.archons 58
-jumpdrive.extended 53
-purchaseable.cloakingdevice 3
-unlimited.dfc 22
+capture.archons 60
+jumpdrive.extended 55
+purchaseable.cloakingdevice 4
+unlimited.dfc 24
