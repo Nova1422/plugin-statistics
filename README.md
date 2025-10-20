@@ -32,8 +32,8 @@
 		<td>39</td>
 		<td>55</td>
 		<td>68</td>
-		<td>69</td>
-		<td>+ 1</td>
+		<td>70</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -54,8 +54,8 @@
 		<td>0</td>
 		<td>48</td>
 		<td>63</td>
-		<td>66</td>
-		<td>+ 3</td>
+		<td>67</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -113,8 +113,8 @@
 		<td>39</td>
 		<td>55</td>
 		<td>68</td>
-		<td>69</td>
-		<td>+ 1</td>
+		<td>70</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -124,8 +124,8 @@
 		<td>0</td>
 		<td>48</td>
 		<td>63</td>
-		<td>66</td>
-		<td>+ 3</td>
+		<td>67</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
