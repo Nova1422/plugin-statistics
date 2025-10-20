@@ -54,8 +54,8 @@
 		<td>0</td>
 		<td>48</td>
 		<td>63</td>
-		<td>79</td>
-		<td>+ 16</td>
+		<td>81</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -76,8 +76,8 @@
 		<td>0</td>
 		<td>3</td>
 		<td>12</td>
-		<td>19</td>
-		<td>+ 7</td>
+		<td>21</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -106,6 +106,17 @@
 		<td>today +</td>
 	</tr>
 	<tr>
+		<td>jumpdrive.extended</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>48</td>
+		<td>63</td>
+		<td>81</td>
+		<td>+ 18</td>
+	</tr>
+	<tr>
 		<td>capture.archons</td>
 		<td>39</td>
 		<td>39</td>
@@ -115,17 +126,6 @@
 		<td>68</td>
 		<td>81</td>
 		<td>+ 13</td>
-	</tr>
-	<tr>
-		<td>jumpdrive.extended</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>48</td>
-		<td>63</td>
-		<td>79</td>
-		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -146,8 +146,8 @@
 		<td>0</td>
 		<td>3</td>
 		<td>12</td>
-		<td>19</td>
-		<td>+ 7</td>
+		<td>21</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
