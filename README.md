@@ -21,8 +21,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>7</td>
-		<td>7</td>
-		<td></td>
+		<td>8</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -32,8 +32,8 @@
 		<td>39</td>
 		<td>55</td>
 		<td>68</td>
-		<td>71</td>
-		<td>+ 3</td>
+		<td>72</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -43,8 +43,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>7</td>
-		<td>7</td>
-		<td></td>
+		<td>8</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -54,8 +54,8 @@
 		<td>0</td>
 		<td>48</td>
 		<td>63</td>
-		<td>68</td>
-		<td>+ 5</td>
+		<td>69</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -65,8 +65,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>5</td>
-		<td>5</td>
-		<td></td>
+		<td>6</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -76,8 +76,8 @@
 		<td>0</td>
 		<td>3</td>
 		<td>12</td>
-		<td>14</td>
-		<td>+ 2</td>
+		<td>15</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -87,8 +87,8 @@
 		<td>0</td>
 		<td>20</td>
 		<td>32</td>
-		<td>34</td>
-		<td>+ 2</td>
+		<td>35</td>
+		<td>+ 3</td>
 	</tr>
 </table>
 </sub></sup>
@@ -113,8 +113,8 @@
 		<td>39</td>
 		<td>55</td>
 		<td>68</td>
-		<td>71</td>
-		<td>+ 3</td>
+		<td>72</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -124,8 +124,8 @@
 		<td>0</td>
 		<td>48</td>
 		<td>63</td>
-		<td>68</td>
-		<td>+ 5</td>
+		<td>69</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -135,8 +135,8 @@
 		<td>0</td>
 		<td>20</td>
 		<td>32</td>
-		<td>34</td>
-		<td>+ 2</td>
+		<td>35</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -146,8 +146,8 @@
 		<td>0</td>
 		<td>3</td>
 		<td>12</td>
-		<td>14</td>
-		<td>+ 2</td>
+		<td>15</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -157,8 +157,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>7</td>
-		<td>7</td>
-		<td></td>
+		<td>8</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -168,8 +168,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>7</td>
-		<td>7</td>
-		<td></td>
+		<td>8</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -179,8 +179,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>5</td>
-		<td>5</td>
-		<td></td>
+		<td>6</td>
+		<td>+ 1</td>
 	</tr>
 </table>
 </sub></sup>
