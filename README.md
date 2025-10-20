@@ -54,8 +54,8 @@
 		<td>0</td>
 		<td>48</td>
 		<td>63</td>
-		<td>75</td>
-		<td>+ 12</td>
+		<td>77</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -124,8 +124,8 @@
 		<td>0</td>
 		<td>48</td>
 		<td>63</td>
-		<td>75</td>
-		<td>+ 12</td>
+		<td>77</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
