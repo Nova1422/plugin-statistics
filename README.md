@@ -43,8 +43,8 @@
 		<td>0</td>
 		<td>7</td>
 		<td>15</td>
-		<td>25</td>
-		<td>+ 10</td>
+		<td>26</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -54,8 +54,8 @@
 		<td>48</td>
 		<td>63</td>
 		<td>81</td>
-		<td>93</td>
-		<td>+ 12</td>
+		<td>95</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -124,8 +124,8 @@
 		<td>48</td>
 		<td>63</td>
 		<td>81</td>
-		<td>93</td>
-		<td>+ 12</td>
+		<td>95</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -168,8 +168,8 @@
 		<td>0</td>
 		<td>7</td>
 		<td>15</td>
-		<td>25</td>
-		<td>+ 10</td>
+		<td>26</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
