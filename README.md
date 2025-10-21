@@ -21,8 +21,8 @@
 		<td>0</td>
 		<td>7</td>
 		<td>12</td>
-		<td>15</td>
-		<td>+ 3</td>
+		<td>16</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -32,8 +32,8 @@
 		<td>55</td>
 		<td>68</td>
 		<td>81</td>
-		<td>84</td>
-		<td>+ 3</td>
+		<td>85</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -43,8 +43,8 @@
 		<td>0</td>
 		<td>7</td>
 		<td>15</td>
-		<td>20</td>
-		<td>+ 5</td>
+		<td>21</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -54,8 +54,8 @@
 		<td>48</td>
 		<td>63</td>
 		<td>81</td>
-		<td>88</td>
-		<td>+ 7</td>
+		<td>89</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -65,8 +65,8 @@
 		<td>0</td>
 		<td>5</td>
 		<td>10</td>
-		<td>15</td>
-		<td>+ 5</td>
+		<td>16</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -76,8 +76,19 @@
 		<td>3</td>
 		<td>12</td>
 		<td>22</td>
-		<td>25</td>
-		<td>+ 3</td>
+		<td>26</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
+		<td>tributequarg</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>2</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -87,8 +98,8 @@
 		<td>20</td>
 		<td>32</td>
 		<td>41</td>
-		<td>44</td>
-		<td>+ 3</td>
+		<td>45</td>
+		<td>+ 4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -113,8 +124,8 @@
 		<td>48</td>
 		<td>63</td>
 		<td>81</td>
-		<td>88</td>
-		<td>+ 7</td>
+		<td>89</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -124,8 +135,8 @@
 		<td>55</td>
 		<td>68</td>
 		<td>81</td>
-		<td>84</td>
-		<td>+ 3</td>
+		<td>85</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -135,8 +146,8 @@
 		<td>20</td>
 		<td>32</td>
 		<td>41</td>
-		<td>44</td>
-		<td>+ 3</td>
+		<td>45</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -146,8 +157,8 @@
 		<td>3</td>
 		<td>12</td>
 		<td>22</td>
-		<td>25</td>
-		<td>+ 3</td>
+		<td>26</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -157,8 +168,8 @@
 		<td>0</td>
 		<td>7</td>
 		<td>15</td>
-		<td>20</td>
-		<td>+ 5</td>
+		<td>21</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -168,8 +179,8 @@
 		<td>0</td>
 		<td>5</td>
 		<td>10</td>
-		<td>15</td>
-		<td>+ 5</td>
+		<td>16</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -179,8 +190,19 @@
 		<td>0</td>
 		<td>7</td>
 		<td>12</td>
-		<td>15</td>
-		<td>+ 3</td>
+		<td>16</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
+		<td>tributequarg</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>2</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
