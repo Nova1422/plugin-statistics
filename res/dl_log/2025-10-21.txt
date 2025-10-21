@@ -1,0 +1,24 @@
+# DOWNLOADS FOR EACH RELEASE:
+v1.0.0-purchase.bactrian | downloads: 11
+v1.0.0-capturingpower | downloads: 16
+v1.0.0-1requiredcrew | downloads: 13
+v1.0.1-unlimited.dfc | downloads: 26
+v1.0.0-unlimited.dfc | downloads: 16
+v1.0.0-purchaseable.cloakingdevice | downloads: 23
+v1.0.0-jumpdrive.extended | downloads: 82
+v1.0.2-capture.archons | downloads: 78
+v1.0.1-capture.archons | downloads: 4
+
+
+# NUMBER OF RELEASES: 10
+# TOTAL DOWNLOADS: 269
+
+
+# TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
+1requiredcrew 13
+capture.archons 82
+capturingpower 16
+jumpdrive.extended 82
+purchase.bactrian 11
+purchaseable.cloakingdevice 23
+unlimited.dfc 42
