@@ -21,8 +21,8 @@
 		<td>0</td>
 		<td>7</td>
 		<td>12</td>
-		<td>20</td>
-		<td>+ 8</td>
+		<td>21</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -65,8 +65,8 @@
 		<td>0</td>
 		<td>5</td>
 		<td>10</td>
-		<td>20</td>
-		<td>+ 10</td>
+		<td>21</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -76,8 +76,8 @@
 		<td>3</td>
 		<td>12</td>
 		<td>22</td>
-		<td>30</td>
-		<td>+ 8</td>
+		<td>31</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -98,8 +98,8 @@
 		<td>20</td>
 		<td>32</td>
 		<td>41</td>
-		<td>49</td>
-		<td>+ 8</td>
+		<td>50</td>
+		<td>+ 9</td>
 	</tr>
 </table>
 </sub></sup>
@@ -146,8 +146,8 @@
 		<td>20</td>
 		<td>32</td>
 		<td>41</td>
-		<td>49</td>
-		<td>+ 8</td>
+		<td>50</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -157,8 +157,8 @@
 		<td>3</td>
 		<td>12</td>
 		<td>22</td>
-		<td>30</td>
-		<td>+ 8</td>
+		<td>31</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -179,8 +179,8 @@
 		<td>0</td>
 		<td>5</td>
 		<td>10</td>
-		<td>20</td>
-		<td>+ 10</td>
+		<td>21</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -190,8 +190,8 @@
 		<td>0</td>
 		<td>7</td>
 		<td>12</td>
-		<td>20</td>
-		<td>+ 8</td>
+		<td>21</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
