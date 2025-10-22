@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.3-capture.archons | downloads: 5
-v1.0.2-tributequarg | downloads: 4
+v1.0.2-tributequarg | downloads: 5
 v1.0.1-jumpdrive.extended | downloads: 6
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
@@ -16,7 +16,7 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 15
-# TOTAL DOWNLOADS: 413
+# TOTAL DOWNLOADS: 414
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -26,5 +26,5 @@ capturingpower 36
 jumpdrive.extended 106
 purchase.bactrian 33
 purchaseable.cloakingdevice 39
-tributequarg 14
+tributequarg 15
 unlimited.dfc 58
