@@ -21,8 +21,19 @@
 		<td>7</td>
 		<td>12</td>
 		<td>21</td>
-		<td>29</td>
-		<td>+ 8</td>
+		<td>31</td>
+		<td>+ 10</td>
+	</tr>
+	<tr>
+		<td>bunrodeaoutfitter</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>2</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -32,8 +43,8 @@
 		<td>68</td>
 		<td>81</td>
 		<td>89</td>
-		<td>100</td>
-		<td>+ 11</td>
+		<td>102</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -43,8 +54,8 @@
 		<td>7</td>
 		<td>15</td>
 		<td>26</td>
-		<td>36</td>
-		<td>+ 10</td>
+		<td>38</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -54,8 +65,8 @@
 		<td>63</td>
 		<td>81</td>
 		<td>95</td>
-		<td>106</td>
-		<td>+ 11</td>
+		<td>108</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -65,8 +76,8 @@
 		<td>5</td>
 		<td>10</td>
 		<td>21</td>
-		<td>33</td>
-		<td>+ 12</td>
+		<td>35</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -76,8 +87,8 @@
 		<td>12</td>
 		<td>22</td>
 		<td>31</td>
-		<td>39</td>
-		<td>+ 8</td>
+		<td>41</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -87,8 +98,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>4</td>
-		<td>15</td>
-		<td>+ 11</td>
+		<td>16</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -98,8 +109,8 @@
 		<td>32</td>
 		<td>41</td>
 		<td>50</td>
-		<td>58</td>
-		<td>+ 8</td>
+		<td>60</td>
+		<td>+ 10</td>
 	</tr>
 </table>
 </sub></sup>
@@ -124,8 +135,8 @@
 		<td>63</td>
 		<td>81</td>
 		<td>95</td>
-		<td>106</td>
-		<td>+ 11</td>
+		<td>108</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -135,8 +146,8 @@
 		<td>68</td>
 		<td>81</td>
 		<td>89</td>
-		<td>100</td>
-		<td>+ 11</td>
+		<td>102</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -146,8 +157,8 @@
 		<td>32</td>
 		<td>41</td>
 		<td>50</td>
-		<td>58</td>
-		<td>+ 8</td>
+		<td>60</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -157,8 +168,8 @@
 		<td>12</td>
 		<td>22</td>
 		<td>31</td>
-		<td>39</td>
-		<td>+ 8</td>
+		<td>41</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -168,8 +179,8 @@
 		<td>7</td>
 		<td>15</td>
 		<td>26</td>
-		<td>36</td>
-		<td>+ 10</td>
+		<td>38</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -179,8 +190,8 @@
 		<td>5</td>
 		<td>10</td>
 		<td>21</td>
-		<td>33</td>
-		<td>+ 12</td>
+		<td>35</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -190,8 +201,8 @@
 		<td>7</td>
 		<td>12</td>
 		<td>21</td>
-		<td>29</td>
-		<td>+ 8</td>
+		<td>31</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -201,8 +212,19 @@
 		<td>0</td>
 		<td>0</td>
 		<td>4</td>
-		<td>15</td>
-		<td>+ 11</td>
+		<td>16</td>
+		<td>+ 12</td>
+	</tr>
+	<tr>
+		<td>bunrodeaoutfitter</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>2</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
