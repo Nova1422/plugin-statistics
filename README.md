@@ -87,8 +87,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>4</td>
-		<td>14</td>
-		<td>+ 10</td>
+		<td>15</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -201,8 +201,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>4</td>
-		<td>14</td>
-		<td>+ 10</td>
+		<td>15</td>
+		<td>+ 11</td>
 	</tr>
 </table>
 </sub></sup>
