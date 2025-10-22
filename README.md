@@ -21,8 +21,8 @@
 		<td>7</td>
 		<td>12</td>
 		<td>21</td>
-		<td>22</td>
-		<td>+ 1</td>
+		<td>23</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -32,8 +32,8 @@
 		<td>68</td>
 		<td>81</td>
 		<td>89</td>
-		<td>90</td>
-		<td>+ 1</td>
+		<td>91</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -43,8 +43,8 @@
 		<td>7</td>
 		<td>15</td>
 		<td>26</td>
-		<td>29</td>
-		<td>+ 3</td>
+		<td>30</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -54,8 +54,8 @@
 		<td>63</td>
 		<td>81</td>
 		<td>95</td>
-		<td>98</td>
-		<td>+ 3</td>
+		<td>99</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -65,8 +65,8 @@
 		<td>5</td>
 		<td>10</td>
 		<td>21</td>
-		<td>24</td>
-		<td>+ 3</td>
+		<td>25</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -76,8 +76,8 @@
 		<td>12</td>
 		<td>22</td>
 		<td>31</td>
-		<td>32</td>
-		<td>+ 1</td>
+		<td>33</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -98,8 +98,8 @@
 		<td>32</td>
 		<td>41</td>
 		<td>50</td>
-		<td>51</td>
-		<td>+ 1</td>
+		<td>52</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -124,8 +124,8 @@
 		<td>63</td>
 		<td>81</td>
 		<td>95</td>
-		<td>98</td>
-		<td>+ 3</td>
+		<td>99</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -135,8 +135,8 @@
 		<td>68</td>
 		<td>81</td>
 		<td>89</td>
-		<td>90</td>
-		<td>+ 1</td>
+		<td>91</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -146,8 +146,8 @@
 		<td>32</td>
 		<td>41</td>
 		<td>50</td>
-		<td>51</td>
-		<td>+ 1</td>
+		<td>52</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -157,8 +157,8 @@
 		<td>12</td>
 		<td>22</td>
 		<td>31</td>
-		<td>32</td>
-		<td>+ 1</td>
+		<td>33</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -168,8 +168,8 @@
 		<td>7</td>
 		<td>15</td>
 		<td>26</td>
-		<td>29</td>
-		<td>+ 3</td>
+		<td>30</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -179,8 +179,8 @@
 		<td>5</td>
 		<td>10</td>
 		<td>21</td>
-		<td>24</td>
-		<td>+ 3</td>
+		<td>25</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -190,8 +190,8 @@
 		<td>7</td>
 		<td>12</td>
 		<td>21</td>
-		<td>22</td>
-		<td>+ 1</td>
+		<td>23</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
