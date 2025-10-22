@@ -1,4 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
+v1.0.1-jumpdrive.extended | downloads: 0
 v1.0.1-tributequarg | downloads: 4
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 25
@@ -12,7 +13,7 @@ v1.0.2-capture.archons | downloads: 87
 v1.0.1-capture.archons | downloads: 4
 
 
-# NUMBER OF RELEASES: 12
+# NUMBER OF RELEASES: 13
 # TOTAL DOWNLOADS: 359
 
 
