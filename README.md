@@ -32,8 +32,8 @@
 		<td>68</td>
 		<td>81</td>
 		<td>89</td>
-		<td>98</td>
-		<td>+ 9</td>
+		<td>100</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -135,8 +135,8 @@
 		<td>68</td>
 		<td>81</td>
 		<td>89</td>
-		<td>98</td>
-		<td>+ 9</td>
+		<td>100</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
