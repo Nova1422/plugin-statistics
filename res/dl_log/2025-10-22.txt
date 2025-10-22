@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.3-capture.archons | downloads: 5
+v1.0.3-capture.archons | downloads: 7
 v1.0.2-tributequarg | downloads: 5
 v1.0.1-jumpdrive.extended | downloads: 6
 v1.0.1-tributequarg | downloads: 8
@@ -16,12 +16,12 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 15
-# TOTAL DOWNLOADS: 414
+# TOTAL DOWNLOADS: 416
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 1requiredcrew 29
-capture.archons 98
+capture.archons 100
 capturingpower 36
 jumpdrive.extended 106
 purchase.bactrian 33
