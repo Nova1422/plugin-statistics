@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.2-aberrant.kahet.outfitter | downloads: 2
+v1.0.2-aberrant.kahet.outfitter | downloads: 4
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
 v1.0.3-capture.archons | downloads: 27
 v1.0.2-tributequarg | downloads: 23
@@ -19,12 +19,12 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 18
-# TOTAL DOWNLOADS: 628
+# TOTAL DOWNLOADS: 630
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 1requiredcrew 52
-aberrant.kahet.outfitter 6
+aberrant.kahet.outfitter 8
 bunrodeaoutfitter 18
 capture.archons 123
 capturingpower 62
