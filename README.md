@@ -36,6 +36,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>caberrant.kahet.outfitter</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td></td>
+	</tr>
+	<tr>
 		<td>capture.archons</td>
 		<td>39</td>
 		<td>55</td>
@@ -224,6 +235,17 @@
 		<td>0</td>
 		<td>2</td>
 		<td>2</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>caberrant.kahet.outfitter</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
 		<td></td>
 	</tr>
 </table>
