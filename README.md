@@ -4,25 +4,25 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-10-16</td>
 		<td>2025-10-17</td>
 		<td>2025-10-18</td>
 		<td>2025-10-19</td>
 		<td>2025-10-20</td>
 		<td>2025-10-21</td>
 		<td>2025-10-22</td>
+		<td>2025-10-23</td>
 		<td>today +</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
 		<td>0</td>
 		<td>0</td>
-		<td>0</td>
 		<td>7</td>
 		<td>12</td>
 		<td>21</td>
 		<td>31</td>
-		<td>+ 10</td>
+		<td>32</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -31,64 +31,64 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>0</td>
 		<td>2</td>
-		<td>+ 2</td>
+		<td>2</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
-		<td>39</td>
 		<td>39</td>
 		<td>55</td>
 		<td>68</td>
 		<td>81</td>
 		<td>89</td>
 		<td>102</td>
-		<td>+ 13</td>
+		<td>103</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
-		<td>0</td>
 		<td>0</td>
 		<td>0</td>
 		<td>7</td>
 		<td>15</td>
 		<td>26</td>
 		<td>39</td>
-		<td>+ 13</td>
+		<td>40</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
-		<td>0</td>
 		<td>0</td>
 		<td>48</td>
 		<td>63</td>
 		<td>81</td>
 		<td>95</td>
 		<td>109</td>
-		<td>+ 14</td>
+		<td>110</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
-		<td>0</td>
 		<td>0</td>
 		<td>0</td>
 		<td>5</td>
 		<td>10</td>
 		<td>21</td>
 		<td>35</td>
-		<td>+ 14</td>
+		<td>36</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
-		<td>0</td>
 		<td>0</td>
 		<td>3</td>
 		<td>12</td>
 		<td>22</td>
 		<td>31</td>
 		<td>42</td>
-		<td>+ 11</td>
+		<td>43</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -96,21 +96,21 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>0</td>
 		<td>4</td>
 		<td>16</td>
-		<td>+ 12</td>
+		<td>16</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
-		<td>0</td>
 		<td>0</td>
 		<td>20</td>
 		<td>32</td>
 		<td>41</td>
 		<td>50</td>
 		<td>60</td>
-		<td>+ 10</td>
+		<td>61</td>
+		<td>+ 1</td>
 	</tr>
 </table>
 </sub></sup>
@@ -118,91 +118,91 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-10-16</td>
 		<td>2025-10-17</td>
 		<td>2025-10-18</td>
 		<td>2025-10-19</td>
 		<td>2025-10-20</td>
 		<td>2025-10-21</td>
 		<td>2025-10-22</td>
+		<td>2025-10-23</td>
 		<td>today +</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
-		<td>0</td>
 		<td>0</td>
 		<td>48</td>
 		<td>63</td>
 		<td>81</td>
 		<td>95</td>
 		<td>109</td>
-		<td>+ 14</td>
+		<td>110</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
-		<td>39</td>
 		<td>39</td>
 		<td>55</td>
 		<td>68</td>
 		<td>81</td>
 		<td>89</td>
 		<td>102</td>
-		<td>+ 13</td>
+		<td>103</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
-		<td>0</td>
 		<td>0</td>
 		<td>20</td>
 		<td>32</td>
 		<td>41</td>
 		<td>50</td>
 		<td>60</td>
-		<td>+ 10</td>
+		<td>61</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
-		<td>0</td>
 		<td>0</td>
 		<td>3</td>
 		<td>12</td>
 		<td>22</td>
 		<td>31</td>
 		<td>42</td>
-		<td>+ 11</td>
+		<td>43</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
-		<td>0</td>
 		<td>0</td>
 		<td>0</td>
 		<td>7</td>
 		<td>15</td>
 		<td>26</td>
 		<td>39</td>
-		<td>+ 13</td>
+		<td>40</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
-		<td>0</td>
 		<td>0</td>
 		<td>0</td>
 		<td>5</td>
 		<td>10</td>
 		<td>21</td>
 		<td>35</td>
-		<td>+ 14</td>
+		<td>36</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
-		<td>0</td>
 		<td>0</td>
 		<td>0</td>
 		<td>7</td>
 		<td>12</td>
 		<td>21</td>
 		<td>31</td>
-		<td>+ 10</td>
+		<td>32</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -210,10 +210,10 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>0</td>
 		<td>4</td>
 		<td>16</td>
-		<td>+ 12</td>
+		<td>16</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -222,9 +222,9 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>0</td>
 		<td>2</td>
-		<td>+ 2</td>
+		<td>2</td>
+		<td></td>
 	</tr>
 </table>
 </sub></sup>
