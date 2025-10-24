@@ -147,6 +147,8 @@
 		<td>693</td>
 		<td></td>
 	</tr>
+	<tr style="font-weight:bold;">
+		<td>Total new downloads</td>
 		<td>+ 68</td>
 		<td>+ 68</td>
 		<td>+ 75</td>
