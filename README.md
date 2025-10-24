@@ -123,6 +123,17 @@
 		<td>82</td>
 		<td>+ 3</td>
 	</tr>
+	<tr style="font-weight:bold;">
+		<td>Total new downloads</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>+ 25</td>
+	</tr>
 </table>
 </sub></sup>
 <h6>Plugin download count, sorted by download count</h6><sub><sup><br>
