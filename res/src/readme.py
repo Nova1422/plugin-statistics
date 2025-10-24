@@ -117,59 +117,21 @@ def write_readme():
 				target.writelines('\t\t<td>' + difference + '</td>\n')
 				target.writelines('\t</tr>\n')
 
-		# Add a row for total new downloads per day (including today)
-		daily_totals = []
+		# Add a row for total new downloads
+		total_new_downloads = 0
+		for row in rows7:
+			if row == '' or row.startswith('#') or row == rows7[0]:
+				continue
+			try:
+				total_new_downloads += int(findp(rows7, row.split(' ')[0])) - int(findp(rows6, row.split(' ')[0]))
+			except:
+				pass
 
-		# compute total new downloads between consecutive days
-		all_rows = [rows1, rows2, rows3, rows4, rows5, rows6, rows7]
-		for day in range(1, len(all_rows)):
-			total = 0
-			for row in all_rows[day]:
-				if row == '' or row.startswith('#') or row == all_rows[day][0]:
-					continue
-				try:
-					total += int(findp(all_rows[day], row.split(' ')[0])) - int(findp(all_rows[day-1], row.split(' ')[0]))
-				except:
-					pass
-			daily_totals.append(total)
-
-		# write the totals row
 		target.writelines('\t<tr style="font-weight:bold;">\n')
 		target.writelines('\t\t<td>Total new downloads</td>\n')
-
-		# Add a row for cumulative total downloads per day
-		cumulative_totals = []
-		for day_rows in all_rows:
-			total = 0
-			for row in day_rows:
-				if row == '' or row.startswith('#') or row == day_rows[0]:
-					continue
-				total += int(findp(day_rows, row.split(' ')[0]))
-			cumulative_totals.append(total)
-
-		# write the cumulative totals row
-		target.writelines('\t<tr style="font-weight:bold; background-color:#f0f0f0;">\n')
-		target.writelines('\t\t<td>Total downloads till now</td>\n')
-		for total in cumulative_totals:
-			target.writelines(f'\t\t<td>{total}</td>\n')
-		# empty cell for "today +" column
-		target.writelines('\t\t<td></td>\n')
-		target.writelines('\t</tr>\n')
-
-
-		# print totals for each of the 7 days
-		for total in daily_totals:
-			if total == 0:
-				target.writelines('\t\t<td></td>\n')
-			else:
-				target.writelines(f'\t\t<td>+ {total}</td>\n')
-
-		# repeat the last day's total for the "today +" column
-		if daily_totals:
-			target.writelines(f'\t\t<td>+ {daily_totals[-1]}</td>\n')
-		else:
+		for _ in range(7):
 			target.writelines('\t\t<td></td>\n')
-
+		target.writelines('\t\t<td>+ ' + str(total_new_downloads) + '</td>\n')
 		target.writelines('\t</tr>\n')
 
 		target.writelines('</table>\n</sub></sup>\n')		
