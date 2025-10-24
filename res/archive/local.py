@@ -5,7 +5,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 
 def create_image(countnumber, plugin):
-	iFont = 'DejaVuSans.ttf'
+	iFont = 'arial.ttf'
 	im = PIL.Image.open('pics/new.png')
 	font = ImageFont.truetype(font=iFont, size=12)
 	draw = ImageDraw.Draw(im, 'RGBA')
