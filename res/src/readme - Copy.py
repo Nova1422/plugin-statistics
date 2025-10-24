@@ -157,10 +157,6 @@ def write_readme():
 		target.writelines('\t</tr>\n')
 
 
-		# write the totals row properly
-		target.writelines('\t<tr style="font-weight:bold;">\n')
-		target.writelines('\t\t<td>Total new downloads</td>\n')
-
 		# print totals for each of the 7 days
 		for total in daily_totals:
 			if total == 0:
