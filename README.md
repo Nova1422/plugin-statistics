@@ -87,8 +87,8 @@
 		<td>21</td>
 		<td>35</td>
 		<td>56</td>
-		<td>76</td>
-		<td>+ 20</td>
+		<td>77</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -98,8 +98,8 @@
 		<td>31</td>
 		<td>42</td>
 		<td>65</td>
-		<td>85</td>
-		<td>+ 20</td>
+		<td>86</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -131,29 +131,19 @@
 		<td>50</td>
 		<td>60</td>
 		<td>79</td>
-		<td>97</td>
-		<td>+ 18</td>
+		<td>98</td>
+		<td>+ 19</td>
 	</tr>
 	<tr style="font-weight:bold;">
 		<td>Total new downloads</td>
-	<tr style="font-weight:bold; background-color:#f0f0f0;">
-		<td>Total downloads till now</td>
-		<td>126</td>
-		<td>194</td>
-		<td>262</td>
-		<td>337</td>
-		<td>436</td>
-		<td>630</td>
-		<td>805</td>
 		<td></td>
-	</tr>
-		<td>+ 68</td>
-		<td>+ 68</td>
-		<td>+ 75</td>
-		<td>+ 99</td>
-		<td>+ 194</td>
-		<td>+ 175</td>
-		<td>+ 175</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>+ 178</td>
 	</tr>
 </table>
 </sub></sup>
@@ -200,8 +190,8 @@
 		<td>50</td>
 		<td>60</td>
 		<td>79</td>
-		<td>97</td>
-		<td>+ 18</td>
+		<td>98</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -211,8 +201,8 @@
 		<td>31</td>
 		<td>42</td>
 		<td>65</td>
-		<td>85</td>
-		<td>+ 20</td>
+		<td>86</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -244,8 +234,8 @@
 		<td>21</td>
 		<td>35</td>
 		<td>56</td>
-		<td>76</td>
-		<td>+ 20</td>
+		<td>77</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
