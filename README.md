@@ -54,8 +54,8 @@
 		<td>89</td>
 		<td>102</td>
 		<td>123</td>
-		<td>125</td>
-		<td>+ 2</td>
+		<td>126</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -157,8 +157,8 @@
 		<td>89</td>
 		<td>102</td>
 		<td>123</td>
-		<td>125</td>
-		<td>+ 2</td>
+		<td>126</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
