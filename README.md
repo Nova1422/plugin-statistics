@@ -21,8 +21,8 @@
 		<td>21</td>
 		<td>31</td>
 		<td>52</td>
-		<td>86</td>
-		<td>+ 34</td>
+		<td>87</td>
+		<td>+ 35</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -143,7 +143,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>+ 214</td>
+		<td>+ 215</td>
 	</tr>
 </table>
 </sub></sup>
@@ -205,6 +205,17 @@
 		<td>+ 25</td>
 	</tr>
 	<tr>
+		<td>1requiredcrew</td>
+		<td>0</td>
+		<td>7</td>
+		<td>12</td>
+		<td>21</td>
+		<td>31</td>
+		<td>52</td>
+		<td>87</td>
+		<td>+ 35</td>
+	</tr>
+	<tr>
 		<td>capturingpower</td>
 		<td>0</td>
 		<td>7</td>
@@ -214,17 +225,6 @@
 		<td>62</td>
 		<td>86</td>
 		<td>+ 24</td>
-	</tr>
-	<tr>
-		<td>1requiredcrew</td>
-		<td>0</td>
-		<td>7</td>
-		<td>12</td>
-		<td>21</td>
-		<td>31</td>
-		<td>52</td>
-		<td>86</td>
-		<td>+ 34</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
