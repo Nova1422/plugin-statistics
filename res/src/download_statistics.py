@@ -78,9 +78,9 @@ def get_usercount():
 			print('\t' + timestamp + '|' + str(count) + '|' + str(uniques))
 			dates.append(timestamp + '|' + str(count) + '|' + str(uniques))
 		except:
-			timestamp = 2025-00-00T00:00:00Z|8|4
-			count = "0"
-			uniques = "0"
+			timestamp = '2025-00-00T00:00:00Z'
+			count = 0
+			uniques = 0
 			print('\t' + timestamp + '|' + str(count) + '|' + str(uniques))
 			dates.append(timestamp + '|' + str(count) + '|' + str(uniques))
 	print('comparing with saved:')
