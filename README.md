@@ -136,13 +136,24 @@
 	</tr>
 	<tr style="font-weight:bold;">
 		<td>Total new downloads</td>
+	<tr style="font-weight:bold; background-color:#f0f0f0;">
+		<td>Total downloads till now</td>
+		<td>126</td>
+		<td>194</td>
+		<td>262</td>
+		<td>337</td>
+		<td>436</td>
+		<td>630</td>
+		<td>693</td>
+		<td></td>
+	</tr>
 		<td>+ 68</td>
 		<td>+ 68</td>
 		<td>+ 75</td>
 		<td>+ 99</td>
 		<td>+ 194</td>
 		<td>+ 63</td>
-		<td></td>
+		<td>+ 63</td>
 	</tr>
 </table>
 </sub></sup>
