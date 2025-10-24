@@ -21,8 +21,8 @@
 		<td>21</td>
 		<td>31</td>
 		<td>52</td>
-		<td>88</td>
-		<td>+ 36</td>
+		<td>90</td>
+		<td>+ 38</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>89</td>
 		<td>102</td>
 		<td>123</td>
-		<td>150</td>
-		<td>+ 27</td>
+		<td>152</td>
+		<td>+ 29</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -65,8 +65,8 @@
 		<td>26</td>
 		<td>39</td>
 		<td>62</td>
-		<td>88</td>
-		<td>+ 26</td>
+		<td>90</td>
+		<td>+ 28</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -76,8 +76,8 @@
 		<td>95</td>
 		<td>109</td>
 		<td>134</td>
-		<td>160</td>
-		<td>+ 26</td>
+		<td>162</td>
+		<td>+ 28</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -87,8 +87,8 @@
 		<td>21</td>
 		<td>35</td>
 		<td>56</td>
-		<td>83</td>
-		<td>+ 27</td>
+		<td>85</td>
+		<td>+ 29</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -98,8 +98,8 @@
 		<td>31</td>
 		<td>42</td>
 		<td>65</td>
-		<td>92</td>
-		<td>+ 27</td>
+		<td>94</td>
+		<td>+ 29</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -120,8 +120,8 @@
 		<td>4</td>
 		<td>16</td>
 		<td>33</td>
-		<td>57</td>
-		<td>+ 24</td>
+		<td>59</td>
+		<td>+ 26</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -131,8 +131,8 @@
 		<td>50</td>
 		<td>60</td>
 		<td>79</td>
-		<td>104</td>
-		<td>+ 25</td>
+		<td>106</td>
+		<td>+ 27</td>
 	</tr>
 	<tr style="font-weight:bold;">
 		<td>Total new downloads</td>
@@ -143,7 +143,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>+ 232</td>
+		<td>+ 248</td>
 	</tr>
 </table>
 </sub></sup>
@@ -168,8 +168,8 @@
 		<td>95</td>
 		<td>109</td>
 		<td>134</td>
-		<td>160</td>
-		<td>+ 26</td>
+		<td>162</td>
+		<td>+ 28</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -179,8 +179,8 @@
 		<td>89</td>
 		<td>102</td>
 		<td>123</td>
-		<td>150</td>
-		<td>+ 27</td>
+		<td>152</td>
+		<td>+ 29</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -190,8 +190,8 @@
 		<td>50</td>
 		<td>60</td>
 		<td>79</td>
-		<td>104</td>
-		<td>+ 25</td>
+		<td>106</td>
+		<td>+ 27</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -201,8 +201,8 @@
 		<td>31</td>
 		<td>42</td>
 		<td>65</td>
-		<td>92</td>
-		<td>+ 27</td>
+		<td>94</td>
+		<td>+ 29</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -212,8 +212,8 @@
 		<td>26</td>
 		<td>39</td>
 		<td>62</td>
-		<td>88</td>
-		<td>+ 26</td>
+		<td>90</td>
+		<td>+ 28</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -223,8 +223,8 @@
 		<td>21</td>
 		<td>31</td>
 		<td>52</td>
-		<td>88</td>
-		<td>+ 36</td>
+		<td>90</td>
+		<td>+ 38</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -234,8 +234,8 @@
 		<td>21</td>
 		<td>35</td>
 		<td>56</td>
-		<td>83</td>
-		<td>+ 27</td>
+		<td>85</td>
+		<td>+ 29</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -245,8 +245,8 @@
 		<td>4</td>
 		<td>16</td>
 		<td>33</td>
-		<td>57</td>
-		<td>+ 24</td>
+		<td>59</td>
+		<td>+ 26</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
