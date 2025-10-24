@@ -71,11 +71,18 @@ def get_usercount():
 	data = response.json()
 	print('getting live data from last 2 days:')
 	for i in range(13, len(data['views'])):
-		timestamp = data['views'][i]["timestamp"]
-		count = data['views'][i]["count"]
-		uniques = data['views'][i]["uniques"]
-		print('\t' + timestamp + '|' + str(count) + '|' + str(uniques))
-		dates.append(timestamp + '|' + str(count) + '|' + str(uniques))
+		try:
+			timestamp = data['views'][i]["timestamp"]
+			count = data['views'][i]["count"]
+			uniques = data['views'][i]["uniques"]
+			print('\t' + timestamp + '|' + str(count) + '|' + str(uniques))
+			dates.append(timestamp + '|' + str(count) + '|' + str(uniques))
+		except:
+			timestamp = '2025-00-00T00:00:00Z'
+			count = 0
+			uniques = 0
+			print('\t' + timestamp + '|' + str(count) + '|' + str(uniques))
+			dates.append(timestamp + '|' + str(count) + '|' + str(uniques))
 	print('comparing with saved:')
 	with open('res/usercount.txt', 'r') as source:
 		olddates = source.readlines()
