@@ -33,7 +33,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           force: true
       - name: write readme
-        run: python res/src/write_readme.py
+        run: python res/src/readme.py
       - name: Commit file
         run: |
           git config user.name "script" 

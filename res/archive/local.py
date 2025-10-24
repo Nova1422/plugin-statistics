@@ -117,7 +117,7 @@ def write_readme():
 				target.writelines('\t\t<td>' + difference + '</td>\n')
 				target.writelines('\t</tr>\n')
 
-		# Add a row for total new downloads per day
+		# Add a row for total new downloads per day (including today)
 		daily_totals = []
 
 		# compute total new downloads between consecutive days
@@ -137,12 +137,39 @@ def write_readme():
 		target.writelines('\t<tr style="font-weight:bold;">\n')
 		target.writelines('\t\t<td>Total new downloads</td>\n')
 
-		# print totals for each day (there are 7 days, but only 6 diffs)
-		for total in daily_totals:
-			target.writelines(f'\t\t<td>+ {total}</td>\n')
+		# Add a row for cumulative total downloads per day
+		cumulative_totals = []
+		for day_rows in all_rows:
+			total = 0
+			for row in day_rows:
+				if row == '' or row.startswith('#') or row == day_rows[0]:
+					continue
+				total += int(findp(day_rows, row.split(' ')[0]))
+			cumulative_totals.append(total)
 
-		# pad one more column for the "today +" column
+		# write the cumulative totals row
+		target.writelines('\t<tr style="font-weight:bold; background-color:#f0f0f0;">\n')
+		target.writelines('\t\t<td>Total downloads till now</td>\n')
+		for total in cumulative_totals:
+			target.writelines(f'\t\t<td>{total}</td>\n')
+		# empty cell for "today +" column
 		target.writelines('\t\t<td></td>\n')
+		target.writelines('\t</tr>\n')
+
+
+		# print totals for each of the 7 days
+		for total in daily_totals:
+			if total == 0:
+				target.writelines('\t\t<td></td>\n')
+			else:
+				target.writelines(f'\t\t<td>+ {total}</td>\n')
+
+		# repeat the last day's total for the "today +" column
+		if daily_totals:
+			target.writelines(f'\t\t<td>+ {daily_totals[-1]}</td>\n')
+		else:
+			target.writelines('\t\t<td></td>\n')
+
 		target.writelines('\t</tr>\n')
 
 		target.writelines('</table>\n</sub></sup>\n')		
