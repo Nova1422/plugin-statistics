@@ -1,7 +1,7 @@
 import os
 import PIL
 from PIL import Image, ImageDraw, ImageFont
-
+from datetime import datetime
 
 
 def create_image(countnumber, plugin):
@@ -79,6 +79,8 @@ def write_readme():
 		# split the 7 variable contents to lists
 		target.writelines('<h6>Plugin download count, sorted by name</h6><sub><sup><br>\n')
 		first = True
+		totaldifference = 0
+		totaldownloads = 0
 		for row in rows7:
 			if row == '':
 					continue
@@ -110,69 +112,20 @@ def write_readme():
 				target.writelines('\t\t<td>' + findp(rows7, row.split(' ')[0]) + '</td>\n')
 				create_image(findp(rows7, row.split(' ')[0]) ,row.split(' ')[0])
 				difference = str(int(findp(rows7, row.split(' ')[0])) - int(findp(rows6, row.split(' ')[0])))
+				totaldifference += int(difference)
+				totaldownloads += int(findp(rows7, row.split(' ')[0]))
 				if difference == '0':
 					difference = ''
 				else:
 					difference = '+ ' + difference 
 				target.writelines('\t\t<td>' + difference + '</td>\n')
 				target.writelines('\t</tr>\n')
-
-		# Add a row for total new downloads per day (including today)
-		daily_totals = []
-
-		# compute total new downloads between consecutive days
-		all_rows = [rows1, rows2, rows3, rows4, rows5, rows6, rows7]
-		for day in range(1, len(all_rows)):
-			total = 0
-			for row in all_rows[day]:
-				if row == '' or row.startswith('#') or row == all_rows[day][0]:
-					continue
-				try:
-					total += int(findp(all_rows[day], row.split(' ')[0])) - int(findp(all_rows[day-1], row.split(' ')[0]))
-				except:
-					pass
-			daily_totals.append(total)
-
-		# write the totals row
-		target.writelines('\t<tr style="font-weight:bold;">\n')
-		target.writelines('\t\t<td>Total new downloads</td>\n')
-
-		# Add a row for cumulative total downloads per day
-		cumulative_totals = []
-		for day_rows in all_rows:
-			total = 0
-			for row in day_rows:
-				if row == '' or row.startswith('#') or row == day_rows[0]:
-					continue
-				total += int(findp(day_rows, row.split(' ')[0]))
-			cumulative_totals.append(total)
-
-		# write the cumulative totals row
-		target.writelines('\t<tr style="font-weight:bold; background-color:#f0f0f0;">\n')
-		target.writelines('\t\t<td>Total downloads till now</td>\n')
-		for total in cumulative_totals:
-			target.writelines(f'\t\t<td>{total}</td>\n')
-		# empty cell for "today +" column
-		target.writelines('\t\t<td></td>\n')
-		target.writelines('\t</tr>\n')
-
-
-		# print totals for each of the 7 days
-		for total in daily_totals:
-			if total == 0:
-				target.writelines('\t\t<td></td>\n')
-			else:
-				target.writelines(f'\t\t<td>+ {total}</td>\n')
-
-		# repeat the last day's total for the "today +" column
-		if daily_totals:
-			target.writelines(f'\t\t<td>+ {daily_totals[-1]}</td>\n')
-		else:
-			target.writelines('\t\t<td></td>\n')
-
-		target.writelines('\t</tr>\n')
-
+		create_image(str(totaldownloads), 'total')
+		target.writelines('\t<tr>\n\t\t<td></td>\n\t\t<td></td>\n\t\t<td></td>\n\t\t<td></td>\n\t\t<td></td>\n\t\t<td></td>\n\t\t<td></td>\n')
+		target.writelines('\t\t<td>' + str(totaldownloads) + '</td>\n')
+		target.writelines('\t\t<td>' + str(totaldifference) + '</td>\n\t</tr>\n')
 		target.writelines('</table>\n</sub></sup>\n')		
+
 		# second table, sorted by latest download counts		
 
 		# split the 7 variable contents to lists
@@ -214,10 +167,112 @@ def write_readme():
 				target.writelines('\t\t<td>' + difference + '</td>\n')
 				target.writelines('\t</tr>\n')
 				index += 1
+		target.writelines('\t<tr>\n\t\t<td></td>\n\t\t<td></td>\n\t\t<td></td>\n\t\t<td></td>\n\t\t<td></td>\n\t\t<td></td>\n\t\t<td></td>\n')
+		target.writelines('\t\t<td>' + str(totaldownloads) + '</td>\n')
+		target.writelines('\t\t<td>' + str(totaldifference) + '</td>\n\t</tr>\n')
 		target.writelines('</table>\n</sub></sup>\n')
 		
 
 				
 		 
 		
-write_readme()
+def write_users():
+	def parse(line):
+		date = line.split('|')[0]
+		views = line.split('|')[1]
+		uniques = line.split('|')[2].strip()
+		return date, views, uniques
+	with open('res/usercount.txt', 'r') as source:
+		userdata = source.readlines()
+	# sort for seven days
+	print('CREATE TABLE FOR SEVEN DAYS')
+	sevendays, row1, row2, row3 = [], [], [], []
+	for i in range(len(userdata)-1, len(userdata)-10, -1):
+		sevendays.append(userdata[i].strip())
+	for line in sevendays:
+		date, views, uniques = parse(line)
+		row1.append(date.replace('T00:00:00Z', ''))
+		row2.append(views)
+		row3.append(uniques)
+		print('\t', date, views, uniques)
+	row1.append(' ')
+	row2.append('page views')
+	row3.append('unique visitors')
+	row1.reverse()
+	row2.reverse()
+	row3.reverse()
+	# calculate stats
+	allviews, alluniques, highviews, highuniques = 0, 0, 0, 0
+	firstread = False
+	for line in userdata:
+		date, views, uniques = parse(line)
+		if firstread == False:
+			firstdate = date.replace('T00:00:00Z', '')
+			firstread = True
+		allviews += int(views)
+		alluniques += int(uniques)
+		if int(views) > highviews:
+			highviews = int(views)
+		if int(uniques) > highuniques:
+			highuniques = int(uniques)
+	div = datetime.strptime(datetime.now().strftime('%Y-%m-%d'), '%Y-%m-%d') - datetime.strptime(firstdate, '%Y-%m-%d')
+	div = int(div.days)
+	print(firstdate, allviews, alluniques, highviews, highuniques)
+	# write table
+	with open('README.md', 'a') as target:
+		target.writelines('<h6>Other statistics</h6><sub><sup><br>\n')
+		target.writelines('<table>\n')
+		target.writelines('\t<tr>\n')
+		for each in row1:
+			target.writelines('\t\t<td>' + each + '</td>\n')
+		target.writelines('\t</tr>\n')
+		target.writelines('\t<tr>\n')
+		for each in row2:
+			target.writelines('\t\t<td>' + each + '</td>\n')
+		target.writelines('\t</tr>\n')
+		target.writelines('\t<tr>\n')
+		for each in row3:
+			target.writelines('\t\t<td>' + each + '</td>\n')
+		target.writelines('\t</tr>\n')
+		target.writelines('</table>\n')
+		# write stats
+		target.writelines('<br>\n')
+		target.writelines('<table>\n')
+		target.writelines('\t<tr>\n')
+		target.writelines('\t\t<td>statistics start</td>\n')
+		target.writelines('\t\t<td>all page views</td>\n')
+		target.writelines('\t\t<td>all unique visitors</td>\n')
+		target.writelines('\t\t<td>highest page view</td>\n')
+		target.writelines('\t\t<td>highest unique visitors</td>\n')
+		target.writelines('\t</tr>\n')
+		target.writelines('\t<tr>\n')
+		target.writelines('\t\t<td>' + firstdate + '</td>\n')
+		target.writelines('\t\t<td>' + str(allviews) + '</td>\n')
+		target.writelines('\t\t<td>' + str(alluniques) + '</td>\n')
+		target.writelines('\t\t<td>' + str(highviews) + '</td>\n')
+		target.writelines('\t\t<td>' + str(highuniques) + '</td>\n')
+		target.writelines('\t</tr>\n')
+		target.writelines('\t<tr>\n')
+		target.writelines('\t\t<td>days since start</td>\n')
+		target.writelines('\t\t<td>average daily page views</td>\n')
+		target.writelines('\t\t<td>average daily visitors</td>\n')
+		target.writelines('\t\t<td></td>\n')
+		target.writelines('\t\t<td></td>\n')
+		target.writelines('\t</tr>\n')
+		target.writelines('\t<tr>\n')
+		target.writelines('\t\t<td>' + str(div) + '</td>\n')
+		target.writelines('\t\t<td>' + str('%.2f' % (allviews/div)) + '</td>\n')
+		target.writelines('\t\t<td>' + str('%.2f' % (alluniques/div)) + '</td>\n')
+		target.writelines('\t\t<td></td>\n')
+		target.writelines('\t\t<td></td>\n')
+		target.writelines('\t</tr>\n')
+		target.writelines('</table>\n</sub></sup>\n')
+				
+		 
+def run():
+	write_readme()
+	write_users()
+
+
+if __name__ == "__main__":
+	run()		
