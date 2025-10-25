@@ -1,40 +1,41 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.1-purchase.bactrian | downloads: 4
+v1.0.1-purchase.bactrian | downloads: 8
+v1.0.1-pugoutfitter | downloads: 2
 v1.0.0-pugoutfitter | downloads: 3
-v1.0.0-quargoutfitter | downloads: 10
-v1.0.2-aberrant.kahet.outfitter | downloads: 18
+v1.0.0-quargoutfitter | downloads: 11
+v1.0.2-aberrant.kahet.outfitter | downloads: 22
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
-v1.0.3-capture.archons | downloads: 75
-v1.0.2-tributequarg | downloads: 71
-v1.0.1-jumpdrive.extended | downloads: 77
-v1.0.0-bunrodeaoutfitter | downloads: 33
+v1.0.3-capture.archons | downloads: 77
+v1.0.2-tributequarg | downloads: 73
+v1.0.1-jumpdrive.extended | downloads: 79
+v1.0.0-bunrodeaoutfitter | downloads: 34
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 103
-v1.0.0-capturingpower | downloads: 109
-v1.0.0-1requiredcrew | downloads: 108
-v1.0.1-unlimited.dfc | downloads: 83
-v1.0.0-unlimited.dfc | downloads: 42
-v1.0.0-purchaseable.cloakingdevice | downloads: 115
+v1.0.0-capturingpower | downloads: 111
+v1.0.0-1requiredcrew | downloads: 111
+v1.0.1-unlimited.dfc | downloads: 84
+v1.0.0-unlimited.dfc | downloads: 43
+v1.0.0-purchaseable.cloakingdevice | downloads: 119
 v1.0.0-jumpdrive.extended | downloads: 105
 v1.0.2-capture.archons | downloads: 92
 v1.0.1-capture.archons | downloads: 4
 
 
-# NUMBER OF RELEASES: 21
-# TOTAL DOWNLOADS: 1066
+# NUMBER OF RELEASES: 22
+# TOTAL DOWNLOADS: 1095
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 108
-aberrant.kahet.outfitter 22
-bunrodeaoutfitter 33
-capture.archons 171
-capturingpower 109
-jumpdrive.extended 182
-pugoutfitter 3
-purchase.bactrian 107
-purchaseable.cloakingdevice 115
-quargoutfitter 10
-tributequarg 81
-unlimited.dfc 125
+1requiredcrew 111
+aberrant.kahet.outfitter 26
+bunrodeaoutfitter 34
+capture.archons 173
+capturingpower 111
+jumpdrive.extended 184
+pugoutfitter 5
+purchase.bactrian 111
+purchaseable.cloakingdevice 119
+quargoutfitter 11
+tributequarg 83
+unlimited.dfc 127
