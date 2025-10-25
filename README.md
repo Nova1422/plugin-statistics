@@ -21,8 +21,8 @@
 		<td>31</td>
 		<td>52</td>
 		<td>90</td>
-		<td>95</td>
-		<td>+ 5</td>
+		<td>101</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>0</td>
 		<td>8</td>
 		<td>13</td>
-		<td>15</td>
-		<td>+ 2</td>
+		<td>19</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -43,8 +43,8 @@
 		<td>2</td>
 		<td>18</td>
 		<td>24</td>
-		<td>26</td>
-		<td>+ 2</td>
+		<td>30</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -54,8 +54,8 @@
 		<td>102</td>
 		<td>123</td>
 		<td>152</td>
-		<td>157</td>
-		<td>+ 5</td>
+		<td>162</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -65,8 +65,8 @@
 		<td>39</td>
 		<td>62</td>
 		<td>90</td>
-		<td>95</td>
-		<td>+ 5</td>
+		<td>100</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -76,8 +76,8 @@
 		<td>109</td>
 		<td>134</td>
 		<td>162</td>
-		<td>167</td>
-		<td>+ 5</td>
+		<td>172</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -87,8 +87,8 @@
 		<td>35</td>
 		<td>56</td>
 		<td>85</td>
-		<td>92</td>
-		<td>+ 7</td>
+		<td>97</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -98,8 +98,8 @@
 		<td>42</td>
 		<td>65</td>
 		<td>94</td>
-		<td>101</td>
-		<td>+ 7</td>
+		<td>106</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -109,8 +109,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>3</td>
-		<td>5</td>
-		<td>+ 2</td>
+		<td>7</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -120,8 +120,8 @@
 		<td>16</td>
 		<td>33</td>
 		<td>59</td>
-		<td>66</td>
-		<td>+ 7</td>
+		<td>71</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -131,8 +131,8 @@
 		<td>60</td>
 		<td>79</td>
 		<td>106</td>
-		<td>111</td>
-		<td>+ 5</td>
+		<td>116</td>
+		<td>+ 10</td>
 	</tr>
 	<tr style="font-weight:bold;">
 		<td>Total new downloads</td>
@@ -143,7 +143,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>+ 52</td>
+		<td>+ 103</td>
 	</tr>
 </table>
 </sub></sup>
@@ -168,8 +168,8 @@
 		<td>109</td>
 		<td>134</td>
 		<td>162</td>
-		<td>167</td>
-		<td>+ 5</td>
+		<td>172</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -179,8 +179,8 @@
 		<td>102</td>
 		<td>123</td>
 		<td>152</td>
-		<td>157</td>
-		<td>+ 5</td>
+		<td>162</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -190,8 +190,8 @@
 		<td>60</td>
 		<td>79</td>
 		<td>106</td>
-		<td>111</td>
-		<td>+ 5</td>
+		<td>116</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -201,19 +201,8 @@
 		<td>42</td>
 		<td>65</td>
 		<td>94</td>
-		<td>101</td>
-		<td>+ 7</td>
-	</tr>
-	<tr>
-		<td>capturingpower</td>
-		<td>7</td>
-		<td>15</td>
-		<td>26</td>
-		<td>39</td>
-		<td>62</td>
-		<td>90</td>
-		<td>95</td>
-		<td>+ 5</td>
+		<td>106</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -223,8 +212,19 @@
 		<td>31</td>
 		<td>52</td>
 		<td>90</td>
-		<td>95</td>
-		<td>+ 5</td>
+		<td>101</td>
+		<td>+ 11</td>
+	</tr>
+	<tr>
+		<td>capturingpower</td>
+		<td>7</td>
+		<td>15</td>
+		<td>26</td>
+		<td>39</td>
+		<td>62</td>
+		<td>90</td>
+		<td>100</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -234,8 +234,8 @@
 		<td>35</td>
 		<td>56</td>
 		<td>85</td>
-		<td>92</td>
-		<td>+ 7</td>
+		<td>97</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -245,8 +245,8 @@
 		<td>16</td>
 		<td>33</td>
 		<td>59</td>
-		<td>66</td>
-		<td>+ 7</td>
+		<td>71</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -256,8 +256,8 @@
 		<td>2</td>
 		<td>18</td>
 		<td>24</td>
-		<td>26</td>
-		<td>+ 2</td>
+		<td>30</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -267,8 +267,8 @@
 		<td>0</td>
 		<td>8</td>
 		<td>13</td>
-		<td>15</td>
-		<td>+ 2</td>
+		<td>19</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -278,8 +278,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>3</td>
-		<td>5</td>
-		<td>+ 2</td>
+		<td>7</td>
+		<td>+ 4</td>
 	</tr>
 </table>
 </sub></sup>
