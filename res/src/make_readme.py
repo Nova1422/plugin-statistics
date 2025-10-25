@@ -1,18 +1,18 @@
 import os
 import PIL
 from PIL import Image, ImageDraw, ImageFont
-from datetime import datetime
+from datetime import datetime, timedelta
+
 
 
 def create_image(countnumber, plugin):
-	iFont = 'DejaVuSans.ttf'
-	im = PIL.Image.open('pics/new.png')
-	font = ImageFont.truetype(font=iFont, size=12)
+	im = PIL.Image.open('pics/' + counterbg + '.png')
+	font = ImageFont.truetype(font=iFont, size=60)
 	draw = ImageDraw.Draw(im, 'RGBA')
-	draw.text((5, 2) , 'downloads: ' + countnumber, fill=(255,255,255), font=font)
-	im = im.convert('RGB')
+	draw.text((20, 15) , 'downloads:', fill=(255,255,255), font=font)
+	draw.text((380, 15) ,  countnumber, fill=(255,255,255), font=font)
+	im = im.convert('RGBA')
 	im.save('pics/' + plugin + '.png')
-	#print('created image: ' + countnumber + ' ' + plugin)
 
 
 def findp(list, p):
@@ -32,7 +32,6 @@ def write_readme():
 		logfiles.pop(0)
 	# get the relevant part of the sourcefiles
 	relevant = ['', '', '', '', '', '', '', ]
-	ignorelist = ['pirate.warlords'] # plugins to igmore
 	for i in range(0,7):
 		relevant[i] += logfiles[i] + '\n'
 		with open('res/dl_log/' + logfiles[i], 'r') as sourcefile:
@@ -60,7 +59,7 @@ def write_readme():
 	rows7 = relevant[6].split('\n')
 	# write the readme
 	with open('README.md', 'w') as target:
-		target.writelines('<h6>Plugin download count for https://github.com/Nova1422/plugins</h6><br>\n<br>\n')
+		target.writelines('<h6>Plugin download count for https://github.com/' + repo + '</h6><br>\n<br>\n')
 		# get a nested list, sorted by latest download anount
 		rows7split = [[] for i in range(len(rows7) - 1)]
 		first = True
@@ -79,8 +78,8 @@ def write_readme():
 		# split the 7 variable contents to lists
 		target.writelines('<h6>Plugin download count, sorted by name</h6><sub><sup><br>\n')
 		first = True
-		totaldifference = 0
 		totaldownloads = 0
+		totaldifference = 0
 		for row in rows7:
 			if row == '':
 					continue
@@ -89,13 +88,13 @@ def write_readme():
 				target.writelines('<table>\n')
 				target.writelines('\t<tr>\n')
 				target.writelines('\t\t<td></td>\n')
-				target.writelines('\t\t<td>' + rows1[0].replace('.txt', '').replace('2024-', '') + '</td>\n')
-				target.writelines('\t\t<td>' + rows2[0].replace('.txt', '').replace('2024-', '') + '</td>\n')
-				target.writelines('\t\t<td>' + rows3[0].replace('.txt', '').replace('2024-', '') + '</td>\n')
-				target.writelines('\t\t<td>' + rows4[0].replace('.txt', '').replace('2024-', '')  + '</td>\n')
-				target.writelines('\t\t<td>' + rows5[0].replace('.txt', '').replace('2024-', '')  + '</td>\n')
-				target.writelines('\t\t<td>' + rows6[0].replace('.txt', '').replace('2024-', '')  + '</td>\n')
-				target.writelines('\t\t<td>' + rows7[0].replace('.txt', '').replace('2024-', '')  + '</td>\n')
+				target.writelines('\t\t<td>' + rows1[0].replace('.txt', '') + '</td>\n')
+				target.writelines('\t\t<td>' + rows2[0].replace('.txt', '') + '</td>\n')
+				target.writelines('\t\t<td>' + rows3[0].replace('.txt', '') + '</td>\n')
+				target.writelines('\t\t<td>' + rows4[0].replace('.txt', '') + '</td>\n')
+				target.writelines('\t\t<td>' + rows5[0].replace('.txt', '') + '</td>\n')
+				target.writelines('\t\t<td>' + rows6[0].replace('.txt', '') + '</td>\n')
+				target.writelines('\t\t<td>' + rows7[0].replace('.txt', '') + '</td>\n')
 				target.writelines('\t\t<td>today +</td>\n')
 				target.writelines('\t</tr>\n')
 				first = False
@@ -112,8 +111,8 @@ def write_readme():
 				target.writelines('\t\t<td>' + findp(rows7, row.split(' ')[0]) + '</td>\n')
 				create_image(findp(rows7, row.split(' ')[0]) ,row.split(' ')[0])
 				difference = str(int(findp(rows7, row.split(' ')[0])) - int(findp(rows6, row.split(' ')[0])))
-				totaldifference += int(difference)
 				totaldownloads += int(findp(rows7, row.split(' ')[0]))
+				totaldifference += int(difference)
 				if difference == '0':
 					difference = ''
 				else:
@@ -125,9 +124,7 @@ def write_readme():
 		target.writelines('\t\t<td>' + str(totaldownloads) + '</td>\n')
 		target.writelines('\t\t<td>' + str(totaldifference) + '</td>\n\t</tr>\n')
 		target.writelines('</table>\n</sub></sup>\n')		
-
 		# second table, sorted by latest download counts		
-
 		# split the 7 variable contents to lists
 		target.writelines('<h6>Plugin download count, sorted by download count</h6><sub><sup><br>\n')
 		first = True
@@ -138,13 +135,13 @@ def write_readme():
 				target.writelines('<table>\n')
 				target.writelines('\t<tr>\n')
 				target.writelines('\t\t<td></td>\n')
-				target.writelines('\t\t<td>' + rows1[0].replace('.txt', '').replace('2024-', '') + '</td>\n')
-				target.writelines('\t\t<td>' + rows2[0].replace('.txt', '').replace('2024-', '') + '</td>\n')
-				target.writelines('\t\t<td>' + rows3[0].replace('.txt', '').replace('2024-', '') + '</td>\n')
-				target.writelines('\t\t<td>' + rows4[0].replace('.txt', '').replace('2024-', '')  + '</td>\n')
-				target.writelines('\t\t<td>' + rows5[0].replace('.txt', '').replace('2024-', '')  + '</td>\n')
-				target.writelines('\t\t<td>' + rows6[0].replace('.txt', '').replace('2024-', '')  + '</td>\n')
-				target.writelines('\t\t<td>' + rows7[0].replace('.txt', '').replace('2024-', '')  + '</td>\n')
+				target.writelines('\t\t<td>' + rows1[0].replace('.txt', '') + '</td>\n')
+				target.writelines('\t\t<td>' + rows2[0].replace('.txt', '') + '</td>\n')
+				target.writelines('\t\t<td>' + rows3[0].replace('.txt', '') + '</td>\n')
+				target.writelines('\t\t<td>' + rows4[0].replace('.txt', '') + '</td>\n')
+				target.writelines('\t\t<td>' + rows5[0].replace('.txt', '') + '</td>\n')
+				target.writelines('\t\t<td>' + rows6[0].replace('.txt', '') + '</td>\n')
+				target.writelines('\t\t<td>' + rows7[0].replace('.txt', '') + '</td>\n')
 				target.writelines('\t\t<td>today +</td>\n')
 				target.writelines('\t</tr>\n')
 				first = False
@@ -171,10 +168,7 @@ def write_readme():
 		target.writelines('\t\t<td>' + str(totaldownloads) + '</td>\n')
 		target.writelines('\t\t<td>' + str(totaldifference) + '</td>\n\t</tr>\n')
 		target.writelines('</table>\n</sub></sup>\n')
-		
 
-				
-		 
 		
 def write_users():
 	def parse(line):
@@ -184,6 +178,7 @@ def write_users():
 		return date, views, uniques
 	with open('res/usercount.txt', 'r') as source:
 		userdata = source.readlines()
+		# 2025-10-18T00:00:00Z|0|0
 	# sort for seven days
 	print('CREATE TABLE FOR SEVEN DAYS')
 	sevendays, row1, row2, row3 = [], [], [], []
@@ -270,6 +265,20 @@ def write_users():
 				
 		 
 def run():
+	global iFont, repo, counterbg, ignorelist
+	iFont = 'DejaVuSans.ttf'
+	ignorelist = ['pirate.warlords', 'unique.fix', 'real.fluff', 'devil-run.unhidden', 'free.worlds.5.years.later',
+				  'planet.pluto', 'additional.command.buttons', 'avgi.licenses', 'navy.licenses', 'landing.images.android']
+	if os.getcwd() == '/storage/emulated/0/Download/mgit/statistics/res/src': # check for local android testing
+		os.chdir('../../')
+		iFont = '/system/fonts/Roboto-Regular.ttf' # android font
+	with open('res/config.txt', 'r') as s:
+		lines = s.readlines()
+	for line in lines:
+		if line.startswith('repo :'):
+			repo = line[7:].strip()
+		elif line.startswith('counterbg : '):
+			counterbg = line[12:].strip()
 	write_readme()
 	write_users()
 
