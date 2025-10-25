@@ -1,6 +1,6 @@
 name: (scheduled) download statistics
 env:
-  TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  github_token: ${{ secrets.GITHUB_TOKEN }}
   CUR_REPO: ${{ github.repository }}
 on: 
   schedule: 
@@ -19,9 +19,7 @@ jobs:
       - name: install libs
         run: |
           python3 -m pip install Pillow
-      - name: write statistics
-        env:
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: write statistics file
         run: python res/src/download_statistics.py
       - name: Commit file
         run: |
@@ -32,18 +30,18 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           force: true
-      - name: write statistics
-        run: python res/src/make_readme.py
+      - name: write readme
+        run: python res/src/readme.py
       - name: Commit file
         run: |
           git config user.name "script" 
           git config user.email "<>"
           git add .
-          git commit -m "dl log written" || true
+          git commit -m "README written" || true
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           force: true

@@ -2,7 +2,7 @@ name: (manual) write readme
 on: 
   workflow_dispatch:
 env:
-  TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  github_token: ${{ secrets.GITHUB_TOKEN }}
   CUR_REPO: ${{ github.repository }}
 jobs:
   First:
@@ -16,8 +16,8 @@ jobs:
       - name: install libs
         run: |
           python3 -m pip install Pillow
-      - name: write readme
-        run: python res/src/make_readme.py
+      - name: write statistics
+        run: python res/src/readme.py
       - name: Commit file
         run: |
           git config user.name "script" 
@@ -27,5 +27,5 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           force: true
