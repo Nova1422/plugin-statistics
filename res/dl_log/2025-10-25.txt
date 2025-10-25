@@ -1,41 +1,41 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.1-purchase.bactrian | downloads: 15
+v1.0.1-purchase.bactrian | downloads: 17
 v1.0.1-pugoutfitter | downloads: 2
 v1.0.0-pugoutfitter | downloads: 3
-v1.0.0-quargoutfitter | downloads: 12
-v1.0.2-aberrant.kahet.outfitter | downloads: 23
+v1.0.0-quargoutfitter | downloads: 14
+v1.0.2-aberrant.kahet.outfitter | downloads: 25
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
-v1.0.3-capture.archons | downloads: 88
-v1.0.2-tributequarg | downloads: 83
-v1.0.1-jumpdrive.extended | downloads: 90
-v1.0.0-bunrodeaoutfitter | downloads: 35
+v1.0.3-capture.archons | downloads: 90
+v1.0.2-tributequarg | downloads: 86
+v1.0.1-jumpdrive.extended | downloads: 92
+v1.0.0-bunrodeaoutfitter | downloads: 37
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 109
-v1.0.0-capturingpower | downloads: 127
-v1.0.0-1requiredcrew | downloads: 121
-v1.0.1-unlimited.dfc | downloads: 95
+v1.0.0-capturingpower | downloads: 129
+v1.0.0-1requiredcrew | downloads: 123
+v1.0.1-unlimited.dfc | downloads: 97
 v1.0.0-unlimited.dfc | downloads: 43
-v1.0.0-purchaseable.cloakingdevice | downloads: 130
+v1.0.0-purchaseable.cloakingdevice | downloads: 132
 v1.0.0-jumpdrive.extended | downloads: 105
 v1.0.2-capture.archons | downloads: 92
 v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 22
-# TOTAL DOWNLOADS: 1191
+# TOTAL DOWNLOADS: 1214
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 121
-aberrant.kahet.outfitter 27
-bunrodeaoutfitter 35
-capture.archons 184
-capturingpower 127
-jumpdrive.extended 195
+1requiredcrew 123
+aberrant.kahet.outfitter 29
+bunrodeaoutfitter 37
+capture.archons 186
+capturingpower 129
+jumpdrive.extended 197
 pugoutfitter 5
-purchase.bactrian 124
-purchaseable.cloakingdevice 130
-quargoutfitter 12
-tributequarg 93
-unlimited.dfc 138
+purchase.bactrian 126
+purchaseable.cloakingdevice 132
+quargoutfitter 14
+tributequarg 96
+unlimited.dfc 140
