@@ -1,43 +1,43 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.0-gainpiraterep | downloads: 2
-v1.0.1-purchase.bactrian | downloads: 62
+v1.0.1-purchase.bactrian | downloads: 64
 v1.0.1-pugoutfitter | downloads: 8
 v1.0.0-pugoutfitter | downloads: 3
-v1.0.0-quargoutfitter | downloads: 58
-v1.0.2-aberrant.kahet.outfitter | downloads: 70
+v1.0.0-quargoutfitter | downloads: 60
+v1.0.2-aberrant.kahet.outfitter | downloads: 72
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
-v1.0.3-capture.archons | downloads: 135
-v1.0.2-tributequarg | downloads: 130
-v1.0.1-jumpdrive.extended | downloads: 134
-v1.0.0-bunrodeaoutfitter | downloads: 86
+v1.0.3-capture.archons | downloads: 137
+v1.0.2-tributequarg | downloads: 132
+v1.0.1-jumpdrive.extended | downloads: 136
+v1.0.0-bunrodeaoutfitter | downloads: 88
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 109
-v1.0.0-capturingpower | downloads: 176
-v1.0.0-1requiredcrew | downloads: 166
-v1.0.1-unlimited.dfc | downloads: 135
+v1.0.0-capturingpower | downloads: 178
+v1.0.0-1requiredcrew | downloads: 168
+v1.0.1-unlimited.dfc | downloads: 137
 v1.0.0-unlimited.dfc | downloads: 47
-v1.0.0-purchaseable.cloakingdevice | downloads: 179
+v1.0.0-purchaseable.cloakingdevice | downloads: 181
 v1.0.0-jumpdrive.extended | downloads: 105
 v1.0.2-capture.archons | downloads: 92
 v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 23
-# TOTAL DOWNLOADS: 1715
+# TOTAL DOWNLOADS: 1737
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 166
-aberrant.kahet.outfitter 74
-bunrodeaoutfitter 86
-capture.archons 231
-capturingpower 176
+1requiredcrew 168
+aberrant.kahet.outfitter 76
+bunrodeaoutfitter 88
+capture.archons 233
+capturingpower 178
 gainpiraterep 2
-jumpdrive.extended 239
+jumpdrive.extended 241
 pugoutfitter 11
-purchase.bactrian 171
-purchaseable.cloakingdevice 179
-quargoutfitter 58
-tributequarg 140
-unlimited.dfc 182
+purchase.bactrian 173
+purchaseable.cloakingdevice 181
+quargoutfitter 60
+tributequarg 142
+unlimited.dfc 184
