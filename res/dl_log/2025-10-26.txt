@@ -1,41 +1,41 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.1-purchase.bactrian | downloads: 45
-v1.0.1-pugoutfitter | downloads: 3
+v1.0.1-purchase.bactrian | downloads: 47
+v1.0.1-pugoutfitter | downloads: 5
 v1.0.0-pugoutfitter | downloads: 3
-v1.0.0-quargoutfitter | downloads: 42
-v1.0.2-aberrant.kahet.outfitter | downloads: 52
+v1.0.0-quargoutfitter | downloads: 44
+v1.0.2-aberrant.kahet.outfitter | downloads: 54
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
-v1.0.3-capture.archons | downloads: 116
-v1.0.2-tributequarg | downloads: 114
-v1.0.1-jumpdrive.extended | downloads: 118
-v1.0.0-bunrodeaoutfitter | downloads: 66
+v1.0.3-capture.archons | downloads: 118
+v1.0.2-tributequarg | downloads: 116
+v1.0.1-jumpdrive.extended | downloads: 120
+v1.0.0-bunrodeaoutfitter | downloads: 68
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 109
-v1.0.0-capturingpower | downloads: 156
-v1.0.0-1requiredcrew | downloads: 150
-v1.0.1-unlimited.dfc | downloads: 122
+v1.0.0-capturingpower | downloads: 158
+v1.0.0-1requiredcrew | downloads: 152
+v1.0.1-unlimited.dfc | downloads: 124
 v1.0.0-unlimited.dfc | downloads: 44
-v1.0.0-purchaseable.cloakingdevice | downloads: 159
+v1.0.0-purchaseable.cloakingdevice | downloads: 161
 v1.0.0-jumpdrive.extended | downloads: 105
 v1.0.2-capture.archons | downloads: 92
 v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 22
-# TOTAL DOWNLOADS: 1514
+# TOTAL DOWNLOADS: 1538
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 150
-aberrant.kahet.outfitter 56
-bunrodeaoutfitter 66
-capture.archons 212
-capturingpower 156
-jumpdrive.extended 223
-pugoutfitter 6
-purchase.bactrian 154
-purchaseable.cloakingdevice 159
-quargoutfitter 42
-tributequarg 124
-unlimited.dfc 166
+1requiredcrew 152
+aberrant.kahet.outfitter 58
+bunrodeaoutfitter 68
+capture.archons 214
+capturingpower 158
+jumpdrive.extended 225
+pugoutfitter 8
+purchase.bactrian 156
+purchaseable.cloakingdevice 161
+quargoutfitter 44
+tributequarg 126
+unlimited.dfc 168
