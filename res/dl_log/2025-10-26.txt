@@ -1,41 +1,43 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.1-purchase.bactrian | downloads: 55
-v1.0.1-pugoutfitter | downloads: 7
+v1.0.0-gainpiraterep | downloads: 2
+v1.0.1-purchase.bactrian | downloads: 58
+v1.0.1-pugoutfitter | downloads: 8
 v1.0.0-pugoutfitter | downloads: 3
-v1.0.0-quargoutfitter | downloads: 51
-v1.0.2-aberrant.kahet.outfitter | downloads: 62
+v1.0.0-quargoutfitter | downloads: 54
+v1.0.2-aberrant.kahet.outfitter | downloads: 65
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
-v1.0.3-capture.archons | downloads: 128
-v1.0.2-tributequarg | downloads: 123
-v1.0.1-jumpdrive.extended | downloads: 127
-v1.0.0-bunrodeaoutfitter | downloads: 76
+v1.0.3-capture.archons | downloads: 131
+v1.0.2-tributequarg | downloads: 126
+v1.0.1-jumpdrive.extended | downloads: 130
+v1.0.0-bunrodeaoutfitter | downloads: 79
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 109
-v1.0.0-capturingpower | downloads: 165
-v1.0.0-1requiredcrew | downloads: 159
-v1.0.1-unlimited.dfc | downloads: 129
-v1.0.0-unlimited.dfc | downloads: 46
-v1.0.0-purchaseable.cloakingdevice | downloads: 168
+v1.0.0-capturingpower | downloads: 168
+v1.0.0-1requiredcrew | downloads: 162
+v1.0.1-unlimited.dfc | downloads: 131
+v1.0.0-unlimited.dfc | downloads: 47
+v1.0.0-purchaseable.cloakingdevice | downloads: 171
 v1.0.0-jumpdrive.extended | downloads: 105
 v1.0.2-capture.archons | downloads: 92
 v1.0.1-capture.archons | downloads: 4
 
 
-# NUMBER OF RELEASES: 22
-# TOTAL DOWNLOADS: 1623
+# NUMBER OF RELEASES: 23
+# TOTAL DOWNLOADS: 1659
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 159
-aberrant.kahet.outfitter 66
-bunrodeaoutfitter 76
-capture.archons 224
-capturingpower 165
-jumpdrive.extended 232
-pugoutfitter 10
-purchase.bactrian 164
-purchaseable.cloakingdevice 168
-quargoutfitter 51
-tributequarg 133
-unlimited.dfc 175
+1requiredcrew 162
+aberrant.kahet.outfitter 69
+bunrodeaoutfitter 79
+capture.archons 227
+capturingpower 168
+gainpiraterep 2
+jumpdrive.extended 235
+pugoutfitter 11
+purchase.bactrian 167
+purchaseable.cloakingdevice 171
+quargoutfitter 54
+tributequarg 136
+unlimited.dfc 178
