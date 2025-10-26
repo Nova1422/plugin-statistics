@@ -21,8 +21,8 @@
 		<td>52</td>
 		<td>90</td>
 		<td>132</td>
-		<td>164</td>
-		<td>+ 32</td>
+		<td>166</td>
+		<td>+ 34</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>8</td>
 		<td>13</td>
 		<td>38</td>
-		<td>72</td>
-		<td>+ 34</td>
+		<td>74</td>
+		<td>+ 36</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -43,8 +43,8 @@
 		<td>18</td>
 		<td>24</td>
 		<td>46</td>
-		<td>84</td>
-		<td>+ 38</td>
+		<td>86</td>
+		<td>+ 40</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -54,8 +54,8 @@
 		<td>123</td>
 		<td>152</td>
 		<td>195</td>
-		<td>229</td>
-		<td>+ 34</td>
+		<td>231</td>
+		<td>+ 36</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -65,8 +65,8 @@
 		<td>62</td>
 		<td>90</td>
 		<td>138</td>
-		<td>174</td>
-		<td>+ 36</td>
+		<td>176</td>
+		<td>+ 38</td>
 	</tr>
 	<tr>
 		<td>gainpiraterep</td>
@@ -87,8 +87,8 @@
 		<td>134</td>
 		<td>162</td>
 		<td>206</td>
-		<td>237</td>
-		<td>+ 31</td>
+		<td>239</td>
+		<td>+ 33</td>
 	</tr>
 	<tr>
 		<td>pugoutfitter</td>
@@ -109,8 +109,8 @@
 		<td>56</td>
 		<td>85</td>
 		<td>137</td>
-		<td>169</td>
-		<td>+ 32</td>
+		<td>171</td>
+		<td>+ 34</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -120,8 +120,8 @@
 		<td>65</td>
 		<td>94</td>
 		<td>141</td>
-		<td>177</td>
-		<td>+ 36</td>
+		<td>179</td>
+		<td>+ 38</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -131,8 +131,8 @@
 		<td>0</td>
 		<td>3</td>
 		<td>23</td>
-		<td>56</td>
-		<td>+ 33</td>
+		<td>58</td>
+		<td>+ 35</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -142,8 +142,8 @@
 		<td>33</td>
 		<td>59</td>
 		<td>105</td>
-		<td>138</td>
-		<td>+ 33</td>
+		<td>140</td>
+		<td>+ 35</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -153,8 +153,8 @@
 		<td>79</td>
 		<td>106</td>
 		<td>149</td>
-		<td>180</td>
-		<td>+ 31</td>
+		<td>182</td>
+		<td>+ 33</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -164,8 +164,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>1693</td>
-		<td>377</td>
+		<td>1715</td>
+		<td>399</td>
 	</tr>
 </table>
 </sub></sup>
@@ -190,8 +190,8 @@
 		<td>134</td>
 		<td>162</td>
 		<td>206</td>
-		<td>237</td>
-		<td>+ 31</td>
+		<td>239</td>
+		<td>+ 33</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -201,8 +201,8 @@
 		<td>123</td>
 		<td>152</td>
 		<td>195</td>
-		<td>229</td>
-		<td>+ 34</td>
+		<td>231</td>
+		<td>+ 36</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -212,8 +212,8 @@
 		<td>79</td>
 		<td>106</td>
 		<td>149</td>
-		<td>180</td>
-		<td>+ 31</td>
+		<td>182</td>
+		<td>+ 33</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -223,8 +223,8 @@
 		<td>65</td>
 		<td>94</td>
 		<td>141</td>
-		<td>177</td>
-		<td>+ 36</td>
+		<td>179</td>
+		<td>+ 38</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -234,8 +234,8 @@
 		<td>62</td>
 		<td>90</td>
 		<td>138</td>
-		<td>174</td>
-		<td>+ 36</td>
+		<td>176</td>
+		<td>+ 38</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -245,8 +245,8 @@
 		<td>56</td>
 		<td>85</td>
 		<td>137</td>
-		<td>169</td>
-		<td>+ 32</td>
+		<td>171</td>
+		<td>+ 34</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -256,8 +256,8 @@
 		<td>52</td>
 		<td>90</td>
 		<td>132</td>
-		<td>164</td>
-		<td>+ 32</td>
+		<td>166</td>
+		<td>+ 34</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -267,8 +267,8 @@
 		<td>33</td>
 		<td>59</td>
 		<td>105</td>
-		<td>138</td>
-		<td>+ 33</td>
+		<td>140</td>
+		<td>+ 35</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -278,8 +278,8 @@
 		<td>18</td>
 		<td>24</td>
 		<td>46</td>
-		<td>84</td>
-		<td>+ 38</td>
+		<td>86</td>
+		<td>+ 40</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -289,8 +289,8 @@
 		<td>8</td>
 		<td>13</td>
 		<td>38</td>
-		<td>72</td>
-		<td>+ 34</td>
+		<td>74</td>
+		<td>+ 36</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -300,8 +300,8 @@
 		<td>0</td>
 		<td>3</td>
 		<td>23</td>
-		<td>56</td>
-		<td>+ 33</td>
+		<td>58</td>
+		<td>+ 35</td>
 	</tr>
 	<tr>
 		<td>pugoutfitter</td>
@@ -333,8 +333,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>1693</td>
-		<td>377</td>
+		<td>1715</td>
+		<td>399</td>
 	</tr>
 </table>
 </sub></sup>
