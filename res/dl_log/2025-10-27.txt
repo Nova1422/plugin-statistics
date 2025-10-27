@@ -1,43 +1,43 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.0-gainpiraterep | downloads: 2
-v1.0.1-purchase.bactrian | downloads: 68
+v1.0.1-purchase.bactrian | downloads: 70
 v1.0.1-pugoutfitter | downloads: 8
 v1.0.0-pugoutfitter | downloads: 3
-v1.0.0-quargoutfitter | downloads: 64
-v1.0.2-aberrant.kahet.outfitter | downloads: 78
+v1.0.0-quargoutfitter | downloads: 66
+v1.0.2-aberrant.kahet.outfitter | downloads: 80
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
-v1.0.3-capture.archons | downloads: 141
-v1.0.2-tributequarg | downloads: 136
-v1.0.1-jumpdrive.extended | downloads: 140
-v1.0.0-bunrodeaoutfitter | downloads: 92
+v1.0.3-capture.archons | downloads: 143
+v1.0.2-tributequarg | downloads: 138
+v1.0.1-jumpdrive.extended | downloads: 142
+v1.0.0-bunrodeaoutfitter | downloads: 94
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 109
-v1.0.0-capturingpower | downloads: 182
-v1.0.0-1requiredcrew | downloads: 172
-v1.0.1-unlimited.dfc | downloads: 141
+v1.0.0-capturingpower | downloads: 184
+v1.0.0-1requiredcrew | downloads: 174
+v1.0.1-unlimited.dfc | downloads: 143
 v1.0.0-unlimited.dfc | downloads: 47
-v1.0.0-purchaseable.cloakingdevice | downloads: 185
+v1.0.0-purchaseable.cloakingdevice | downloads: 187
 v1.0.0-jumpdrive.extended | downloads: 105
 v1.0.2-capture.archons | downloads: 92
 v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 23
-# TOTAL DOWNLOADS: 1783
+# TOTAL DOWNLOADS: 1805
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 172
-aberrant.kahet.outfitter 82
-bunrodeaoutfitter 92
-capture.archons 237
-capturingpower 182
+1requiredcrew 174
+aberrant.kahet.outfitter 84
+bunrodeaoutfitter 94
+capture.archons 239
+capturingpower 184
 gainpiraterep 2
-jumpdrive.extended 245
+jumpdrive.extended 247
 pugoutfitter 11
-purchase.bactrian 177
-purchaseable.cloakingdevice 185
-quargoutfitter 64
-tributequarg 146
-unlimited.dfc 188
+purchase.bactrian 179
+purchaseable.cloakingdevice 187
+quargoutfitter 66
+tributequarg 148
+unlimited.dfc 190
