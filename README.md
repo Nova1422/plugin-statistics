@@ -32,8 +32,8 @@
 		<td>13</td>
 		<td>38</td>
 		<td>76</td>
-		<td>115</td>
-		<td>+ 39</td>
+		<td>116</td>
+		<td>+ 40</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -87,8 +87,8 @@
 		<td>162</td>
 		<td>206</td>
 		<td>241</td>
-		<td>277</td>
-		<td>+ 36</td>
+		<td>278</td>
+		<td>+ 37</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -142,8 +142,8 @@
 		<td>3</td>
 		<td>23</td>
 		<td>60</td>
-		<td>98</td>
-		<td>+ 38</td>
+		<td>99</td>
+		<td>+ 39</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -164,8 +164,8 @@
 		<td>106</td>
 		<td>149</td>
 		<td>184</td>
-		<td>218</td>
-		<td>+ 34</td>
+		<td>219</td>
+		<td>+ 35</td>
 	</tr>
 	<tr>
 		<td>unlimited.embertear</td>
@@ -186,8 +186,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>2163</td>
-		<td>426</td>
+		<td>2167</td>
+		<td>430</td>
 	</tr>
 </table>
 </sub></sup>
@@ -212,8 +212,8 @@
 		<td>162</td>
 		<td>206</td>
 		<td>241</td>
-		<td>277</td>
-		<td>+ 36</td>
+		<td>278</td>
+		<td>+ 37</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -234,8 +234,8 @@
 		<td>106</td>
 		<td>149</td>
 		<td>184</td>
-		<td>218</td>
-		<td>+ 34</td>
+		<td>219</td>
+		<td>+ 35</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -311,8 +311,8 @@
 		<td>13</td>
 		<td>38</td>
 		<td>76</td>
-		<td>115</td>
-		<td>+ 39</td>
+		<td>116</td>
+		<td>+ 40</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -322,8 +322,8 @@
 		<td>3</td>
 		<td>23</td>
 		<td>60</td>
-		<td>98</td>
-		<td>+ 38</td>
+		<td>99</td>
+		<td>+ 39</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -377,8 +377,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>2163</td>
-		<td>426</td>
+		<td>2167</td>
+		<td>430</td>
 	</tr>
 </table>
 </sub></sup>
