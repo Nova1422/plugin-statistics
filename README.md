@@ -21,8 +21,8 @@
 		<td>90</td>
 		<td>132</td>
 		<td>168</td>
-		<td>196</td>
-		<td>+ 28</td>
+		<td>197</td>
+		<td>+ 29</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>13</td>
 		<td>38</td>
 		<td>76</td>
-		<td>108</td>
-		<td>+ 32</td>
+		<td>109</td>
+		<td>+ 33</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -175,8 +175,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>2074</td>
-		<td>337</td>
+		<td>2076</td>
+		<td>339</td>
 	</tr>
 </table>
 </sub></sup>
@@ -267,8 +267,8 @@
 		<td>90</td>
 		<td>132</td>
 		<td>168</td>
-		<td>196</td>
-		<td>+ 28</td>
+		<td>197</td>
+		<td>+ 29</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -300,8 +300,8 @@
 		<td>13</td>
 		<td>38</td>
 		<td>76</td>
-		<td>108</td>
-		<td>+ 32</td>
+		<td>109</td>
+		<td>+ 33</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -355,8 +355,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>2074</td>
-		<td>337</td>
+		<td>2076</td>
+		<td>339</td>
 	</tr>
 </table>
 </sub></sup>
