@@ -76,8 +76,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>2</td>
-		<td>5</td>
-		<td>+ 3</td>
+		<td>7</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -98,8 +98,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>3</td>
-		<td>+ 3</td>
+		<td>4</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>pugoutfitter</td>
@@ -109,8 +109,8 @@
 		<td>0</td>
 		<td>6</td>
 		<td>11</td>
-		<td>14</td>
-		<td>+ 3</td>
+		<td>15</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -153,8 +153,8 @@
 		<td>59</td>
 		<td>105</td>
 		<td>142</td>
-		<td>160</td>
-		<td>+ 18</td>
+		<td>161</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -164,8 +164,8 @@
 		<td>106</td>
 		<td>149</td>
 		<td>184</td>
-		<td>202</td>
-		<td>+ 18</td>
+		<td>203</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -175,8 +175,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>1956</td>
-		<td>219</td>
+		<td>1962</td>
+		<td>225</td>
 	</tr>
 </table>
 </sub></sup>
@@ -223,8 +223,8 @@
 		<td>106</td>
 		<td>149</td>
 		<td>184</td>
-		<td>202</td>
-		<td>+ 18</td>
+		<td>203</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -278,8 +278,8 @@
 		<td>59</td>
 		<td>105</td>
 		<td>142</td>
-		<td>160</td>
-		<td>+ 18</td>
+		<td>161</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -322,8 +322,8 @@
 		<td>0</td>
 		<td>6</td>
 		<td>11</td>
-		<td>14</td>
-		<td>+ 3</td>
+		<td>15</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gainpiraterep</td>
@@ -333,8 +333,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>2</td>
-		<td>5</td>
-		<td>+ 3</td>
+		<td>7</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -344,8 +344,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>3</td>
-		<td>+ 3</td>
+		<td>4</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -355,8 +355,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>1956</td>
-		<td>219</td>
+		<td>1962</td>
+		<td>225</td>
 	</tr>
 </table>
 </sub></sup>
