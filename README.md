@@ -1,4 +1,4 @@
-<h6>Plugin download count for Nova1422/plugins</h6><br>
+<h6>Plugin download count for [Nova1422/plugins](https://github.com/Nova1422/plugins)</h6><br>
 <br>
 <h6>Plugin download count, sorted by name</h6><sub><sup><br>
 <table>
