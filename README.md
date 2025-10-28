@@ -87,8 +87,8 @@
 		<td>206</td>
 		<td>241</td>
 		<td>279</td>
-		<td>301</td>
-		<td>+ 22</td>
+		<td>303</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -98,8 +98,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>20</td>
-		<td>36</td>
-		<td>+ 16</td>
+		<td>38</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>pugoutfitter</td>
@@ -186,8 +186,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>2382</td>
-		<td>198</td>
+		<td>2386</td>
+		<td>202</td>
 	</tr>
 </table>
 </sub></sup>
@@ -212,8 +212,8 @@
 		<td>206</td>
 		<td>241</td>
 		<td>279</td>
-		<td>301</td>
-		<td>+ 22</td>
+		<td>303</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -333,8 +333,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>20</td>
-		<td>36</td>
-		<td>+ 16</td>
+		<td>38</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>pugoutfitter</td>
@@ -377,8 +377,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>2382</td>
-		<td>198</td>
+		<td>2386</td>
+		<td>202</td>
 	</tr>
 </table>
 </sub></sup>
