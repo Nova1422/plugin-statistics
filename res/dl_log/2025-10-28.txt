@@ -1,50 +1,50 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.2-gainpiraterep | downloads: 1
-v1.0.3-obtainheron | downloads: 28
+v1.0.3-obtainheron | downloads: 29
 v1.0.2-obtainheron | downloads: 25
 v1.0.1-gainpiraterep | downloads: 4
 v1.0.0-unlimited.embertear | downloads: 3
 v1.0.0-gainpiraterep | downloads: 5
-v1.0.1-purchase.bactrian | downloads: 130
+v1.0.1-purchase.bactrian | downloads: 131
 v1.0.1-pugoutfitter | downloads: 15
 v1.0.0-pugoutfitter | downloads: 3
-v1.0.0-quargoutfitter | downloads: 131
-v1.0.2-aberrant.kahet.outfitter | downloads: 148
+v1.0.0-quargoutfitter | downloads: 132
+v1.0.2-aberrant.kahet.outfitter | downloads: 149
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
-v1.0.3-capture.archons | downloads: 202
-v1.0.2-tributequarg | downloads: 195
-v1.0.1-jumpdrive.extended | downloads: 211
-v1.0.0-bunrodeaoutfitter | downloads: 159
+v1.0.3-capture.archons | downloads: 203
+v1.0.2-tributequarg | downloads: 196
+v1.0.1-jumpdrive.extended | downloads: 212
+v1.0.0-bunrodeaoutfitter | downloads: 160
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 109
-v1.0.0-capturingpower | downloads: 244
+v1.0.0-capturingpower | downloads: 245
 v1.0.0-1requiredcrew | downloads: 235
-v1.0.1-unlimited.dfc | downloads: 192
+v1.0.1-unlimited.dfc | downloads: 193
 v1.0.0-unlimited.dfc | downloads: 54
-v1.0.0-purchaseable.cloakingdevice | downloads: 246
+v1.0.0-purchaseable.cloakingdevice | downloads: 247
 v1.0.0-jumpdrive.extended | downloads: 105
 v1.0.2-capture.archons | downloads: 92
 v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 28
-# TOTAL DOWNLOADS: 2555
+# TOTAL DOWNLOADS: 2566
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 1requiredcrew 235
-aberrant.kahet.outfitter 152
-bunrodeaoutfitter 159
-capture.archons 298
-capturingpower 244
+aberrant.kahet.outfitter 153
+bunrodeaoutfitter 160
+capture.archons 299
+capturingpower 245
 gainpiraterep 10
-jumpdrive.extended 316
-obtainheron 53
+jumpdrive.extended 317
+obtainheron 54
 pugoutfitter 18
-purchase.bactrian 239
-purchaseable.cloakingdevice 246
-quargoutfitter 131
-tributequarg 205
-unlimited.dfc 246
+purchase.bactrian 240
+purchaseable.cloakingdevice 247
+quargoutfitter 132
+tributequarg 206
+unlimited.dfc 247
 unlimited.embertear 3
