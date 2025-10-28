@@ -65,8 +65,8 @@
 		<td>138</td>
 		<td>178</td>
 		<td>215</td>
-		<td>247</td>
-		<td>+ 32</td>
+		<td>249</td>
+		<td>+ 34</td>
 	</tr>
 	<tr>
 		<td>gainpiraterep</td>
@@ -186,8 +186,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>2590</td>
-		<td>406</td>
+		<td>2592</td>
+		<td>408</td>
 	</tr>
 </table>
 </sub></sup>
@@ -256,8 +256,8 @@
 		<td>138</td>
 		<td>178</td>
 		<td>215</td>
-		<td>247</td>
-		<td>+ 32</td>
+		<td>249</td>
+		<td>+ 34</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -377,8 +377,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>2590</td>
-		<td>406</td>
+		<td>2592</td>
+		<td>408</td>
 	</tr>
 </table>
 </sub></sup>
