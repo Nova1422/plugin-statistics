@@ -1,50 +1,50 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.2-gainpiraterep | downloads: 1
-v1.0.3-obtainheron | downloads: 12
+v1.0.3-obtainheron | downloads: 14
 v1.0.2-obtainheron | downloads: 22
 v1.0.1-gainpiraterep | downloads: 4
 v1.0.0-unlimited.embertear | downloads: 3
 v1.0.0-gainpiraterep | downloads: 5
-v1.0.1-purchase.bactrian | downloads: 116
+v1.0.1-purchase.bactrian | downloads: 117
 v1.0.1-pugoutfitter | downloads: 15
 v1.0.0-pugoutfitter | downloads: 3
-v1.0.0-quargoutfitter | downloads: 115
-v1.0.2-aberrant.kahet.outfitter | downloads: 132
+v1.0.0-quargoutfitter | downloads: 116
+v1.0.2-aberrant.kahet.outfitter | downloads: 133
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
-v1.0.3-capture.archons | downloads: 187
-v1.0.2-tributequarg | downloads: 179
-v1.0.1-jumpdrive.extended | downloads: 195
-v1.0.0-bunrodeaoutfitter | downloads: 142
+v1.0.3-capture.archons | downloads: 189
+v1.0.2-tributequarg | downloads: 181
+v1.0.1-jumpdrive.extended | downloads: 196
+v1.0.0-bunrodeaoutfitter | downloads: 143
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 109
-v1.0.0-capturingpower | downloads: 229
-v1.0.0-1requiredcrew | downloads: 219
-v1.0.1-unlimited.dfc | downloads: 177
+v1.0.0-capturingpower | downloads: 230
+v1.0.0-1requiredcrew | downloads: 220
+v1.0.1-unlimited.dfc | downloads: 179
 v1.0.0-unlimited.dfc | downloads: 54
-v1.0.0-purchaseable.cloakingdevice | downloads: 232
+v1.0.0-purchaseable.cloakingdevice | downloads: 233
 v1.0.0-jumpdrive.extended | downloads: 105
 v1.0.2-capture.archons | downloads: 92
 v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 28
-# TOTAL DOWNLOADS: 2366
+# TOTAL DOWNLOADS: 2382
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 219
-aberrant.kahet.outfitter 136
-bunrodeaoutfitter 142
-capture.archons 283
-capturingpower 229
+1requiredcrew 220
+aberrant.kahet.outfitter 137
+bunrodeaoutfitter 143
+capture.archons 285
+capturingpower 230
 gainpiraterep 10
-jumpdrive.extended 300
-obtainheron 34
+jumpdrive.extended 301
+obtainheron 36
 pugoutfitter 18
-purchase.bactrian 225
-purchaseable.cloakingdevice 232
-quargoutfitter 115
-tributequarg 189
-unlimited.dfc 231
+purchase.bactrian 226
+purchaseable.cloakingdevice 233
+quargoutfitter 116
+tributequarg 191
+unlimited.dfc 233
 unlimited.embertear 3
