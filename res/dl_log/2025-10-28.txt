@@ -18,7 +18,7 @@ v1.0.0-bunrodeaoutfitter | downloads: 162
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 109
-v1.0.0-capturingpower | downloads: 247
+v1.0.0-capturingpower | downloads: 249
 v1.0.0-1requiredcrew | downloads: 237
 v1.0.1-unlimited.dfc | downloads: 195
 v1.0.0-unlimited.dfc | downloads: 54
@@ -29,7 +29,7 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 28
-# TOTAL DOWNLOADS: 2590
+# TOTAL DOWNLOADS: 2592
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -37,7 +37,7 @@ v1.0.1-capture.archons | downloads: 4
 aberrant.kahet.outfitter 155
 bunrodeaoutfitter 162
 capture.archons 301
-capturingpower 247
+capturingpower 249
 gainpiraterep 10
 jumpdrive.extended 319
 obtainheron 56
