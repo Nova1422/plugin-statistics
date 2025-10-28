@@ -32,8 +32,8 @@
 		<td>38</td>
 		<td>76</td>
 		<td>118</td>
-		<td>149</td>
-		<td>+ 31</td>
+		<td>151</td>
+		<td>+ 33</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -43,8 +43,8 @@
 		<td>46</td>
 		<td>88</td>
 		<td>125</td>
-		<td>156</td>
-		<td>+ 31</td>
+		<td>158</td>
+		<td>+ 33</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -142,8 +142,8 @@
 		<td>23</td>
 		<td>60</td>
 		<td>100</td>
-		<td>128</td>
-		<td>+ 28</td>
+		<td>130</td>
+		<td>+ 30</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -186,8 +186,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>2536</td>
-		<td>352</td>
+		<td>2542</td>
+		<td>358</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>46</td>
 		<td>88</td>
 		<td>125</td>
-		<td>156</td>
-		<td>+ 31</td>
+		<td>158</td>
+		<td>+ 33</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -311,8 +311,8 @@
 		<td>38</td>
 		<td>76</td>
 		<td>118</td>
-		<td>149</td>
-		<td>+ 31</td>
+		<td>151</td>
+		<td>+ 33</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -322,8 +322,8 @@
 		<td>23</td>
 		<td>60</td>
 		<td>100</td>
-		<td>128</td>
-		<td>+ 28</td>
+		<td>130</td>
+		<td>+ 30</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -377,8 +377,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>2536</td>
-		<td>352</td>
+		<td>2542</td>
+		<td>358</td>
 	</tr>
 </table>
 </sub></sup>
