@@ -32,8 +32,8 @@
 		<td>76</td>
 		<td>118</td>
 		<td>155</td>
-		<td>163</td>
-		<td>+ 8</td>
+		<td>165</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -76,8 +76,8 @@
 		<td>2</td>
 		<td>9</td>
 		<td>10</td>
-		<td>12</td>
-		<td>+ 2</td>
+		<td>14</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -186,8 +186,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>2708</td>
-		<td>116</td>
+		<td>2712</td>
+		<td>120</td>
 	</tr>
 </table>
 </sub></sup>
@@ -311,8 +311,8 @@
 		<td>76</td>
 		<td>118</td>
 		<td>155</td>
-		<td>163</td>
-		<td>+ 8</td>
+		<td>165</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -355,8 +355,8 @@
 		<td>2</td>
 		<td>9</td>
 		<td>10</td>
-		<td>12</td>
-		<td>+ 2</td>
+		<td>14</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>unlimited.embertear</td>
@@ -377,8 +377,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>2708</td>
-		<td>116</td>
+		<td>2712</td>
+		<td>120</td>
 	</tr>
 </table>
 </sub></sup>
