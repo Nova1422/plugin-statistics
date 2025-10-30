@@ -98,8 +98,8 @@
 		<td>20</td>
 		<td>56</td>
 		<td>88</td>
-		<td>119</td>
-		<td>+ 31</td>
+		<td>120</td>
+		<td>+ 32</td>
 	</tr>
 	<tr>
 		<td>pugoutfitter</td>
@@ -186,8 +186,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>3298</td>
-		<td>332</td>
+		<td>3299</td>
+		<td>333</td>
 	</tr>
 </table>
 </sub></sup>
@@ -333,8 +333,8 @@
 		<td>20</td>
 		<td>56</td>
 		<td>88</td>
-		<td>119</td>
-		<td>+ 31</td>
+		<td>120</td>
+		<td>+ 32</td>
 	</tr>
 	<tr>
 		<td>pugoutfitter</td>
@@ -377,8 +377,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>3298</td>
-		<td>332</td>
+		<td>3299</td>
+		<td>333</td>
 	</tr>
 </table>
 </sub></sup>
