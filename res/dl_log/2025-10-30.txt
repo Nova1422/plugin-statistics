@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.2-gainpiraterep | downloads: 8
-v1.0.3-obtainheron | downloads: 94
+v1.0.3-obtainheron | downloads: 95
 v1.0.2-obtainheron | downloads: 25
 v1.0.1-gainpiraterep | downloads: 4
 v1.0.0-unlimited.embertear | downloads: 3
@@ -29,7 +29,7 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 28
-# TOTAL DOWNLOADS: 3298
+# TOTAL DOWNLOADS: 3299
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -40,7 +40,7 @@ capture.archons 355
 capturingpower 305
 gainpiraterep 17
 jumpdrive.extended 381
-obtainheron 119
+obtainheron 120
 pugoutfitter 20
 purchase.bactrian 299
 purchaseable.cloakingdevice 308
