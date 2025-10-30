@@ -142,8 +142,8 @@
 		<td>100</td>
 		<td>134</td>
 		<td>166</td>
-		<td>181</td>
-		<td>+ 15</td>
+		<td>183</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -186,8 +186,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>3145</td>
-		<td>179</td>
+		<td>3147</td>
+		<td>181</td>
 	</tr>
 </table>
 </sub></sup>
@@ -322,8 +322,8 @@
 		<td>100</td>
 		<td>134</td>
 		<td>166</td>
-		<td>181</td>
-		<td>+ 15</td>
+		<td>183</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -377,8 +377,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>3145</td>
-		<td>179</td>
+		<td>3147</td>
+		<td>181</td>
 	</tr>
 </table>
 </sub></sup>
@@ -406,7 +406,7 @@
 		<td>87</td>
 		<td>46</td>
 		<td>26</td>
-		<td>2</td>
+		<td>4</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -418,7 +418,7 @@
 		<td>10</td>
 		<td>11</td>
 		<td>9</td>
-		<td>2</td>
+		<td>3</td>
 	</tr>
 </table>
 <br>
@@ -432,8 +432,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-15</td>
-		<td>1265</td>
-		<td>145</td>
+		<td>1267</td>
+		<td>146</td>
 		<td>192</td>
 		<td>21</td>
 	</tr>
@@ -446,8 +446,8 @@
 	</tr>
 	<tr>
 		<td>15</td>
-		<td>84.33</td>
-		<td>9.67</td>
+		<td>84.47</td>
+		<td>9.73</td>
 		<td></td>
 		<td></td>
 	</tr>
