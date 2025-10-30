@@ -8,7 +8,7 @@ v1.0.0-gainpiraterep | downloads: 5
 v1.0.1-purchase.bactrian | downloads: 178
 v1.0.1-pugoutfitter | downloads: 15
 v1.0.0-pugoutfitter | downloads: 3
-v1.0.0-quargoutfitter | downloads: 181
+v1.0.0-quargoutfitter | downloads: 183
 v1.0.2-aberrant.kahet.outfitter | downloads: 201
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
 v1.0.3-capture.archons | downloads: 246
@@ -29,7 +29,7 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 28
-# TOTAL DOWNLOADS: 3145
+# TOTAL DOWNLOADS: 3147
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -44,7 +44,7 @@ obtainheron 105
 pugoutfitter 18
 purchase.bactrian 287
 purchaseable.cloakingdevice 296
-quargoutfitter 181
+quargoutfitter 183
 tributequarg 252
 unlimited.dfc 291
 unlimited.embertear 3
