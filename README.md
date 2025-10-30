@@ -21,8 +21,8 @@
 		<td>205</td>
 		<td>237</td>
 		<td>265</td>
-		<td>270</td>
-		<td>+ 5</td>
+		<td>272</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>118</td>
 		<td>155</td>
 		<td>186</td>
-		<td>190</td>
-		<td>+ 4</td>
+		<td>193</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -43,8 +43,8 @@
 		<td>125</td>
 		<td>162</td>
 		<td>192</td>
-		<td>196</td>
-		<td>+ 4</td>
+		<td>199</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -54,8 +54,8 @@
 		<td>270</td>
 		<td>301</td>
 		<td>329</td>
-		<td>333</td>
-		<td>+ 4</td>
+		<td>336</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -65,8 +65,8 @@
 		<td>215</td>
 		<td>249</td>
 		<td>277</td>
-		<td>281</td>
-		<td>+ 4</td>
+		<td>284</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>gainpiraterep</td>
@@ -87,8 +87,8 @@
 		<td>279</td>
 		<td>319</td>
 		<td>352</td>
-		<td>358</td>
-		<td>+ 6</td>
+		<td>361</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -98,8 +98,8 @@
 		<td>20</td>
 		<td>56</td>
 		<td>88</td>
-		<td>92</td>
-		<td>+ 4</td>
+		<td>95</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>pugoutfitter</td>
@@ -120,8 +120,8 @@
 		<td>209</td>
 		<td>242</td>
 		<td>274</td>
-		<td>278</td>
-		<td>+ 4</td>
+		<td>281</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -131,8 +131,8 @@
 		<td>217</td>
 		<td>249</td>
 		<td>283</td>
-		<td>287</td>
-		<td>+ 4</td>
+		<td>290</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -142,8 +142,8 @@
 		<td>100</td>
 		<td>134</td>
 		<td>166</td>
-		<td>170</td>
-		<td>+ 4</td>
+		<td>173</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -153,8 +153,8 @@
 		<td>178</td>
 		<td>208</td>
 		<td>238</td>
-		<td>242</td>
-		<td>+ 4</td>
+		<td>246</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -164,8 +164,8 @@
 		<td>220</td>
 		<td>249</td>
 		<td>278</td>
-		<td>282</td>
-		<td>+ 4</td>
+		<td>285</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>unlimited.embertear</td>
@@ -186,8 +186,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>3017</td>
-		<td>51</td>
+		<td>3053</td>
+		<td>87</td>
 	</tr>
 </table>
 </sub></sup>
@@ -212,8 +212,8 @@
 		<td>279</td>
 		<td>319</td>
 		<td>352</td>
-		<td>358</td>
-		<td>+ 6</td>
+		<td>361</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -223,8 +223,8 @@
 		<td>270</td>
 		<td>301</td>
 		<td>329</td>
-		<td>333</td>
-		<td>+ 4</td>
+		<td>336</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -234,8 +234,8 @@
 		<td>217</td>
 		<td>249</td>
 		<td>283</td>
-		<td>287</td>
-		<td>+ 4</td>
+		<td>290</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -245,8 +245,8 @@
 		<td>220</td>
 		<td>249</td>
 		<td>278</td>
-		<td>282</td>
-		<td>+ 4</td>
+		<td>285</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -256,8 +256,8 @@
 		<td>215</td>
 		<td>249</td>
 		<td>277</td>
-		<td>281</td>
-		<td>+ 4</td>
+		<td>284</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -267,8 +267,8 @@
 		<td>209</td>
 		<td>242</td>
 		<td>274</td>
-		<td>278</td>
-		<td>+ 4</td>
+		<td>281</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -278,8 +278,8 @@
 		<td>205</td>
 		<td>237</td>
 		<td>265</td>
-		<td>270</td>
-		<td>+ 5</td>
+		<td>272</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -289,8 +289,8 @@
 		<td>178</td>
 		<td>208</td>
 		<td>238</td>
-		<td>242</td>
-		<td>+ 4</td>
+		<td>246</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -300,8 +300,8 @@
 		<td>125</td>
 		<td>162</td>
 		<td>192</td>
-		<td>196</td>
-		<td>+ 4</td>
+		<td>199</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -311,8 +311,8 @@
 		<td>118</td>
 		<td>155</td>
 		<td>186</td>
-		<td>190</td>
-		<td>+ 4</td>
+		<td>193</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -322,8 +322,8 @@
 		<td>100</td>
 		<td>134</td>
 		<td>166</td>
-		<td>170</td>
-		<td>+ 4</td>
+		<td>173</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -333,8 +333,8 @@
 		<td>20</td>
 		<td>56</td>
 		<td>88</td>
-		<td>92</td>
-		<td>+ 4</td>
+		<td>95</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>pugoutfitter</td>
@@ -377,8 +377,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>3017</td>
-		<td>51</td>
+		<td>3053</td>
+		<td>87</td>
 	</tr>
 </table>
 </sub></sup>
