@@ -98,8 +98,8 @@
 		<td>88</td>
 		<td>123</td>
 		<td>158</td>
-		<td>167</td>
-		<td>+ 9</td>
+		<td>168</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>pugoutfitter</td>
@@ -120,8 +120,8 @@
 		<td>274</td>
 		<td>302</td>
 		<td>340</td>
-		<td>351</td>
-		<td>+ 11</td>
+		<td>352</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -131,8 +131,8 @@
 		<td>283</td>
 		<td>311</td>
 		<td>347</td>
-		<td>358</td>
-		<td>+ 11</td>
+		<td>359</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -142,8 +142,8 @@
 		<td>166</td>
 		<td>198</td>
 		<td>233</td>
-		<td>246</td>
-		<td>+ 13</td>
+		<td>247</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -153,8 +153,8 @@
 		<td>238</td>
 		<td>267</td>
 		<td>302</td>
-		<td>311</td>
-		<td>+ 9</td>
+		<td>312</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -164,8 +164,8 @@
 		<td>278</td>
 		<td>306</td>
 		<td>341</td>
-		<td>350</td>
-		<td>+ 9</td>
+		<td>351</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>unlimited.embertear</td>
@@ -186,8 +186,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>3891</td>
-		<td>123</td>
+		<td>3897</td>
+		<td>129</td>
 	</tr>
 </table>
 </sub></sup>
@@ -234,8 +234,8 @@
 		<td>283</td>
 		<td>311</td>
 		<td>347</td>
-		<td>358</td>
-		<td>+ 11</td>
+		<td>359</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -256,8 +256,8 @@
 		<td>274</td>
 		<td>302</td>
 		<td>340</td>
-		<td>351</td>
-		<td>+ 11</td>
+		<td>352</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -267,8 +267,8 @@
 		<td>278</td>
 		<td>306</td>
 		<td>341</td>
-		<td>350</td>
-		<td>+ 9</td>
+		<td>351</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -289,8 +289,8 @@
 		<td>238</td>
 		<td>267</td>
 		<td>302</td>
-		<td>311</td>
-		<td>+ 9</td>
+		<td>312</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -322,8 +322,8 @@
 		<td>166</td>
 		<td>198</td>
 		<td>233</td>
-		<td>246</td>
-		<td>+ 13</td>
+		<td>247</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -333,8 +333,8 @@
 		<td>88</td>
 		<td>123</td>
 		<td>158</td>
-		<td>167</td>
-		<td>+ 9</td>
+		<td>168</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>pugoutfitter</td>
@@ -377,8 +377,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>3891</td>
-		<td>123</td>
+		<td>3897</td>
+		<td>129</td>
 	</tr>
 </table>
 </sub></sup>
