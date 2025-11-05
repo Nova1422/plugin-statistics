@@ -21,8 +21,8 @@
 		<td>385</td>
 		<td>415</td>
 		<td>446</td>
-		<td>461</td>
-		<td>+ 15</td>
+		<td>462</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>319</td>
 		<td>350</td>
 		<td>381</td>
-		<td>397</td>
-		<td>+ 16</td>
+		<td>398</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -43,8 +43,8 @@
 		<td>324</td>
 		<td>354</td>
 		<td>385</td>
-		<td>401</td>
-		<td>+ 16</td>
+		<td>402</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -54,8 +54,8 @@
 		<td>455</td>
 		<td>483</td>
 		<td>517</td>
-		<td>532</td>
-		<td>+ 15</td>
+		<td>533</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -65,8 +65,8 @@
 		<td>406</td>
 		<td>434</td>
 		<td>466</td>
-		<td>481</td>
-		<td>+ 15</td>
+		<td>482</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>gainpiraterep</td>
@@ -87,8 +87,8 @@
 		<td>482</td>
 		<td>508</td>
 		<td>539</td>
-		<td>559</td>
-		<td>+ 20</td>
+		<td>560</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>navypirates</td>
@@ -98,8 +98,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>11</td>
-		<td>29</td>
-		<td>+ 18</td>
+		<td>30</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -109,8 +109,8 @@
 		<td>219</td>
 		<td>251</td>
 		<td>287</td>
-		<td>305</td>
-		<td>+ 18</td>
+		<td>306</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>pugoutfitter</td>
@@ -131,8 +131,8 @@
 		<td>397</td>
 		<td>425</td>
 		<td>456</td>
-		<td>474</td>
-		<td>+ 18</td>
+		<td>475</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -142,8 +142,8 @@
 		<td>411</td>
 		<td>437</td>
 		<td>468</td>
-		<td>483</td>
-		<td>+ 15</td>
+		<td>484</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -153,8 +153,8 @@
 		<td>297</td>
 		<td>325</td>
 		<td>356</td>
-		<td>374</td>
-		<td>+ 18</td>
+		<td>375</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -164,8 +164,8 @@
 		<td>359</td>
 		<td>385</td>
 		<td>416</td>
-		<td>434</td>
-		<td>+ 18</td>
+		<td>435</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -175,8 +175,8 @@
 		<td>396</td>
 		<td>423</td>
 		<td>453</td>
-		<td>468</td>
-		<td>+ 15</td>
+		<td>469</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>unlimited.embertear</td>
@@ -197,8 +197,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>5465</td>
-		<td>223</td>
+		<td>5478</td>
+		<td>236</td>
 	</tr>
 </table>
 </sub></sup>
@@ -223,8 +223,8 @@
 		<td>482</td>
 		<td>508</td>
 		<td>539</td>
-		<td>559</td>
-		<td>+ 20</td>
+		<td>560</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -234,8 +234,8 @@
 		<td>455</td>
 		<td>483</td>
 		<td>517</td>
-		<td>532</td>
-		<td>+ 15</td>
+		<td>533</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -245,8 +245,8 @@
 		<td>411</td>
 		<td>437</td>
 		<td>468</td>
-		<td>483</td>
-		<td>+ 15</td>
+		<td>484</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -256,8 +256,8 @@
 		<td>406</td>
 		<td>434</td>
 		<td>466</td>
-		<td>481</td>
-		<td>+ 15</td>
+		<td>482</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -267,8 +267,8 @@
 		<td>397</td>
 		<td>425</td>
 		<td>456</td>
-		<td>474</td>
-		<td>+ 18</td>
+		<td>475</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -278,8 +278,8 @@
 		<td>396</td>
 		<td>423</td>
 		<td>453</td>
-		<td>468</td>
-		<td>+ 15</td>
+		<td>469</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -289,8 +289,8 @@
 		<td>385</td>
 		<td>415</td>
 		<td>446</td>
-		<td>461</td>
-		<td>+ 15</td>
+		<td>462</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -300,8 +300,8 @@
 		<td>359</td>
 		<td>385</td>
 		<td>416</td>
-		<td>434</td>
-		<td>+ 18</td>
+		<td>435</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -311,8 +311,8 @@
 		<td>324</td>
 		<td>354</td>
 		<td>385</td>
-		<td>401</td>
-		<td>+ 16</td>
+		<td>402</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -322,8 +322,8 @@
 		<td>319</td>
 		<td>350</td>
 		<td>381</td>
-		<td>397</td>
-		<td>+ 16</td>
+		<td>398</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -333,8 +333,8 @@
 		<td>297</td>
 		<td>325</td>
 		<td>356</td>
-		<td>374</td>
-		<td>+ 18</td>
+		<td>375</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -344,8 +344,19 @@
 		<td>219</td>
 		<td>251</td>
 		<td>287</td>
-		<td>305</td>
-		<td>+ 18</td>
+		<td>306</td>
+		<td>+ 19</td>
+	</tr>
+	<tr>
+		<td>navypirates</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>11</td>
+		<td>30</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>pugoutfitter</td>
@@ -357,17 +368,6 @@
 		<td>25</td>
 		<td>29</td>
 		<td>+ 4</td>
-	</tr>
-	<tr>
-		<td>navypirates</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>11</td>
-		<td>29</td>
-		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>gainpiraterep</td>
@@ -399,8 +399,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>5465</td>
-		<td>223</td>
+		<td>5478</td>
+		<td>236</td>
 	</tr>
 </table>
 </sub></sup>
@@ -428,7 +428,7 @@
 		<td>23</td>
 		<td>19</td>
 		<td>13</td>
-		<td>10</td>
+		<td>11</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -440,7 +440,7 @@
 		<td>11</td>
 		<td>8</td>
 		<td>4</td>
-		<td>5</td>
+		<td>6</td>
 	</tr>
 </table>
 <br>
@@ -454,8 +454,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-15</td>
-		<td>1360</td>
-		<td>186</td>
+		<td>1361</td>
+		<td>187</td>
 		<td>192</td>
 		<td>21</td>
 	</tr>
@@ -468,8 +468,8 @@
 	</tr>
 	<tr>
 		<td>21</td>
-		<td>64.76</td>
-		<td>8.86</td>
+		<td>64.81</td>
+		<td>8.90</td>
 		<td></td>
 		<td></td>
 	</tr>
