@@ -21,8 +21,8 @@
 		<td>415</td>
 		<td>446</td>
 		<td>473</td>
-		<td>499</td>
-		<td>+ 26</td>
+		<td>500</td>
+		<td>+ 27</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -197,8 +197,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>6000</td>
-		<td>363</td>
+		<td>6001</td>
+		<td>364</td>
 	</tr>
 </table>
 </sub></sup>
@@ -289,8 +289,8 @@
 		<td>415</td>
 		<td>446</td>
 		<td>473</td>
-		<td>499</td>
-		<td>+ 26</td>
+		<td>500</td>
+		<td>+ 27</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -399,8 +399,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>6000</td>
-		<td>363</td>
+		<td>6001</td>
+		<td>364</td>
 	</tr>
 </table>
 </sub></sup>
