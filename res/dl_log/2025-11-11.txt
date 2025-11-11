@@ -1,55 +1,55 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.0-unlock.hai.reveal | downloads: 0
-v1.0.4-obtainheron | downloads: 233
-v1.0.0-navypirates | downloads: 217
-v1.0.2-gainpiraterep | downloads: 33
+v1.0.0-unlock.hai.reveal | downloads: 1
+v1.0.4-obtainheron | downloads: 235
+v1.0.0-navypirates | downloads: 219
+v1.0.2-gainpiraterep | downloads: 34
 v1.0.3-obtainheron | downloads: 250
 v1.0.2-obtainheron | downloads: 25
 v1.0.1-gainpiraterep | downloads: 4
-v1.0.0-unlimited.embertear | downloads: 25
+v1.0.0-unlimited.embertear | downloads: 26
 v1.0.0-gainpiraterep | downloads: 5
-v1.0.1-purchase.bactrian | downloads: 555
-v1.0.1-pugoutfitter | downloads: 47
+v1.0.1-purchase.bactrian | downloads: 557
+v1.0.1-pugoutfitter | downloads: 48
 v1.0.0-pugoutfitter | downloads: 3
-v1.0.0-quargoutfitter | downloads: 575
-v1.0.2-aberrant.kahet.outfitter | downloads: 598
+v1.0.0-quargoutfitter | downloads: 577
+v1.0.2-aberrant.kahet.outfitter | downloads: 600
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
-v1.0.3-capture.archons | downloads: 623
-v1.0.2-tributequarg | downloads: 612
-v1.0.1-jumpdrive.extended | downloads: 648
-v1.0.0-bunrodeaoutfitter | downloads: 598
+v1.0.3-capture.archons | downloads: 625
+v1.0.2-tributequarg | downloads: 614
+v1.0.1-jumpdrive.extended | downloads: 650
+v1.0.0-bunrodeaoutfitter | downloads: 600
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 109
-v1.0.0-capturingpower | downloads: 664
-v1.0.0-1requiredcrew | downloads: 648
-v1.0.1-unlimited.dfc | downloads: 579
-v1.0.0-unlimited.dfc | downloads: 68
-v1.0.0-purchaseable.cloakingdevice | downloads: 668
+v1.0.0-capturingpower | downloads: 667
+v1.0.0-1requiredcrew | downloads: 650
+v1.0.1-unlimited.dfc | downloads: 580
+v1.0.0-unlimited.dfc | downloads: 69
+v1.0.0-purchaseable.cloakingdevice | downloads: 670
 v1.0.0-jumpdrive.extended | downloads: 105
 v1.0.2-capture.archons | downloads: 92
 v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 31
-# TOTAL DOWNLOADS: 8002
+# TOTAL DOWNLOADS: 8033
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 648
-aberrant.kahet.outfitter 602
-bunrodeaoutfitter 598
-capture.archons 719
-capturingpower 664
-gainpiraterep 42
-jumpdrive.extended 753
-navypirates 217
-obtainheron 508
-pugoutfitter 50
-purchase.bactrian 664
-purchaseable.cloakingdevice 668
-quargoutfitter 575
-tributequarg 622
-unlimited.dfc 647
-unlimited.embertear 25
-unlock.hai.reveal 0
+1requiredcrew 650
+aberrant.kahet.outfitter 604
+bunrodeaoutfitter 600
+capture.archons 721
+capturingpower 667
+gainpiraterep 43
+jumpdrive.extended 755
+navypirates 219
+obtainheron 510
+pugoutfitter 51
+purchase.bactrian 666
+purchaseable.cloakingdevice 670
+quargoutfitter 577
+tributequarg 624
+unlimited.dfc 649
+unlimited.embertear 26
+unlock.hai.reveal 1
