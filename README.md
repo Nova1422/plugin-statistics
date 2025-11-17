@@ -21,8 +21,8 @@
 		<td>750</td>
 		<td>777</td>
 		<td>805</td>
-		<td>839</td>
-		<td>+ 34</td>
+		<td>840</td>
+		<td>+ 35</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>699</td>
 		<td>726</td>
 		<td>754</td>
-		<td>788</td>
-		<td>+ 34</td>
+		<td>789</td>
+		<td>+ 35</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -43,8 +43,8 @@
 		<td>696</td>
 		<td>723</td>
 		<td>751</td>
-		<td>785</td>
-		<td>+ 34</td>
+		<td>786</td>
+		<td>+ 35</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -54,8 +54,8 @@
 		<td>824</td>
 		<td>860</td>
 		<td>888</td>
-		<td>931</td>
-		<td>+ 43</td>
+		<td>932</td>
+		<td>+ 44</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -65,8 +65,8 @@
 		<td>769</td>
 		<td>802</td>
 		<td>832</td>
-		<td>869</td>
-		<td>+ 37</td>
+		<td>870</td>
+		<td>+ 38</td>
 	</tr>
 	<tr>
 		<td>gainpiraterep</td>
@@ -219,8 +219,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>10663</td>
-		<td>441</td>
+		<td>10668</td>
+		<td>446</td>
 	</tr>
 </table>
 </sub></sup>
@@ -256,8 +256,8 @@
 		<td>824</td>
 		<td>860</td>
 		<td>888</td>
-		<td>931</td>
-		<td>+ 43</td>
+		<td>932</td>
+		<td>+ 44</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -267,8 +267,8 @@
 		<td>769</td>
 		<td>802</td>
 		<td>832</td>
-		<td>869</td>
-		<td>+ 37</td>
+		<td>870</td>
+		<td>+ 38</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -300,8 +300,8 @@
 		<td>750</td>
 		<td>777</td>
 		<td>805</td>
-		<td>839</td>
-		<td>+ 34</td>
+		<td>840</td>
+		<td>+ 35</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -333,8 +333,8 @@
 		<td>699</td>
 		<td>726</td>
 		<td>754</td>
-		<td>788</td>
-		<td>+ 34</td>
+		<td>789</td>
+		<td>+ 35</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -344,8 +344,8 @@
 		<td>696</td>
 		<td>723</td>
 		<td>751</td>
-		<td>785</td>
-		<td>+ 34</td>
+		<td>786</td>
+		<td>+ 35</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -443,8 +443,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>10663</td>
-		<td>441</td>
+		<td>10668</td>
+		<td>446</td>
 	</tr>
 </table>
 </sub></sup>
