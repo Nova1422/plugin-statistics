@@ -1,57 +1,57 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.4-capture.archons | downloads: 99
-v1.0.1-capturingpower | downloads: 95
-v1.0.0-unlock.hai.reveal | downloads: 162
-v1.0.4-obtainheron | downloads: 398
-v1.0.0-navypirates | downloads: 384
+v1.0.4-capture.archons | downloads: 100
+v1.0.1-capturingpower | downloads: 96
+v1.0.0-unlock.hai.reveal | downloads: 163
+v1.0.4-obtainheron | downloads: 399
+v1.0.0-navypirates | downloads: 385
 v1.0.2-gainpiraterep | downloads: 38
 v1.0.3-obtainheron | downloads: 250
 v1.0.2-obtainheron | downloads: 25
 v1.0.1-gainpiraterep | downloads: 4
 v1.0.0-unlimited.embertear | downloads: 31
 v1.0.0-gainpiraterep | downloads: 5
-v1.0.1-purchase.bactrian | downloads: 726
+v1.0.1-purchase.bactrian | downloads: 727
 v1.0.1-pugoutfitter | downloads: 59
 v1.0.0-pugoutfitter | downloads: 3
-v1.0.0-quargoutfitter | downloads: 753
-v1.0.2-aberrant.kahet.outfitter | downloads: 763
+v1.0.0-quargoutfitter | downloads: 754
+v1.0.2-aberrant.kahet.outfitter | downloads: 764
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
 v1.0.3-capture.archons | downloads: 707
-v1.0.2-tributequarg | downloads: 781
-v1.0.1-jumpdrive.extended | downloads: 826
-v1.0.0-bunrodeaoutfitter | downloads: 764
+v1.0.2-tributequarg | downloads: 782
+v1.0.1-jumpdrive.extended | downloads: 827
+v1.0.0-bunrodeaoutfitter | downloads: 765
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 111
 v1.0.0-capturingpower | downloads: 752
-v1.0.0-1requiredcrew | downloads: 818
-v1.0.1-unlimited.dfc | downloads: 739
+v1.0.0-1requiredcrew | downloads: 819
+v1.0.1-unlimited.dfc | downloads: 740
 v1.0.0-unlimited.dfc | downloads: 71
-v1.0.0-purchaseable.cloakingdevice | downloads: 832
+v1.0.0-purchaseable.cloakingdevice | downloads: 833
 v1.0.0-jumpdrive.extended | downloads: 106
 v1.0.2-capture.archons | downloads: 92
 v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 33
-# TOTAL DOWNLOADS: 10412
+# TOTAL DOWNLOADS: 10426
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 818
-aberrant.kahet.outfitter 767
-bunrodeaoutfitter 764
-capture.archons 902
-capturingpower 847
+1requiredcrew 819
+aberrant.kahet.outfitter 768
+bunrodeaoutfitter 765
+capture.archons 903
+capturingpower 848
 gainpiraterep 47
-jumpdrive.extended 932
-navypirates 384
-obtainheron 673
+jumpdrive.extended 933
+navypirates 385
+obtainheron 674
 pugoutfitter 62
-purchase.bactrian 837
-purchaseable.cloakingdevice 832
-quargoutfitter 753
-tributequarg 791
-unlimited.dfc 810
+purchase.bactrian 838
+purchaseable.cloakingdevice 833
+quargoutfitter 754
+tributequarg 792
+unlimited.dfc 811
 unlimited.embertear 31
-unlock.hai.reveal 162
+unlock.hai.reveal 163
