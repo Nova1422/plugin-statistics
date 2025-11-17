@@ -21,8 +21,8 @@
 		<td>750</td>
 		<td>777</td>
 		<td>805</td>
-		<td>828</td>
-		<td>+ 23</td>
+		<td>829</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>699</td>
 		<td>726</td>
 		<td>754</td>
-		<td>777</td>
-		<td>+ 23</td>
+		<td>778</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -43,8 +43,8 @@
 		<td>696</td>
 		<td>723</td>
 		<td>751</td>
-		<td>774</td>
-		<td>+ 23</td>
+		<td>775</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -54,8 +54,8 @@
 		<td>824</td>
 		<td>860</td>
 		<td>888</td>
-		<td>918</td>
-		<td>+ 30</td>
+		<td>919</td>
+		<td>+ 31</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -65,8 +65,8 @@
 		<td>769</td>
 		<td>802</td>
 		<td>832</td>
-		<td>859</td>
-		<td>+ 27</td>
+		<td>860</td>
+		<td>+ 28</td>
 	</tr>
 	<tr>
 		<td>gainpiraterep</td>
@@ -87,8 +87,8 @@
 		<td>862</td>
 		<td>889</td>
 		<td>917</td>
-		<td>940</td>
-		<td>+ 23</td>
+		<td>941</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>navypirates</td>
@@ -208,8 +208,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>10550</td>
-		<td>328</td>
+		<td>10556</td>
+		<td>334</td>
 	</tr>
 </table>
 </sub></sup>
@@ -234,8 +234,8 @@
 		<td>862</td>
 		<td>889</td>
 		<td>917</td>
-		<td>940</td>
-		<td>+ 23</td>
+		<td>941</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -245,8 +245,8 @@
 		<td>824</td>
 		<td>860</td>
 		<td>888</td>
-		<td>918</td>
-		<td>+ 30</td>
+		<td>919</td>
+		<td>+ 31</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -256,8 +256,8 @@
 		<td>769</td>
 		<td>802</td>
 		<td>832</td>
-		<td>859</td>
-		<td>+ 27</td>
+		<td>860</td>
+		<td>+ 28</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -289,8 +289,8 @@
 		<td>750</td>
 		<td>777</td>
 		<td>805</td>
-		<td>828</td>
-		<td>+ 23</td>
+		<td>829</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -322,8 +322,8 @@
 		<td>699</td>
 		<td>726</td>
 		<td>754</td>
-		<td>777</td>
-		<td>+ 23</td>
+		<td>778</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -333,8 +333,8 @@
 		<td>696</td>
 		<td>723</td>
 		<td>751</td>
-		<td>774</td>
-		<td>+ 23</td>
+		<td>775</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -421,8 +421,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>10550</td>
-		<td>328</td>
+		<td>10556</td>
+		<td>334</td>
 	</tr>
 </table>
 </sub></sup>
