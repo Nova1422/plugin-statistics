@@ -21,8 +21,8 @@
 		<td>777</td>
 		<td>805</td>
 		<td>841</td>
-		<td>862</td>
-		<td>+ 21</td>
+		<td>863</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>726</td>
 		<td>754</td>
 		<td>790</td>
-		<td>803</td>
-		<td>+ 13</td>
+		<td>804</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -43,8 +43,8 @@
 		<td>723</td>
 		<td>751</td>
 		<td>787</td>
-		<td>809</td>
-		<td>+ 22</td>
+		<td>810</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -54,8 +54,8 @@
 		<td>860</td>
 		<td>888</td>
 		<td>933</td>
-		<td>954</td>
-		<td>+ 21</td>
+		<td>955</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -65,8 +65,8 @@
 		<td>802</td>
 		<td>832</td>
 		<td>871</td>
-		<td>892</td>
-		<td>+ 21</td>
+		<td>893</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>gainpiraterep</td>
@@ -219,8 +219,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>10869</td>
-		<td>196</td>
+		<td>10874</td>
+		<td>201</td>
 	</tr>
 </table>
 </sub></sup>
@@ -256,8 +256,8 @@
 		<td>860</td>
 		<td>888</td>
 		<td>933</td>
-		<td>954</td>
-		<td>+ 21</td>
+		<td>955</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -267,8 +267,19 @@
 		<td>802</td>
 		<td>832</td>
 		<td>871</td>
-		<td>892</td>
-		<td>+ 21</td>
+		<td>893</td>
+		<td>+ 22</td>
+	</tr>
+	<tr>
+		<td>1requiredcrew</td>
+		<td>691</td>
+		<td>717</td>
+		<td>750</td>
+		<td>777</td>
+		<td>805</td>
+		<td>841</td>
+		<td>863</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -280,17 +291,6 @@
 		<td>850</td>
 		<td>862</td>
 		<td>+ 12</td>
-	</tr>
-	<tr>
-		<td>1requiredcrew</td>
-		<td>691</td>
-		<td>717</td>
-		<td>750</td>
-		<td>777</td>
-		<td>805</td>
-		<td>841</td>
-		<td>862</td>
-		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -333,8 +333,8 @@
 		<td>723</td>
 		<td>751</td>
 		<td>787</td>
-		<td>809</td>
-		<td>+ 22</td>
+		<td>810</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -344,8 +344,8 @@
 		<td>726</td>
 		<td>754</td>
 		<td>790</td>
-		<td>803</td>
-		<td>+ 13</td>
+		<td>804</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -443,8 +443,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>10869</td>
-		<td>196</td>
+		<td>10874</td>
+		<td>201</td>
 	</tr>
 </table>
 </sub></sup>
