@@ -2,7 +2,7 @@
 v1.1.0-capture.archons | downloads: 67
 v1.0.0-modified.pirate.ships | downloads: 5
 v1.0.4-capture.archons | downloads: 111
-v1.0.1-capturingpower | downloads: 167
+v1.0.1-capturingpower | downloads: 169
 v1.0.0-unlock.hai.reveal | downloads: 203
 v1.0.4-obtainheron | downloads: 425
 v1.0.0-navypirates | downloads: 427
@@ -30,7 +30,7 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 29
-# TOTAL DOWNLOADS: 10980
+# TOTAL DOWNLOADS: 10982
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -38,7 +38,7 @@ v1.0.1-capture.archons | downloads: 4
 aberrant.kahet.outfitter 822
 bunrodeaoutfitter 836
 capture.archons 981
-capturingpower 919
+capturingpower 921
 jumpdrive.extended 978
 modified.pirate.ships 5
 navypirates 427
