@@ -21,8 +21,8 @@
 		<td>777</td>
 		<td>805</td>
 		<td>841</td>
-		<td>880</td>
-		<td>+ 39</td>
+		<td>881</td>
+		<td>+ 40</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>726</td>
 		<td>754</td>
 		<td>790</td>
-		<td>813</td>
-		<td>+ 23</td>
+		<td>814</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -43,8 +43,8 @@
 		<td>723</td>
 		<td>751</td>
 		<td>787</td>
-		<td>827</td>
-		<td>+ 40</td>
+		<td>828</td>
+		<td>+ 41</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -54,8 +54,8 @@
 		<td>860</td>
 		<td>888</td>
 		<td>933</td>
-		<td>972</td>
-		<td>+ 39</td>
+		<td>973</td>
+		<td>+ 40</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -65,8 +65,8 @@
 		<td>802</td>
 		<td>832</td>
 		<td>871</td>
-		<td>910</td>
-		<td>+ 39</td>
+		<td>911</td>
+		<td>+ 40</td>
 	</tr>
 	<tr>
 		<td>gainpiraterep</td>
@@ -219,8 +219,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>11052</td>
-		<td>379</td>
+		<td>11057</td>
+		<td>384</td>
 	</tr>
 </table>
 </sub></sup>
@@ -256,8 +256,8 @@
 		<td>860</td>
 		<td>888</td>
 		<td>933</td>
-		<td>972</td>
-		<td>+ 39</td>
+		<td>973</td>
+		<td>+ 40</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -267,8 +267,8 @@
 		<td>802</td>
 		<td>832</td>
 		<td>871</td>
-		<td>910</td>
-		<td>+ 39</td>
+		<td>911</td>
+		<td>+ 40</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -278,8 +278,8 @@
 		<td>777</td>
 		<td>805</td>
 		<td>841</td>
-		<td>880</td>
-		<td>+ 39</td>
+		<td>881</td>
+		<td>+ 40</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -333,8 +333,8 @@
 		<td>723</td>
 		<td>751</td>
 		<td>787</td>
-		<td>827</td>
-		<td>+ 40</td>
+		<td>828</td>
+		<td>+ 41</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -344,8 +344,8 @@
 		<td>726</td>
 		<td>754</td>
 		<td>790</td>
-		<td>813</td>
-		<td>+ 23</td>
+		<td>814</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -443,8 +443,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>11052</td>
-		<td>379</td>
+		<td>11057</td>
+		<td>384</td>
 	</tr>
 </table>
 </sub></sup>
