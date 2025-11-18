@@ -1,8 +1,8 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.1.0-capture.archons | downloads: 38
+v1.1.0-capture.archons | downloads: 39
 v1.0.0-modified.pirate.ships | downloads: 1
 v1.0.4-capture.archons | downloads: 111
-v1.0.1-capturingpower | downloads: 138
+v1.0.1-capturingpower | downloads: 139
 v1.0.0-unlock.hai.reveal | downloads: 187
 v1.0.4-obtainheron | downloads: 416
 v1.0.0-navypirates | downloads: 410
@@ -16,17 +16,17 @@ v1.0.1-purchase.bactrian | downloads: 751
 v1.0.1-pugoutfitter | downloads: 64
 v1.0.0-pugoutfitter | downloads: 3
 v1.0.0-quargoutfitter | downloads: 781
-v1.0.2-aberrant.kahet.outfitter | downloads: 797
+v1.0.2-aberrant.kahet.outfitter | downloads: 798
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
 v1.0.3-capture.archons | downloads: 707
 v1.0.2-tributequarg | downloads: 807
 v1.0.1-jumpdrive.extended | downloads: 856
-v1.0.0-bunrodeaoutfitter | downloads: 807
+v1.0.0-bunrodeaoutfitter | downloads: 808
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 111
 v1.0.0-capturingpower | downloads: 752
-v1.0.0-1requiredcrew | downloads: 860
+v1.0.0-1requiredcrew | downloads: 861
 v1.0.1-unlimited.dfc | downloads: 754
 v1.0.0-unlimited.dfc | downloads: 74
 v1.0.0-purchaseable.cloakingdevice | downloads: 858
@@ -36,15 +36,15 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 35
-# TOTAL DOWNLOADS: 10859
+# TOTAL DOWNLOADS: 10864
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 860
-aberrant.kahet.outfitter 801
-bunrodeaoutfitter 807
-capture.archons 952
-capturingpower 890
+1requiredcrew 861
+aberrant.kahet.outfitter 802
+bunrodeaoutfitter 808
+capture.archons 953
+capturingpower 891
 gainpiraterep 51
 jumpdrive.extended 962
 modified.pirate.ships 1
