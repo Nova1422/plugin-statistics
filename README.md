@@ -21,8 +21,8 @@
 		<td>777</td>
 		<td>805</td>
 		<td>841</td>
-		<td>855</td>
-		<td>+ 14</td>
+		<td>856</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>726</td>
 		<td>754</td>
 		<td>790</td>
-		<td>796</td>
-		<td>+ 6</td>
+		<td>797</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -43,8 +43,8 @@
 		<td>723</td>
 		<td>751</td>
 		<td>787</td>
-		<td>801</td>
-		<td>+ 14</td>
+		<td>802</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -54,8 +54,8 @@
 		<td>860</td>
 		<td>888</td>
 		<td>933</td>
-		<td>947</td>
-		<td>+ 14</td>
+		<td>948</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -65,8 +65,8 @@
 		<td>802</td>
 		<td>832</td>
 		<td>871</td>
-		<td>885</td>
-		<td>+ 14</td>
+		<td>886</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>gainpiraterep</td>
@@ -219,8 +219,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>10819</td>
-		<td>146</td>
+		<td>10824</td>
+		<td>151</td>
 	</tr>
 </table>
 </sub></sup>
@@ -256,8 +256,8 @@
 		<td>860</td>
 		<td>888</td>
 		<td>933</td>
-		<td>947</td>
-		<td>+ 14</td>
+		<td>948</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -267,8 +267,8 @@
 		<td>802</td>
 		<td>832</td>
 		<td>871</td>
-		<td>885</td>
-		<td>+ 14</td>
+		<td>886</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -300,8 +300,8 @@
 		<td>777</td>
 		<td>805</td>
 		<td>841</td>
-		<td>855</td>
-		<td>+ 14</td>
+		<td>856</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -333,8 +333,8 @@
 		<td>723</td>
 		<td>751</td>
 		<td>787</td>
-		<td>801</td>
-		<td>+ 14</td>
+		<td>802</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -344,8 +344,8 @@
 		<td>726</td>
 		<td>754</td>
 		<td>790</td>
-		<td>796</td>
-		<td>+ 6</td>
+		<td>797</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -443,8 +443,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>10819</td>
-		<td>146</td>
+		<td>10824</td>
+		<td>151</td>
 	</tr>
 </table>
 </sub></sup>
@@ -472,7 +472,7 @@
 		<td>24</td>
 		<td>21</td>
 		<td>24</td>
-		<td>53</td>
+		<td>65</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -498,7 +498,7 @@
 	</tr>
 	<tr>
 		<td>2025-10-15</td>
-		<td>1765</td>
+		<td>1777</td>
 		<td>312</td>
 		<td>192</td>
 		<td>21</td>
@@ -512,7 +512,7 @@
 	</tr>
 	<tr>
 		<td>34</td>
-		<td>51.91</td>
+		<td>52.26</td>
 		<td>9.18</td>
 		<td></td>
 		<td></td>
