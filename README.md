@@ -65,8 +65,8 @@
 		<td>802</td>
 		<td>832</td>
 		<td>871</td>
-		<td>919</td>
-		<td>+ 48</td>
+		<td>921</td>
+		<td>+ 50</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -186,8 +186,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>10980</td>
-		<td>456</td>
+		<td>10982</td>
+		<td>458</td>
 	</tr>
 </table>
 </sub></sup>
@@ -234,8 +234,8 @@
 		<td>802</td>
 		<td>832</td>
 		<td>871</td>
-		<td>919</td>
-		<td>+ 48</td>
+		<td>921</td>
+		<td>+ 50</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -377,8 +377,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>10980</td>
-		<td>456</td>
+		<td>10982</td>
+		<td>458</td>
 	</tr>
 </table>
 </sub></sup>
