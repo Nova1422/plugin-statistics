@@ -1,51 +1,51 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.1.0-capture.archons | downloads: 107
+v1.1.0-capture.archons | downloads: 108
 v1.0.0-modified.pirate.ships | downloads: 6
 v1.0.4-capture.archons | downloads: 115
-v1.0.1-capturingpower | downloads: 210
-v1.0.0-unlock.hai.reveal | downloads: 229
-v1.0.4-obtainheron | downloads: 452
-v1.0.0-navypirates | downloads: 456
+v1.0.1-capturingpower | downloads: 211
+v1.0.0-unlock.hai.reveal | downloads: 230
+v1.0.4-obtainheron | downloads: 453
+v1.0.0-navypirates | downloads: 457
 v1.0.3-obtainheron | downloads: 250
 v1.0.2-obtainheron | downloads: 25
-v1.0.1-purchase.bactrian | downloads: 798
-v1.0.0-quargoutfitter | downloads: 826
-v1.0.2-aberrant.kahet.outfitter | downloads: 858
+v1.0.1-purchase.bactrian | downloads: 799
+v1.0.0-quargoutfitter | downloads: 827
+v1.0.2-aberrant.kahet.outfitter | downloads: 859
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
 v1.0.3-capture.archons | downloads: 707
-v1.0.2-tributequarg | downloads: 849
-v1.0.1-jumpdrive.extended | downloads: 902
-v1.0.0-bunrodeaoutfitter | downloads: 883
+v1.0.2-tributequarg | downloads: 850
+v1.0.1-jumpdrive.extended | downloads: 904
+v1.0.0-bunrodeaoutfitter | downloads: 884
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 111
 v1.0.0-capturingpower | downloads: 752
-v1.0.0-1requiredcrew | downloads: 929
-v1.0.1-unlimited.dfc | downloads: 784
+v1.0.0-1requiredcrew | downloads: 930
+v1.0.1-unlimited.dfc | downloads: 785
 v1.0.0-unlimited.dfc | downloads: 77
-v1.0.0-purchaseable.cloakingdevice | downloads: 903
+v1.0.0-purchaseable.cloakingdevice | downloads: 904
 v1.0.0-jumpdrive.extended | downloads: 106
 v1.0.2-capture.archons | downloads: 92
 v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 29
-# TOTAL DOWNLOADS: 11445
+# TOTAL DOWNLOADS: 11460
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 929
-aberrant.kahet.outfitter 862
-bunrodeaoutfitter 883
-capture.archons 1025
-capturingpower 962
-jumpdrive.extended 1008
+1requiredcrew 930
+aberrant.kahet.outfitter 863
+bunrodeaoutfitter 884
+capture.archons 1026
+capturingpower 963
+jumpdrive.extended 1010
 modified.pirate.ships 6
-navypirates 456
-obtainheron 727
-purchase.bactrian 909
-purchaseable.cloakingdevice 903
-quargoutfitter 826
-tributequarg 859
-unlimited.dfc 861
-unlock.hai.reveal 229
+navypirates 457
+obtainheron 728
+purchase.bactrian 910
+purchaseable.cloakingdevice 904
+quargoutfitter 827
+tributequarg 860
+unlimited.dfc 862
+unlock.hai.reveal 230
