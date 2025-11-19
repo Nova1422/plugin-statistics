@@ -21,8 +21,8 @@
 		<td>805</td>
 		<td>841</td>
 		<td>899</td>
-		<td>904</td>
-		<td>+ 5</td>
+		<td>905</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>754</td>
 		<td>790</td>
 		<td>832</td>
-		<td>837</td>
-		<td>+ 5</td>
+		<td>838</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -43,8 +43,8 @@
 		<td>751</td>
 		<td>787</td>
 		<td>847</td>
-		<td>852</td>
-		<td>+ 5</td>
+		<td>853</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -54,8 +54,8 @@
 		<td>888</td>
 		<td>933</td>
 		<td>992</td>
-		<td>997</td>
-		<td>+ 5</td>
+		<td>998</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -65,8 +65,8 @@
 		<td>832</td>
 		<td>871</td>
 		<td>932</td>
-		<td>937</td>
-		<td>+ 5</td>
+		<td>938</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -186,8 +186,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>11186</td>
-		<td>55</td>
+		<td>11191</td>
+		<td>60</td>
 	</tr>
 </table>
 </sub></sup>
@@ -212,8 +212,8 @@
 		<td>888</td>
 		<td>933</td>
 		<td>992</td>
-		<td>997</td>
-		<td>+ 5</td>
+		<td>998</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -234,8 +234,8 @@
 		<td>832</td>
 		<td>871</td>
 		<td>932</td>
-		<td>937</td>
-		<td>+ 5</td>
+		<td>938</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -245,8 +245,8 @@
 		<td>805</td>
 		<td>841</td>
 		<td>899</td>
-		<td>904</td>
-		<td>+ 5</td>
+		<td>905</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -278,8 +278,8 @@
 		<td>751</td>
 		<td>787</td>
 		<td>847</td>
-		<td>852</td>
-		<td>+ 5</td>
+		<td>853</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -311,8 +311,8 @@
 		<td>754</td>
 		<td>790</td>
 		<td>832</td>
-		<td>837</td>
-		<td>+ 5</td>
+		<td>838</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -377,8 +377,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>11186</td>
-		<td>55</td>
+		<td>11191</td>
+		<td>60</td>
 	</tr>
 </table>
 </sub></sup>
