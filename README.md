@@ -21,8 +21,8 @@
 		<td>841</td>
 		<td>899</td>
 		<td>932</td>
-		<td>963</td>
-		<td>+ 31</td>
+		<td>964</td>
+		<td>+ 32</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>933</td>
 		<td>992</td>
 		<td>1028</td>
-		<td>1056</td>
-		<td>+ 28</td>
+		<td>1058</td>
+		<td>+ 30</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -186,8 +186,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>11874</td>
-		<td>382</td>
+		<td>11877</td>
+		<td>385</td>
 	</tr>
 </table>
 </sub></sup>
@@ -212,8 +212,8 @@
 		<td>933</td>
 		<td>992</td>
 		<td>1028</td>
-		<td>1056</td>
-		<td>+ 28</td>
+		<td>1058</td>
+		<td>+ 30</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -245,8 +245,8 @@
 		<td>841</td>
 		<td>899</td>
 		<td>932</td>
-		<td>963</td>
-		<td>+ 31</td>
+		<td>964</td>
+		<td>+ 32</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -377,8 +377,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>11874</td>
-		<td>382</td>
+		<td>11877</td>
+		<td>385</td>
 	</tr>
 </table>
 </sub></sup>
