@@ -1,27 +1,27 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.1.1-capture.archons | downloads: 85
+v1.1.1-capture.archons | downloads: 86
 v1.1.0-capture.archons | downloads: 124
-v1.0.0-modified.pirate.ships | downloads: 10
+v1.0.0-modified.pirate.ships | downloads: 12
 v1.0.4-capture.archons | downloads: 116
-v1.0.1-capturingpower | downloads: 311
-v1.0.0-unlock.hai.reveal | downloads: 329
+v1.0.1-capturingpower | downloads: 312
+v1.0.0-unlock.hai.reveal | downloads: 331
 v1.0.4-obtainheron | downloads: 555
 v1.0.0-navypirates | downloads: 551
 v1.0.3-obtainheron | downloads: 250
 v1.0.2-obtainheron | downloads: 25
-v1.0.1-purchase.bactrian | downloads: 897
+v1.0.1-purchase.bactrian | downloads: 899
 v1.0.0-quargoutfitter | downloads: 928
-v1.0.2-aberrant.kahet.outfitter | downloads: 959
+v1.0.2-aberrant.kahet.outfitter | downloads: 960
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
 v1.0.3-capture.archons | downloads: 707
 v1.0.2-tributequarg | downloads: 945
 v1.0.1-jumpdrive.extended | downloads: 1005
-v1.0.0-bunrodeaoutfitter | downloads: 986
+v1.0.0-bunrodeaoutfitter | downloads: 987
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 111
 v1.0.0-capturingpower | downloads: 752
-v1.0.0-1requiredcrew | downloads: 1033
+v1.0.0-1requiredcrew | downloads: 1034
 v1.0.1-unlimited.dfc | downloads: 875
 v1.0.0-unlimited.dfc | downloads: 79
 v1.0.0-purchaseable.cloakingdevice | downloads: 998
@@ -31,22 +31,22 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 30
-# TOTAL DOWNLOADS: 12847
+# TOTAL DOWNLOADS: 12858
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 1033
-aberrant.kahet.outfitter 963
-bunrodeaoutfitter 986
-capture.archons 1128
-capturingpower 1063
+1requiredcrew 1034
+aberrant.kahet.outfitter 964
+bunrodeaoutfitter 987
+capture.archons 1129
+capturingpower 1064
 jumpdrive.extended 1111
-modified.pirate.ships 10
+modified.pirate.ships 12
 navypirates 551
 obtainheron 830
-purchase.bactrian 1008
+purchase.bactrian 1010
 purchaseable.cloakingdevice 998
 quargoutfitter 928
 tributequarg 955
 unlimited.dfc 954
-unlock.hai.reveal 329
+unlock.hai.reveal 331
