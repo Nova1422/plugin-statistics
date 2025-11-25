@@ -3,56 +3,56 @@ v1.0.0-zoom.extension | downloads: 3
 v1.0.0-purchaseable.peregrine | downloads: 6
 v1.0.0-purchaseable.androids | downloads: 8
 v1.0.0-capture.augen | downloads: 8
-v1.1.1-capture.archons | downloads: 164
+v1.1.1-capture.archons | downloads: 165
 v1.1.0-capture.archons | downloads: 124
 v1.0.4-capture.archons | downloads: 116
-v1.0.1-capturingpower | downloads: 389
-v1.0.0-unlock.hai.reveal | downloads: 413
-v1.0.4-obtainheron | downloads: 637
-v1.0.0-navypirates | downloads: 629
+v1.0.1-capturingpower | downloads: 390
+v1.0.0-unlock.hai.reveal | downloads: 414
+v1.0.4-obtainheron | downloads: 638
+v1.0.0-navypirates | downloads: 630
 v1.0.3-obtainheron | downloads: 250
 v1.0.2-obtainheron | downloads: 25
-v1.0.1-purchase.bactrian | downloads: 977
-v1.0.0-quargoutfitter | downloads: 1006
-v1.0.2-aberrant.kahet.outfitter | downloads: 1040
+v1.0.1-purchase.bactrian | downloads: 978
+v1.0.0-quargoutfitter | downloads: 1007
+v1.0.2-aberrant.kahet.outfitter | downloads: 1041
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
 v1.0.3-capture.archons | downloads: 707
-v1.0.2-tributequarg | downloads: 1025
-v1.0.1-jumpdrive.extended | downloads: 1085
-v1.0.0-bunrodeaoutfitter | downloads: 1067
+v1.0.2-tributequarg | downloads: 1026
+v1.0.1-jumpdrive.extended | downloads: 1086
+v1.0.0-bunrodeaoutfitter | downloads: 1068
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 111
 v1.0.0-capturingpower | downloads: 752
-v1.0.0-1requiredcrew | downloads: 1107
-v1.0.1-unlimited.dfc | downloads: 940
+v1.0.0-1requiredcrew | downloads: 1108
+v1.0.1-unlimited.dfc | downloads: 941
 v1.0.0-unlimited.dfc | downloads: 89
-v1.0.0-purchaseable.cloakingdevice | downloads: 1072
+v1.0.0-purchaseable.cloakingdevice | downloads: 1073
 v1.0.0-jumpdrive.extended | downloads: 106
 v1.0.2-capture.archons | downloads: 92
 v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 33
-# TOTAL DOWNLOADS: 13966
+# TOTAL DOWNLOADS: 13980
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 1107
-aberrant.kahet.outfitter 1044
-bunrodeaoutfitter 1067
-capture.archons 1207
+1requiredcrew 1108
+aberrant.kahet.outfitter 1045
+bunrodeaoutfitter 1068
+capture.archons 1208
 capture.augen 8
-capturingpower 1141
-jumpdrive.extended 1191
-navypirates 629
-obtainheron 912
-purchase.bactrian 1088
+capturingpower 1142
+jumpdrive.extended 1192
+navypirates 630
+obtainheron 913
+purchase.bactrian 1089
 purchaseable.androids 8
-purchaseable.cloakingdevice 1072
+purchaseable.cloakingdevice 1073
 purchaseable.peregrine 6
-quargoutfitter 1006
-tributequarg 1035
-unlimited.dfc 1029
-unlock.hai.reveal 413
+quargoutfitter 1007
+tributequarg 1036
+unlimited.dfc 1030
+unlock.hai.reveal 414
 zoom.extension 3
