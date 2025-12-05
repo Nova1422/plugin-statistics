@@ -11,7 +11,7 @@ v1.0.0-purchaseable.androids | downloads: 242
 v1.1.1-capture.archons | downloads: 483
 v1.1.0-capture.archons | downloads: 124
 v1.0.4-capture.archons | downloads: 118
-v1.0.1-capturingpower | downloads: 708
+v1.0.1-capturingpower | downloads: 709
 v1.0.0-unlock.hai.reveal | downloads: 729
 v1.0.4-obtainheron | downloads: 967
 v1.0.0-navypirates | downloads: 914
@@ -39,7 +39,7 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 38
-# TOTAL DOWNLOADS: 19443
+# TOTAL DOWNLOADS: 19444
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -49,7 +49,7 @@ avgi.outfitter 11
 bunrodeaoutfitter 1393
 capture.archons 1528
 capture.augen 224
-capturingpower 1460
+capturingpower 1461
 disable.aberrant.blockade 2
 easier.ground.assault 2
 jumpdrive.extended 1511
