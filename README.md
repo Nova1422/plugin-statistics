@@ -21,8 +21,8 @@
 		<td>1345</td>
 		<td>1373</td>
 		<td>1405</td>
-		<td>1415</td>
-		<td>+ 10</td>
+		<td>1416</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>1290</td>
 		<td>1324</td>
 		<td>1361</td>
-		<td>1371</td>
-		<td>+ 10</td>
+		<td>1372</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>1311</td>
 		<td>1342</td>
 		<td>1375</td>
-		<td>1385</td>
-		<td>+ 10</td>
+		<td>1387</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -65,8 +65,8 @@
 		<td>1452</td>
 		<td>1479</td>
 		<td>1511</td>
-		<td>1521</td>
-		<td>+ 10</td>
+		<td>1522</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
@@ -76,8 +76,8 @@
 		<td>140</td>
 		<td>172</td>
 		<td>207</td>
-		<td>217</td>
-		<td>+ 10</td>
+		<td>218</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -87,8 +87,8 @@
 		<td>1385</td>
 		<td>1411</td>
 		<td>1443</td>
-		<td>1453</td>
-		<td>+ 10</td>
+		<td>1454</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19324</td>
-		<td>190</td>
+		<td>19331</td>
+		<td>197</td>
 	</tr>
 </table>
 </sub></sup>
@@ -278,8 +278,8 @@
 		<td>1452</td>
 		<td>1479</td>
 		<td>1511</td>
-		<td>1521</td>
-		<td>+ 10</td>
+		<td>1522</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -300,8 +300,8 @@
 		<td>1385</td>
 		<td>1411</td>
 		<td>1443</td>
-		<td>1453</td>
-		<td>+ 10</td>
+		<td>1454</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -311,8 +311,8 @@
 		<td>1345</td>
 		<td>1373</td>
 		<td>1405</td>
-		<td>1415</td>
-		<td>+ 10</td>
+		<td>1416</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -333,8 +333,8 @@
 		<td>1311</td>
 		<td>1342</td>
 		<td>1375</td>
-		<td>1385</td>
-		<td>+ 10</td>
+		<td>1387</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -355,8 +355,8 @@
 		<td>1290</td>
 		<td>1324</td>
 		<td>1361</td>
-		<td>1371</td>
-		<td>+ 10</td>
+		<td>1372</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -454,8 +454,8 @@
 		<td>140</td>
 		<td>172</td>
 		<td>207</td>
-		<td>217</td>
-		<td>+ 10</td>
+		<td>218</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19324</td>
-		<td>190</td>
+		<td>19331</td>
+		<td>197</td>
 	</tr>
 </table>
 </sub></sup>
@@ -538,7 +538,7 @@
 		<td>143</td>
 		<td>84</td>
 		<td>46</td>
-		<td>4</td>
+		<td>12</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -550,7 +550,7 @@
 		<td>10</td>
 		<td>12</td>
 		<td>13</td>
-		<td>2</td>
+		<td>4</td>
 	</tr>
 </table>
 <br>
@@ -564,8 +564,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-15</td>
-		<td>2487</td>
-		<td>486</td>
+		<td>2495</td>
+		<td>488</td>
 		<td>192</td>
 		<td>21</td>
 	</tr>
@@ -578,8 +578,8 @@
 	</tr>
 	<tr>
 		<td>51</td>
-		<td>48.76</td>
-		<td>9.53</td>
+		<td>48.92</td>
+		<td>9.57</td>
 		<td></td>
 		<td></td>
 	</tr>
