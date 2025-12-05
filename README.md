@@ -87,8 +87,8 @@
 		<td>1385</td>
 		<td>1411</td>
 		<td>1443</td>
-		<td>1460</td>
-		<td>+ 17</td>
+		<td>1461</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19443</td>
-		<td>309</td>
+		<td>19444</td>
+		<td>310</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>1385</td>
 		<td>1411</td>
 		<td>1443</td>
-		<td>1460</td>
-		<td>+ 17</td>
+		<td>1461</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19443</td>
-		<td>309</td>
+		<td>19444</td>
+		<td>310</td>
 	</tr>
 </table>
 </sub></sup>
