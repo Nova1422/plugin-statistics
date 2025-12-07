@@ -21,8 +21,8 @@
 		<td>1405</td>
 		<td>1430</td>
 		<td>1457</td>
-		<td>1462</td>
-		<td>+ 5</td>
+		<td>1463</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>1361</td>
 		<td>1387</td>
 		<td>1410</td>
-		<td>1411</td>
-		<td>+ 1</td>
+		<td>1412</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -142,8 +142,8 @@
 		<td>1226</td>
 		<td>1250</td>
 		<td>1274</td>
-		<td>1275</td>
-		<td>+ 1</td>
+		<td>1277</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -219,8 +219,8 @@
 		<td>1338</td>
 		<td>1364</td>
 		<td>1386</td>
-		<td>1388</td>
-		<td>+ 2</td>
+		<td>1394</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>unlock.hai.reveal</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20038</td>
-		<td>23</td>
+		<td>20048</td>
+		<td>33</td>
 	</tr>
 </table>
 </sub></sup>
@@ -311,8 +311,8 @@
 		<td>1405</td>
 		<td>1430</td>
 		<td>1457</td>
-		<td>1462</td>
-		<td>+ 5</td>
+		<td>1463</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -355,8 +355,8 @@
 		<td>1361</td>
 		<td>1387</td>
 		<td>1410</td>
-		<td>1411</td>
-		<td>+ 1</td>
+		<td>1412</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -366,8 +366,8 @@
 		<td>1338</td>
 		<td>1364</td>
 		<td>1386</td>
-		<td>1388</td>
-		<td>+ 2</td>
+		<td>1394</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -399,8 +399,8 @@
 		<td>1226</td>
 		<td>1250</td>
 		<td>1274</td>
-		<td>1275</td>
-		<td>+ 1</td>
+		<td>1277</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>navypirates</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20038</td>
-		<td>23</td>
+		<td>20048</td>
+		<td>33</td>
 	</tr>
 </table>
 </sub></sup>
@@ -518,7 +518,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-11-28</td>
 		<td>2025-11-29</td>
 		<td>2025-11-30</td>
 		<td>2025-12-01</td>
@@ -527,10 +526,10 @@
 		<td>2025-12-04</td>
 		<td>2025-12-05</td>
 		<td>2025-12-06</td>
+		<td>2025-12-07</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>42</td>
 		<td>17</td>
 		<td>41</td>
 		<td>31</td>
@@ -539,10 +538,10 @@
 		<td>46</td>
 		<td>18</td>
 		<td>40</td>
+		<td>2</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>8</td>
 		<td>8</td>
 		<td>11</td>
 		<td>14</td>
@@ -551,6 +550,7 @@
 		<td>13</td>
 		<td>9</td>
 		<td>18</td>
+		<td>1</td>
 	</tr>
 </table>
 <br>
@@ -564,8 +564,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-15</td>
-		<td>2541</td>
-		<td>511</td>
+		<td>2543</td>
+		<td>512</td>
 		<td>192</td>
 		<td>21</td>
 	</tr>
@@ -578,8 +578,8 @@
 	</tr>
 	<tr>
 		<td>53</td>
-		<td>47.94</td>
-		<td>9.64</td>
+		<td>47.98</td>
+		<td>9.66</td>
 		<td></td>
 		<td></td>
 	</tr>
