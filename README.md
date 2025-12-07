@@ -21,8 +21,8 @@
 		<td>1405</td>
 		<td>1430</td>
 		<td>1457</td>
-		<td>1472</td>
-		<td>+ 15</td>
+		<td>1473</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20092</td>
-		<td>77</td>
+		<td>20093</td>
+		<td>78</td>
 	</tr>
 </table>
 </sub></sup>
@@ -311,8 +311,8 @@
 		<td>1405</td>
 		<td>1430</td>
 		<td>1457</td>
-		<td>1472</td>
-		<td>+ 15</td>
+		<td>1473</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20092</td>
-		<td>77</td>
+		<td>20093</td>
+		<td>78</td>
 	</tr>
 </table>
 </sub></sup>
