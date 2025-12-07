@@ -21,8 +21,8 @@
 		<td>1405</td>
 		<td>1430</td>
 		<td>1457</td>
-		<td>1466</td>
-		<td>+ 9</td>
+		<td>1467</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20068</td>
-		<td>53</td>
+		<td>20069</td>
+		<td>54</td>
 	</tr>
 </table>
 </sub></sup>
@@ -311,8 +311,8 @@
 		<td>1405</td>
 		<td>1430</td>
 		<td>1457</td>
-		<td>1466</td>
-		<td>+ 9</td>
+		<td>1467</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20068</td>
-		<td>53</td>
+		<td>20069</td>
+		<td>54</td>
 	</tr>
 </table>
 </sub></sup>
@@ -538,7 +538,7 @@
 		<td>46</td>
 		<td>18</td>
 		<td>40</td>
-		<td>2</td>
+		<td>3</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -550,7 +550,7 @@
 		<td>13</td>
 		<td>9</td>
 		<td>18</td>
-		<td>1</td>
+		<td>2</td>
 	</tr>
 </table>
 <br>
@@ -564,8 +564,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-15</td>
-		<td>2543</td>
-		<td>512</td>
+		<td>2544</td>
+		<td>513</td>
 		<td>192</td>
 		<td>21</td>
 	</tr>
@@ -578,8 +578,8 @@
 	</tr>
 	<tr>
 		<td>53</td>
-		<td>47.98</td>
-		<td>9.66</td>
+		<td>48.00</td>
+		<td>9.68</td>
 		<td></td>
 		<td></td>
 	</tr>
