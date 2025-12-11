@@ -21,8 +21,8 @@
 		<td>1509</td>
 		<td>1534</td>
 		<td>1564</td>
-		<td>1579</td>
-		<td>+ 15</td>
+		<td>1580</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -197,8 +197,8 @@
 		<td>285</td>
 		<td>311</td>
 		<td>345</td>
-		<td>359</td>
-		<td>+ 14</td>
+		<td>361</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22165</td>
-		<td>296</td>
+		<td>22168</td>
+		<td>299</td>
 	</tr>
 </table>
 </sub></sup>
@@ -311,8 +311,8 @@
 		<td>1509</td>
 		<td>1534</td>
 		<td>1564</td>
-		<td>1579</td>
-		<td>+ 15</td>
+		<td>1580</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -465,8 +465,8 @@
 		<td>285</td>
 		<td>311</td>
 		<td>345</td>
-		<td>359</td>
-		<td>+ 14</td>
+		<td>361</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22165</td>
-		<td>296</td>
+		<td>22168</td>
+		<td>299</td>
 	</tr>
 </table>
 </sub></sup>
