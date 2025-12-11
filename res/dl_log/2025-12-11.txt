@@ -3,7 +3,7 @@ v1.0.1-navypirates | downloads: 190
 v1.0.0-easier.ground.assault | downloads: 8
 v1.0.0-disable.aberrant.blockade | downloads: 8
 v1.0.0-avgi.outfitter | downloads: 19
-v1.0.1-reduce.requiredcrew | downloads: 269
+v1.0.1-reduce.requiredcrew | downloads: 271
 v1.0.0-reduce.requiredcrew | downloads: 93
 v1.0.0-capture.augen | downloads: 375
 v1.0.0-zoom.extension | downloads: 461
@@ -29,7 +29,7 @@ v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 111
 v1.0.0-capturingpower | downloads: 752
-v1.0.0-1requiredcrew | downloads: 1581
+v1.0.0-1requiredcrew | downloads: 1582
 v1.0.1-unlimited.dfc | downloads: 1355
 v1.0.0-unlimited.dfc | downloads: 155
 v1.0.0-purchaseable.cloakingdevice | downloads: 1526
@@ -39,11 +39,11 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 38
-# TOTAL DOWNLOADS: 22186
+# TOTAL DOWNLOADS: 22189
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 1581
+1requiredcrew 1582
 aberrant.kahet.outfitter 1528
 avgi.outfitter 19
 bunrodeaoutfitter 1541
@@ -59,7 +59,7 @@ purchase.bactrian 1570
 purchaseable.androids 392
 purchaseable.cloakingdevice 1526
 quargoutfitter 1482
-reduce.requiredcrew 362
+reduce.requiredcrew 364
 tributequarg 1476
 unlimited.dfc 1510
 unlock.hai.reveal 875
