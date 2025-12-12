@@ -21,8 +21,8 @@
 		<td>1534</td>
 		<td>1564</td>
 		<td>1588</td>
-		<td>1599</td>
-		<td>+ 11</td>
+		<td>1600</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>1478</td>
 		<td>1507</td>
 		<td>1534</td>
-		<td>1545</td>
-		<td>+ 11</td>
+		<td>1546</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>1493</td>
 		<td>1523</td>
 		<td>1547</td>
-		<td>1558</td>
-		<td>+ 11</td>
+		<td>1559</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -65,8 +65,8 @@
 		<td>1637</td>
 		<td>1666</td>
 		<td>1688</td>
-		<td>1700</td>
-		<td>+ 12</td>
+		<td>1701</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
@@ -76,8 +76,8 @@
 		<td>327</td>
 		<td>357</td>
 		<td>381</td>
-		<td>393</td>
-		<td>+ 12</td>
+		<td>394</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -87,8 +87,8 @@
 		<td>1561</td>
 		<td>1594</td>
 		<td>1617</td>
-		<td>1628</td>
-		<td>+ 11</td>
+		<td>1629</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22515</td>
-		<td>207</td>
+		<td>22521</td>
+		<td>213</td>
 	</tr>
 </table>
 </sub></sup>
@@ -278,8 +278,8 @@
 		<td>1637</td>
 		<td>1666</td>
 		<td>1688</td>
-		<td>1700</td>
-		<td>+ 12</td>
+		<td>1701</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -300,8 +300,8 @@
 		<td>1561</td>
 		<td>1594</td>
 		<td>1617</td>
-		<td>1628</td>
-		<td>+ 11</td>
+		<td>1629</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -311,8 +311,8 @@
 		<td>1534</td>
 		<td>1564</td>
 		<td>1588</td>
-		<td>1599</td>
-		<td>+ 11</td>
+		<td>1600</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -333,8 +333,8 @@
 		<td>1493</td>
 		<td>1523</td>
 		<td>1547</td>
-		<td>1558</td>
-		<td>+ 11</td>
+		<td>1559</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -344,8 +344,8 @@
 		<td>1478</td>
 		<td>1507</td>
 		<td>1534</td>
-		<td>1545</td>
-		<td>+ 11</td>
+		<td>1546</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -454,8 +454,8 @@
 		<td>327</td>
 		<td>357</td>
 		<td>381</td>
-		<td>393</td>
-		<td>+ 12</td>
+		<td>394</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22515</td>
-		<td>207</td>
+		<td>22521</td>
+		<td>213</td>
 	</tr>
 </table>
 </sub></sup>
