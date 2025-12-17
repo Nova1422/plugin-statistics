@@ -153,8 +153,8 @@
 		<td>1659</td>
 		<td>1688</td>
 		<td>1710</td>
-		<td>1725</td>
-		<td>+ 15</td>
+		<td>1727</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -164,8 +164,8 @@
 		<td>484</td>
 		<td>508</td>
 		<td>530</td>
-		<td>545</td>
-		<td>+ 15</td>
+		<td>547</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25041</td>
-		<td>278</td>
+		<td>25045</td>
+		<td>282</td>
 	</tr>
 </table>
 </sub></sup>
@@ -322,8 +322,8 @@
 		<td>1659</td>
 		<td>1688</td>
 		<td>1710</td>
-		<td>1725</td>
-		<td>+ 15</td>
+		<td>1727</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -443,8 +443,8 @@
 		<td>484</td>
 		<td>508</td>
 		<td>530</td>
-		<td>545</td>
-		<td>+ 15</td>
+		<td>547</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25041</td>
-		<td>278</td>
+		<td>25045</td>
+		<td>282</td>
 	</tr>
 </table>
 </sub></sup>
@@ -518,7 +518,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-12-08</td>
 		<td>2025-12-09</td>
 		<td>2025-12-10</td>
 		<td>2025-12-11</td>
@@ -527,10 +526,10 @@
 		<td>2025-12-14</td>
 		<td>2025-12-15</td>
 		<td>2025-12-16</td>
+		<td>2025-12-17</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>26</td>
 		<td>22</td>
 		<td>10</td>
 		<td>20</td>
@@ -539,10 +538,10 @@
 		<td>29</td>
 		<td>43</td>
 		<td>19</td>
+		<td>1</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>7</td>
 		<td>7</td>
 		<td>8</td>
 		<td>10</td>
@@ -551,6 +550,7 @@
 		<td>12</td>
 		<td>8</td>
 		<td>10</td>
+		<td>1</td>
 	</tr>
 </table>
 <br>
@@ -564,8 +564,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-15</td>
-		<td>2804</td>
-		<td>606</td>
+		<td>2805</td>
+		<td>607</td>
 		<td>192</td>
 		<td>21</td>
 	</tr>
@@ -578,8 +578,8 @@
 	</tr>
 	<tr>
 		<td>63</td>
-		<td>44.51</td>
-		<td>9.62</td>
+		<td>44.52</td>
+		<td>9.63</td>
 		<td></td>
 		<td></td>
 	</tr>
