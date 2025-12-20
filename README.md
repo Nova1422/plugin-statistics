@@ -21,8 +21,8 @@
 		<td>1740</td>
 		<td>1768</td>
 		<td>1797</td>
-		<td>1799</td>
-		<td>+ 2</td>
+		<td>1800</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>1704</td>
 		<td>1732</td>
 		<td>1763</td>
-		<td>1765</td>
-		<td>+ 2</td>
+		<td>1766</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>1708</td>
 		<td>1736</td>
 		<td>1763</td>
-		<td>1765</td>
-		<td>+ 2</td>
+		<td>1766</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -65,8 +65,8 @@
 		<td>1848</td>
 		<td>1874</td>
 		<td>1901</td>
-		<td>1903</td>
-		<td>+ 2</td>
+		<td>1904</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
@@ -76,8 +76,8 @@
 		<td>545</td>
 		<td>573</td>
 		<td>601</td>
-		<td>603</td>
-		<td>+ 2</td>
+		<td>604</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -87,8 +87,8 @@
 		<td>1781</td>
 		<td>1811</td>
 		<td>1838</td>
-		<td>1840</td>
-		<td>+ 2</td>
+		<td>1841</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25771</td>
-		<td>25</td>
+		<td>25777</td>
+		<td>31</td>
 	</tr>
 </table>
 </sub></sup>
@@ -278,8 +278,8 @@
 		<td>1848</td>
 		<td>1874</td>
 		<td>1901</td>
-		<td>1903</td>
-		<td>+ 2</td>
+		<td>1904</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -300,8 +300,8 @@
 		<td>1781</td>
 		<td>1811</td>
 		<td>1838</td>
-		<td>1840</td>
-		<td>+ 2</td>
+		<td>1841</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -311,8 +311,8 @@
 		<td>1740</td>
 		<td>1768</td>
 		<td>1797</td>
-		<td>1799</td>
-		<td>+ 2</td>
+		<td>1800</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -322,8 +322,8 @@
 		<td>1708</td>
 		<td>1736</td>
 		<td>1763</td>
-		<td>1765</td>
-		<td>+ 2</td>
+		<td>1766</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -333,8 +333,8 @@
 		<td>1704</td>
 		<td>1732</td>
 		<td>1763</td>
-		<td>1765</td>
-		<td>+ 2</td>
+		<td>1766</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -443,8 +443,8 @@
 		<td>545</td>
 		<td>573</td>
 		<td>601</td>
-		<td>603</td>
-		<td>+ 2</td>
+		<td>604</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25771</td>
-		<td>25</td>
+		<td>25777</td>
+		<td>31</td>
 	</tr>
 </table>
 </sub></sup>
