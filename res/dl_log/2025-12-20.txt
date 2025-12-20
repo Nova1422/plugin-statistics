@@ -19,17 +19,17 @@ v1.0.3-obtainheron | downloads: 250
 v1.0.2-obtainheron | downloads: 25
 v1.0.1-purchase.bactrian | downloads: 1649
 v1.0.0-quargoutfitter | downloads: 1675
-v1.0.2-aberrant.kahet.outfitter | downloads: 1788
+v1.0.2-aberrant.kahet.outfitter | downloads: 1789
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
 v1.0.3-capture.archons | downloads: 707
 v1.0.2-tributequarg | downloads: 1647
 v1.0.1-jumpdrive.extended | downloads: 1773
-v1.0.0-bunrodeaoutfitter | downloads: 1790
+v1.0.0-bunrodeaoutfitter | downloads: 1791
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 111
 v1.0.0-capturingpower | downloads: 752
-v1.0.0-1requiredcrew | downloads: 1822
+v1.0.0-1requiredcrew | downloads: 1823
 v1.0.1-unlimited.dfc | downloads: 1523
 v1.0.0-unlimited.dfc | downloads: 164
 v1.0.0-purchaseable.cloakingdevice | downloads: 1718
@@ -39,14 +39,14 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 38
-# TOTAL DOWNLOADS: 25936
+# TOTAL DOWNLOADS: 25939
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 1822
-aberrant.kahet.outfitter 1792
+1requiredcrew 1823
+aberrant.kahet.outfitter 1793
 avgi.outfitter 30
-bunrodeaoutfitter 1790
+bunrodeaoutfitter 1791
 capture.archons 1914
 capture.augen 610
 capturingpower 1847
