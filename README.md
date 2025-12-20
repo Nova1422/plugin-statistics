@@ -21,8 +21,8 @@
 		<td>1740</td>
 		<td>1768</td>
 		<td>1797</td>
-		<td>1820</td>
-		<td>+ 23</td>
+		<td>1821</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>1704</td>
 		<td>1732</td>
 		<td>1763</td>
-		<td>1788</td>
-		<td>+ 25</td>
+		<td>1791</td>
+		<td>+ 28</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -43,8 +43,8 @@
 		<td>26</td>
 		<td>28</td>
 		<td>28</td>
-		<td>28</td>
-		<td></td>
+		<td>30</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -54,8 +54,8 @@
 		<td>1708</td>
 		<td>1736</td>
 		<td>1763</td>
-		<td>1786</td>
-		<td>+ 23</td>
+		<td>1789</td>
+		<td>+ 26</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -153,8 +153,8 @@
 		<td>1737</td>
 		<td>1742</td>
 		<td>1751</td>
-		<td>1758</td>
-		<td>+ 7</td>
+		<td>1760</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -164,8 +164,8 @@
 		<td>557</td>
 		<td>562</td>
 		<td>573</td>
-		<td>578</td>
-		<td>+ 5</td>
+		<td>580</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -186,8 +186,8 @@
 		<td>1654</td>
 		<td>1661</td>
 		<td>1668</td>
-		<td>1673</td>
-		<td>+ 5</td>
+		<td>1675</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25918</td>
-		<td>172</td>
+		<td>25933</td>
+		<td>187</td>
 	</tr>
 </table>
 </sub></sup>
@@ -311,8 +311,8 @@
 		<td>1740</td>
 		<td>1768</td>
 		<td>1797</td>
-		<td>1820</td>
-		<td>+ 23</td>
+		<td>1821</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -322,8 +322,8 @@
 		<td>1704</td>
 		<td>1732</td>
 		<td>1763</td>
-		<td>1788</td>
-		<td>+ 25</td>
+		<td>1791</td>
+		<td>+ 28</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -333,8 +333,8 @@
 		<td>1708</td>
 		<td>1736</td>
 		<td>1763</td>
-		<td>1786</td>
-		<td>+ 23</td>
+		<td>1789</td>
+		<td>+ 26</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -344,8 +344,8 @@
 		<td>1737</td>
 		<td>1742</td>
 		<td>1751</td>
-		<td>1758</td>
-		<td>+ 7</td>
+		<td>1760</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -377,8 +377,8 @@
 		<td>1654</td>
 		<td>1661</td>
 		<td>1668</td>
-		<td>1673</td>
-		<td>+ 5</td>
+		<td>1675</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -454,8 +454,8 @@
 		<td>557</td>
 		<td>562</td>
 		<td>573</td>
-		<td>578</td>
-		<td>+ 5</td>
+		<td>580</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -476,8 +476,8 @@
 		<td>26</td>
 		<td>28</td>
 		<td>28</td>
-		<td>28</td>
-		<td></td>
+		<td>30</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25918</td>
-		<td>172</td>
+		<td>25933</td>
+		<td>187</td>
 	</tr>
 </table>
 </sub></sup>
