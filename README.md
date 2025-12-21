@@ -21,8 +21,8 @@
 		<td>1768</td>
 		<td>1797</td>
 		<td>1823</td>
-		<td>1832</td>
-		<td>+ 9</td>
+		<td>1833</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>1732</td>
 		<td>1763</td>
 		<td>1793</td>
-		<td>1802</td>
-		<td>+ 9</td>
+		<td>1805</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>1736</td>
 		<td>1763</td>
 		<td>1791</td>
-		<td>1802</td>
-		<td>+ 11</td>
+		<td>1803</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -120,8 +120,8 @@
 		<td>1866</td>
 		<td>1871</td>
 		<td>1879</td>
-		<td>1883</td>
-		<td>+ 4</td>
+		<td>1884</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>navypirates</td>
@@ -131,8 +131,8 @@
 		<td>1282</td>
 		<td>1289</td>
 		<td>1294</td>
-		<td>1297</td>
-		<td>+ 3</td>
+		<td>1299</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -197,8 +197,8 @@
 		<td>535</td>
 		<td>540</td>
 		<td>545</td>
-		<td>548</td>
-		<td>+ 3</td>
+		<td>549</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26016</td>
-		<td>77</td>
+		<td>26025</td>
+		<td>86</td>
 	</tr>
 </table>
 </sub></sup>
@@ -289,8 +289,8 @@
 		<td>1866</td>
 		<td>1871</td>
 		<td>1879</td>
-		<td>1883</td>
-		<td>+ 4</td>
+		<td>1884</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -311,19 +311,8 @@
 		<td>1768</td>
 		<td>1797</td>
 		<td>1823</td>
-		<td>1832</td>
-		<td>+ 9</td>
-	</tr>
-	<tr>
-		<td>bunrodeaoutfitter</td>
-		<td>1660</td>
-		<td>1683</td>
-		<td>1708</td>
-		<td>1736</td>
-		<td>1763</td>
-		<td>1791</td>
-		<td>1802</td>
-		<td>+ 11</td>
+		<td>1833</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -333,8 +322,19 @@
 		<td>1732</td>
 		<td>1763</td>
 		<td>1793</td>
-		<td>1802</td>
-		<td>+ 9</td>
+		<td>1805</td>
+		<td>+ 12</td>
+	</tr>
+	<tr>
+		<td>bunrodeaoutfitter</td>
+		<td>1660</td>
+		<td>1683</td>
+		<td>1708</td>
+		<td>1736</td>
+		<td>1763</td>
+		<td>1791</td>
+		<td>1803</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -410,8 +410,8 @@
 		<td>1282</td>
 		<td>1289</td>
 		<td>1294</td>
-		<td>1297</td>
-		<td>+ 3</td>
+		<td>1299</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>unlock.hai.reveal</td>
@@ -465,8 +465,8 @@
 		<td>535</td>
 		<td>540</td>
 		<td>545</td>
-		<td>548</td>
-		<td>+ 3</td>
+		<td>549</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26016</td>
-		<td>77</td>
+		<td>26025</td>
+		<td>86</td>
 	</tr>
 </table>
 </sub></sup>
