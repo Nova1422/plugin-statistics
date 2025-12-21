@@ -21,8 +21,8 @@
 		<td>1768</td>
 		<td>1797</td>
 		<td>1823</td>
-		<td>1847</td>
-		<td>+ 24</td>
+		<td>1848</td>
+		<td>+ 25</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>1732</td>
 		<td>1763</td>
 		<td>1793</td>
-		<td>1824</td>
-		<td>+ 31</td>
+		<td>1829</td>
+		<td>+ 36</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -43,8 +43,8 @@
 		<td>28</td>
 		<td>28</td>
 		<td>30</td>
-		<td>32</td>
-		<td>+ 2</td>
+		<td>36</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -54,8 +54,8 @@
 		<td>1736</td>
 		<td>1763</td>
 		<td>1791</td>
-		<td>1820</td>
-		<td>+ 29</td>
+		<td>1825</td>
+		<td>+ 34</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -153,8 +153,8 @@
 		<td>1742</td>
 		<td>1751</td>
 		<td>1760</td>
-		<td>1768</td>
-		<td>+ 8</td>
+		<td>1770</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -164,8 +164,8 @@
 		<td>562</td>
 		<td>573</td>
 		<td>580</td>
-		<td>588</td>
-		<td>+ 8</td>
+		<td>590</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26132</td>
-		<td>193</td>
+		<td>26151</td>
+		<td>212</td>
 	</tr>
 </table>
 </sub></sup>
@@ -311,8 +311,8 @@
 		<td>1768</td>
 		<td>1797</td>
 		<td>1823</td>
-		<td>1847</td>
-		<td>+ 24</td>
+		<td>1848</td>
+		<td>+ 25</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -322,8 +322,8 @@
 		<td>1732</td>
 		<td>1763</td>
 		<td>1793</td>
-		<td>1824</td>
-		<td>+ 31</td>
+		<td>1829</td>
+		<td>+ 36</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -333,8 +333,8 @@
 		<td>1736</td>
 		<td>1763</td>
 		<td>1791</td>
-		<td>1820</td>
-		<td>+ 29</td>
+		<td>1825</td>
+		<td>+ 34</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -344,8 +344,8 @@
 		<td>1742</td>
 		<td>1751</td>
 		<td>1760</td>
-		<td>1768</td>
-		<td>+ 8</td>
+		<td>1770</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -454,8 +454,8 @@
 		<td>562</td>
 		<td>573</td>
 		<td>580</td>
-		<td>588</td>
-		<td>+ 8</td>
+		<td>590</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -476,8 +476,8 @@
 		<td>28</td>
 		<td>28</td>
 		<td>30</td>
-		<td>32</td>
-		<td>+ 2</td>
+		<td>36</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26132</td>
-		<td>193</td>
+		<td>26151</td>
+		<td>212</td>
 	</tr>
 </table>
 </sub></sup>
