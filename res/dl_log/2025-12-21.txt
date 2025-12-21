@@ -1,9 +1,9 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.1-navypirates | downloads: 382
+v1.0.1-navypirates | downloads: 384
 v1.0.0-easier.ground.assault | downloads: 12
 v1.0.0-disable.aberrant.blockade | downloads: 13
 v1.0.0-avgi.outfitter | downloads: 30
-v1.0.1-reduce.requiredcrew | downloads: 455
+v1.0.1-reduce.requiredcrew | downloads: 456
 v1.0.0-reduce.requiredcrew | downloads: 93
 v1.0.0-capture.augen | downloads: 613
 v1.0.0-zoom.extension | downloads: 648
@@ -19,17 +19,17 @@ v1.0.3-obtainheron | downloads: 250
 v1.0.2-obtainheron | downloads: 25
 v1.0.1-purchase.bactrian | downloads: 1652
 v1.0.0-quargoutfitter | downloads: 1678
-v1.0.2-aberrant.kahet.outfitter | downloads: 1798
+v1.0.2-aberrant.kahet.outfitter | downloads: 1801
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
 v1.0.3-capture.archons | downloads: 707
 v1.0.2-tributequarg | downloads: 1650
-v1.0.1-jumpdrive.extended | downloads: 1777
-v1.0.0-bunrodeaoutfitter | downloads: 1802
+v1.0.1-jumpdrive.extended | downloads: 1778
+v1.0.0-bunrodeaoutfitter | downloads: 1803
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 111
 v1.0.0-capturingpower | downloads: 752
-v1.0.0-1requiredcrew | downloads: 1832
+v1.0.0-1requiredcrew | downloads: 1833
 v1.0.1-unlimited.dfc | downloads: 1526
 v1.0.0-unlimited.dfc | downloads: 164
 v1.0.0-purchaseable.cloakingdevice | downloads: 1723
@@ -39,27 +39,27 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 38
-# TOTAL DOWNLOADS: 26016
+# TOTAL DOWNLOADS: 26025
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 1832
-aberrant.kahet.outfitter 1802
+1requiredcrew 1833
+aberrant.kahet.outfitter 1805
 avgi.outfitter 30
-bunrodeaoutfitter 1802
+bunrodeaoutfitter 1803
 capture.archons 1917
 capture.augen 613
 capturingpower 1850
 disable.aberrant.blockade 13
 easier.ground.assault 12
-jumpdrive.extended 1883
-navypirates 1297
+jumpdrive.extended 1884
+navypirates 1299
 obtainheron 1602
 purchase.bactrian 1763
 purchaseable.androids 583
 purchaseable.cloakingdevice 1723
 quargoutfitter 1678
-reduce.requiredcrew 548
+reduce.requiredcrew 549
 tributequarg 1660
 unlimited.dfc 1690
 unlock.hai.reveal 1070
