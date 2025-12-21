@@ -21,8 +21,8 @@
 		<td>1768</td>
 		<td>1797</td>
 		<td>1823</td>
-		<td>1827</td>
-		<td>+ 4</td>
+		<td>1828</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>1732</td>
 		<td>1763</td>
 		<td>1793</td>
-		<td>1797</td>
-		<td>+ 4</td>
+		<td>1798</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>1736</td>
 		<td>1763</td>
 		<td>1791</td>
-		<td>1797</td>
-		<td>+ 6</td>
+		<td>1798</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -120,8 +120,8 @@
 		<td>1866</td>
 		<td>1871</td>
 		<td>1879</td>
-		<td>1881</td>
-		<td>+ 2</td>
+		<td>1882</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>navypirates</td>
@@ -175,8 +175,8 @@
 		<td>1703</td>
 		<td>1713</td>
 		<td>1718</td>
-		<td>1720</td>
-		<td>+ 2</td>
+		<td>1722</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25983</td>
-		<td>44</td>
+		<td>25989</td>
+		<td>50</td>
 	</tr>
 </table>
 </sub></sup>
@@ -289,8 +289,8 @@
 		<td>1866</td>
 		<td>1871</td>
 		<td>1879</td>
-		<td>1881</td>
-		<td>+ 2</td>
+		<td>1882</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -311,8 +311,8 @@
 		<td>1768</td>
 		<td>1797</td>
 		<td>1823</td>
-		<td>1827</td>
-		<td>+ 4</td>
+		<td>1828</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -322,8 +322,8 @@
 		<td>1736</td>
 		<td>1763</td>
 		<td>1791</td>
-		<td>1797</td>
-		<td>+ 6</td>
+		<td>1798</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -333,8 +333,8 @@
 		<td>1732</td>
 		<td>1763</td>
 		<td>1793</td>
-		<td>1797</td>
-		<td>+ 4</td>
+		<td>1798</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -355,8 +355,8 @@
 		<td>1703</td>
 		<td>1713</td>
 		<td>1718</td>
-		<td>1720</td>
-		<td>+ 2</td>
+		<td>1722</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25983</td>
-		<td>44</td>
+		<td>25989</td>
+		<td>50</td>
 	</tr>
 </table>
 </sub></sup>
