@@ -21,8 +21,8 @@
 		<td>1797</td>
 		<td>1823</td>
 		<td>1849</td>
-		<td>1864</td>
-		<td>+ 15</td>
+		<td>1865</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>1763</td>
 		<td>1793</td>
 		<td>1830</td>
-		<td>1847</td>
-		<td>+ 17</td>
+		<td>1848</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>1763</td>
 		<td>1791</td>
 		<td>1826</td>
-		<td>1843</td>
-		<td>+ 17</td>
+		<td>1844</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -230,8 +230,8 @@
 		<td>1062</td>
 		<td>1067</td>
 		<td>1076</td>
-		<td>1081</td>
-		<td>+ 5</td>
+		<td>1083</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>zoom.extension</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26281</td>
-		<td>127</td>
+		<td>26286</td>
+		<td>132</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>1797</td>
 		<td>1823</td>
 		<td>1849</td>
-		<td>1864</td>
-		<td>+ 15</td>
+		<td>1865</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -322,8 +322,8 @@
 		<td>1763</td>
 		<td>1793</td>
 		<td>1830</td>
-		<td>1847</td>
-		<td>+ 17</td>
+		<td>1848</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -333,8 +333,8 @@
 		<td>1763</td>
 		<td>1791</td>
 		<td>1826</td>
-		<td>1843</td>
-		<td>+ 17</td>
+		<td>1844</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -421,8 +421,8 @@
 		<td>1062</td>
 		<td>1067</td>
 		<td>1076</td>
-		<td>1081</td>
-		<td>+ 5</td>
+		<td>1083</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>zoom.extension</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26281</td>
-		<td>127</td>
+		<td>26286</td>
+		<td>132</td>
 	</tr>
 </table>
 </sub></sup>
