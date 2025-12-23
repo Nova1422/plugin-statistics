@@ -21,8 +21,8 @@
 		<td>1823</td>
 		<td>1849</td>
 		<td>1878</td>
-		<td>1887</td>
-		<td>+ 9</td>
+		<td>1888</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>1793</td>
 		<td>1830</td>
 		<td>1861</td>
-		<td>1870</td>
-		<td>+ 9</td>
+		<td>1872</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>1791</td>
 		<td>1826</td>
 		<td>1857</td>
-		<td>1866</td>
-		<td>+ 9</td>
+		<td>1868</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -76,8 +76,8 @@
 		<td>610</td>
 		<td>616</td>
 		<td>627</td>
-		<td>630</td>
-		<td>+ 3</td>
+		<td>631</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -164,8 +164,8 @@
 		<td>580</td>
 		<td>590</td>
 		<td>601</td>
-		<td>604</td>
-		<td>+ 3</td>
+		<td>605</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26497</td>
-		<td>75</td>
+		<td>26504</td>
+		<td>82</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>1823</td>
 		<td>1849</td>
 		<td>1878</td>
-		<td>1887</td>
-		<td>+ 9</td>
+		<td>1888</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -311,8 +311,8 @@
 		<td>1793</td>
 		<td>1830</td>
 		<td>1861</td>
-		<td>1870</td>
-		<td>+ 9</td>
+		<td>1872</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -322,8 +322,8 @@
 		<td>1791</td>
 		<td>1826</td>
 		<td>1857</td>
-		<td>1866</td>
-		<td>+ 9</td>
+		<td>1868</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -443,8 +443,8 @@
 		<td>610</td>
 		<td>616</td>
 		<td>627</td>
-		<td>630</td>
-		<td>+ 3</td>
+		<td>631</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -454,8 +454,8 @@
 		<td>580</td>
 		<td>590</td>
 		<td>601</td>
-		<td>604</td>
-		<td>+ 3</td>
+		<td>605</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26497</td>
-		<td>75</td>
+		<td>26504</td>
+		<td>82</td>
 	</tr>
 </table>
 </sub></sup>
@@ -538,7 +538,7 @@
 		<td>4</td>
 		<td>26</td>
 		<td>8</td>
-		<td>2</td>
+		<td>3</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -550,7 +550,7 @@
 		<td>3</td>
 		<td>5</td>
 		<td>7</td>
-		<td>2</td>
+		<td>3</td>
 	</tr>
 </table>
 <br>
@@ -564,8 +564,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-15</td>
-		<td>2873</td>
-		<td>639</td>
+		<td>2874</td>
+		<td>640</td>
 		<td>192</td>
 		<td>21</td>
 	</tr>
@@ -578,8 +578,8 @@
 	</tr>
 	<tr>
 		<td>69</td>
-		<td>41.64</td>
-		<td>9.26</td>
+		<td>41.65</td>
+		<td>9.28</td>
 		<td></td>
 		<td></td>
 	</tr>
