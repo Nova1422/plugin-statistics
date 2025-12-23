@@ -21,8 +21,8 @@
 		<td>1823</td>
 		<td>1849</td>
 		<td>1878</td>
-		<td>1898</td>
-		<td>+ 20</td>
+		<td>1899</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>1791</td>
 		<td>1826</td>
 		<td>1857</td>
-		<td>1878</td>
-		<td>+ 21</td>
+		<td>1879</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -76,8 +76,8 @@
 		<td>610</td>
 		<td>616</td>
 		<td>627</td>
-		<td>632</td>
-		<td>+ 5</td>
+		<td>633</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -186,8 +186,8 @@
 		<td>1675</td>
 		<td>1683</td>
 		<td>1694</td>
-		<td>1702</td>
-		<td>+ 8</td>
+		<td>1703</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -219,8 +219,8 @@
 		<td>1687</td>
 		<td>1692</td>
 		<td>1703</td>
-		<td>1707</td>
-		<td>+ 4</td>
+		<td>1708</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>unlock.hai.reveal</td>
@@ -230,8 +230,8 @@
 		<td>1067</td>
 		<td>1076</td>
 		<td>1089</td>
-		<td>1093</td>
-		<td>+ 4</td>
+		<td>1094</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>zoom.extension</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26560</td>
-		<td>138</td>
+		<td>26566</td>
+		<td>144</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>1823</td>
 		<td>1849</td>
 		<td>1878</td>
-		<td>1898</td>
-		<td>+ 20</td>
+		<td>1899</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -322,8 +322,8 @@
 		<td>1791</td>
 		<td>1826</td>
 		<td>1857</td>
-		<td>1878</td>
-		<td>+ 21</td>
+		<td>1879</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -366,8 +366,8 @@
 		<td>1687</td>
 		<td>1692</td>
 		<td>1703</td>
-		<td>1707</td>
-		<td>+ 4</td>
+		<td>1708</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -377,8 +377,8 @@
 		<td>1675</td>
 		<td>1683</td>
 		<td>1694</td>
-		<td>1702</td>
-		<td>+ 8</td>
+		<td>1703</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -421,8 +421,8 @@
 		<td>1067</td>
 		<td>1076</td>
 		<td>1089</td>
-		<td>1093</td>
-		<td>+ 4</td>
+		<td>1094</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>zoom.extension</td>
@@ -443,8 +443,8 @@
 		<td>610</td>
 		<td>616</td>
 		<td>627</td>
-		<td>632</td>
-		<td>+ 5</td>
+		<td>633</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26560</td>
-		<td>138</td>
+		<td>26566</td>
+		<td>144</td>
 	</tr>
 </table>
 </sub></sup>
