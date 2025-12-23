@@ -7,7 +7,7 @@ v1.0.1-reduce.requiredcrew | downloads: 473
 v1.0.0-reduce.requiredcrew | downloads: 93
 v1.0.0-capture.augen | downloads: 632
 v1.0.0-zoom.extension | downloads: 667
-v1.0.0-purchaseable.androids | downloads: 606
+v1.0.0-purchaseable.androids | downloads: 608
 v1.1.1-capture.archons | downloads: 889
 v1.1.0-capture.archons | downloads: 124
 v1.0.4-capture.archons | downloads: 118
@@ -18,18 +18,18 @@ v1.0.0-navypirates | downloads: 915
 v1.0.3-obtainheron | downloads: 250
 v1.0.2-obtainheron | downloads: 25
 v1.0.1-purchase.bactrian | downloads: 1674
-v1.0.0-quargoutfitter | downloads: 1700
-v1.0.2-aberrant.kahet.outfitter | downloads: 1877
+v1.0.0-quargoutfitter | downloads: 1702
+v1.0.2-aberrant.kahet.outfitter | downloads: 1878
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
 v1.0.3-capture.archons | downloads: 707
 v1.0.2-tributequarg | downloads: 1670
 v1.0.1-jumpdrive.extended | downloads: 1804
-v1.0.0-bunrodeaoutfitter | downloads: 1877
+v1.0.0-bunrodeaoutfitter | downloads: 1878
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 111
 v1.0.0-capturingpower | downloads: 752
-v1.0.0-1requiredcrew | downloads: 1897
+v1.0.0-1requiredcrew | downloads: 1898
 v1.0.1-unlimited.dfc | downloads: 1541
 v1.0.0-unlimited.dfc | downloads: 166
 v1.0.0-purchaseable.cloakingdevice | downloads: 1740
@@ -39,14 +39,14 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 38
-# TOTAL DOWNLOADS: 26553
+# TOTAL DOWNLOADS: 26560
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 1897
-aberrant.kahet.outfitter 1881
+1requiredcrew 1898
+aberrant.kahet.outfitter 1882
 avgi.outfitter 38
-bunrodeaoutfitter 1877
+bunrodeaoutfitter 1878
 capture.archons 1934
 capture.augen 632
 capturingpower 1865
@@ -56,9 +56,9 @@ jumpdrive.extended 1910
 navypirates 1323
 obtainheron 1623
 purchase.bactrian 1785
-purchaseable.androids 606
+purchaseable.androids 608
 purchaseable.cloakingdevice 1740
-quargoutfitter 1700
+quargoutfitter 1702
 reduce.requiredcrew 566
 tributequarg 1680
 unlimited.dfc 1707
