@@ -21,8 +21,8 @@
 		<td>1823</td>
 		<td>1849</td>
 		<td>1878</td>
-		<td>1899</td>
-		<td>+ 21</td>
+		<td>1900</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>1793</td>
 		<td>1830</td>
 		<td>1861</td>
-		<td>1882</td>
-		<td>+ 21</td>
+		<td>1883</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>1791</td>
 		<td>1826</td>
 		<td>1857</td>
-		<td>1879</td>
-		<td>+ 22</td>
+		<td>1880</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -131,8 +131,8 @@
 		<td>1294</td>
 		<td>1304</td>
 		<td>1317</td>
-		<td>1323</td>
-		<td>+ 6</td>
+		<td>1325</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26566</td>
-		<td>144</td>
+		<td>26571</td>
+		<td>149</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>1823</td>
 		<td>1849</td>
 		<td>1878</td>
-		<td>1899</td>
-		<td>+ 21</td>
+		<td>1900</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -311,8 +311,8 @@
 		<td>1793</td>
 		<td>1830</td>
 		<td>1861</td>
-		<td>1882</td>
-		<td>+ 21</td>
+		<td>1883</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -322,8 +322,8 @@
 		<td>1791</td>
 		<td>1826</td>
 		<td>1857</td>
-		<td>1879</td>
-		<td>+ 22</td>
+		<td>1880</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -410,8 +410,8 @@
 		<td>1294</td>
 		<td>1304</td>
 		<td>1317</td>
-		<td>1323</td>
-		<td>+ 6</td>
+		<td>1325</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>unlock.hai.reveal</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26566</td>
-		<td>144</td>
+		<td>26571</td>
+		<td>149</td>
 	</tr>
 </table>
 </sub></sup>
