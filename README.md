@@ -21,8 +21,8 @@
 		<td>1823</td>
 		<td>1849</td>
 		<td>1878</td>
-		<td>1897</td>
-		<td>+ 19</td>
+		<td>1898</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>1793</td>
 		<td>1830</td>
 		<td>1861</td>
-		<td>1881</td>
-		<td>+ 20</td>
+		<td>1882</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>1791</td>
 		<td>1826</td>
 		<td>1857</td>
-		<td>1877</td>
-		<td>+ 20</td>
+		<td>1878</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -164,8 +164,8 @@
 		<td>580</td>
 		<td>590</td>
 		<td>601</td>
-		<td>606</td>
-		<td>+ 5</td>
+		<td>608</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -186,8 +186,8 @@
 		<td>1675</td>
 		<td>1683</td>
 		<td>1694</td>
-		<td>1700</td>
-		<td>+ 6</td>
+		<td>1702</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26553</td>
-		<td>131</td>
+		<td>26560</td>
+		<td>138</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>1823</td>
 		<td>1849</td>
 		<td>1878</td>
-		<td>1897</td>
-		<td>+ 19</td>
+		<td>1898</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -311,8 +311,8 @@
 		<td>1793</td>
 		<td>1830</td>
 		<td>1861</td>
-		<td>1881</td>
-		<td>+ 20</td>
+		<td>1882</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -322,8 +322,8 @@
 		<td>1791</td>
 		<td>1826</td>
 		<td>1857</td>
-		<td>1877</td>
-		<td>+ 20</td>
+		<td>1878</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -377,8 +377,8 @@
 		<td>1675</td>
 		<td>1683</td>
 		<td>1694</td>
-		<td>1700</td>
-		<td>+ 6</td>
+		<td>1702</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -454,8 +454,8 @@
 		<td>580</td>
 		<td>590</td>
 		<td>601</td>
-		<td>606</td>
-		<td>+ 5</td>
+		<td>608</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26553</td>
-		<td>131</td>
+		<td>26560</td>
+		<td>138</td>
 	</tr>
 </table>
 </sub></sup>
