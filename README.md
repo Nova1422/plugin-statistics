@@ -21,8 +21,8 @@
 		<td>1823</td>
 		<td>1849</td>
 		<td>1878</td>
-		<td>1890</td>
-		<td>+ 12</td>
+		<td>1891</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>1793</td>
 		<td>1830</td>
 		<td>1861</td>
-		<td>1874</td>
-		<td>+ 13</td>
+		<td>1875</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>1791</td>
 		<td>1826</td>
 		<td>1857</td>
-		<td>1870</td>
-		<td>+ 13</td>
+		<td>1871</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -120,8 +120,8 @@
 		<td>1879</td>
 		<td>1889</td>
 		<td>1903</td>
-		<td>1907</td>
-		<td>+ 4</td>
+		<td>1909</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>navypirates</td>
@@ -131,8 +131,8 @@
 		<td>1294</td>
 		<td>1304</td>
 		<td>1317</td>
-		<td>1321</td>
-		<td>+ 4</td>
+		<td>1322</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -142,8 +142,8 @@
 		<td>1599</td>
 		<td>1606</td>
 		<td>1617</td>
-		<td>1620</td>
-		<td>+ 3</td>
+		<td>1622</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26512</td>
-		<td>90</td>
+		<td>26520</td>
+		<td>98</td>
 	</tr>
 </table>
 </sub></sup>
@@ -289,8 +289,8 @@
 		<td>1879</td>
 		<td>1889</td>
 		<td>1903</td>
-		<td>1907</td>
-		<td>+ 4</td>
+		<td>1909</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -300,8 +300,8 @@
 		<td>1823</td>
 		<td>1849</td>
 		<td>1878</td>
-		<td>1890</td>
-		<td>+ 12</td>
+		<td>1891</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -311,8 +311,8 @@
 		<td>1793</td>
 		<td>1830</td>
 		<td>1861</td>
-		<td>1874</td>
-		<td>+ 13</td>
+		<td>1875</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -322,8 +322,8 @@
 		<td>1791</td>
 		<td>1826</td>
 		<td>1857</td>
-		<td>1870</td>
-		<td>+ 13</td>
+		<td>1871</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -399,8 +399,8 @@
 		<td>1599</td>
 		<td>1606</td>
 		<td>1617</td>
-		<td>1620</td>
-		<td>+ 3</td>
+		<td>1622</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>navypirates</td>
@@ -410,8 +410,8 @@
 		<td>1294</td>
 		<td>1304</td>
 		<td>1317</td>
-		<td>1321</td>
-		<td>+ 4</td>
+		<td>1322</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>unlock.hai.reveal</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26512</td>
-		<td>90</td>
+		<td>26520</td>
+		<td>98</td>
 	</tr>
 </table>
 </sub></sup>
@@ -538,7 +538,7 @@
 		<td>4</td>
 		<td>26</td>
 		<td>8</td>
-		<td>5</td>
+		<td>15</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -550,7 +550,7 @@
 		<td>3</td>
 		<td>5</td>
 		<td>7</td>
-		<td>4</td>
+		<td>7</td>
 	</tr>
 </table>
 <br>
@@ -564,8 +564,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-15</td>
-		<td>2876</td>
-		<td>641</td>
+		<td>2886</td>
+		<td>644</td>
 		<td>192</td>
 		<td>21</td>
 	</tr>
@@ -578,8 +578,8 @@
 	</tr>
 	<tr>
 		<td>69</td>
-		<td>41.68</td>
-		<td>9.29</td>
+		<td>41.83</td>
+		<td>9.33</td>
 		<td></td>
 		<td></td>
 	</tr>
