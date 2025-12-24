@@ -21,8 +21,8 @@
 		<td>1849</td>
 		<td>1878</td>
 		<td>1903</td>
-		<td>1914</td>
-		<td>+ 11</td>
+		<td>1915</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>1830</td>
 		<td>1861</td>
 		<td>1886</td>
-		<td>1897</td>
-		<td>+ 11</td>
+		<td>1898</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>1826</td>
 		<td>1857</td>
 		<td>1883</td>
-		<td>1896</td>
-		<td>+ 13</td>
+		<td>1897</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -164,8 +164,8 @@
 		<td>590</td>
 		<td>601</td>
 		<td>608</td>
-		<td>612</td>
-		<td>+ 4</td>
+		<td>614</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26691</td>
-		<td>111</td>
+		<td>26696</td>
+		<td>116</td>
 	</tr>
 </table>
 </sub></sup>
@@ -282,6 +282,17 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
+		<td>1requiredcrew</td>
+		<td>1768</td>
+		<td>1797</td>
+		<td>1823</td>
+		<td>1849</td>
+		<td>1878</td>
+		<td>1903</td>
+		<td>1915</td>
+		<td>+ 12</td>
+	</tr>
+	<tr>
 		<td>jumpdrive.extended</td>
 		<td>1866</td>
 		<td>1871</td>
@@ -293,17 +304,6 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
-		<td>1requiredcrew</td>
-		<td>1768</td>
-		<td>1797</td>
-		<td>1823</td>
-		<td>1849</td>
-		<td>1878</td>
-		<td>1903</td>
-		<td>1914</td>
-		<td>+ 11</td>
-	</tr>
-	<tr>
 		<td>aberrant.kahet.outfitter</td>
 		<td>1732</td>
 		<td>1763</td>
@@ -311,8 +311,8 @@
 		<td>1830</td>
 		<td>1861</td>
 		<td>1886</td>
-		<td>1897</td>
-		<td>+ 11</td>
+		<td>1898</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -322,8 +322,8 @@
 		<td>1826</td>
 		<td>1857</td>
 		<td>1883</td>
-		<td>1896</td>
-		<td>+ 13</td>
+		<td>1897</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -454,8 +454,8 @@
 		<td>590</td>
 		<td>601</td>
 		<td>608</td>
-		<td>612</td>
-		<td>+ 4</td>
+		<td>614</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26691</td>
-		<td>111</td>
+		<td>26696</td>
+		<td>116</td>
 	</tr>
 </table>
 </sub></sup>
@@ -538,7 +538,7 @@
 		<td>26</td>
 		<td>8</td>
 		<td>19</td>
-		<td>7</td>
+		<td>9</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -564,7 +564,7 @@
 	</tr>
 	<tr>
 		<td>2025-10-15</td>
-		<td>2897</td>
+		<td>2899</td>
 		<td>653</td>
 		<td>192</td>
 		<td>21</td>
@@ -578,7 +578,7 @@
 	</tr>
 	<tr>
 		<td>70</td>
-		<td>41.39</td>
+		<td>41.41</td>
 		<td>9.33</td>
 		<td></td>
 		<td></td>
