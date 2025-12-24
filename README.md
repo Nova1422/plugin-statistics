@@ -21,8 +21,8 @@
 		<td>1849</td>
 		<td>1878</td>
 		<td>1903</td>
-		<td>1922</td>
-		<td>+ 19</td>
+		<td>1923</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>1830</td>
 		<td>1861</td>
 		<td>1886</td>
-		<td>1905</td>
-		<td>+ 19</td>
+		<td>1906</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>1826</td>
 		<td>1857</td>
 		<td>1883</td>
-		<td>1904</td>
-		<td>+ 21</td>
+		<td>1905</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26732</td>
-		<td>152</td>
+		<td>26735</td>
+		<td>155</td>
 	</tr>
 </table>
 </sub></sup>
@@ -289,8 +289,8 @@
 		<td>1849</td>
 		<td>1878</td>
 		<td>1903</td>
-		<td>1922</td>
-		<td>+ 19</td>
+		<td>1923</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -311,8 +311,8 @@
 		<td>1830</td>
 		<td>1861</td>
 		<td>1886</td>
-		<td>1905</td>
-		<td>+ 19</td>
+		<td>1906</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -322,8 +322,8 @@
 		<td>1826</td>
 		<td>1857</td>
 		<td>1883</td>
-		<td>1904</td>
-		<td>+ 21</td>
+		<td>1905</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26732</td>
-		<td>152</td>
+		<td>26735</td>
+		<td>155</td>
 	</tr>
 </table>
 </sub></sup>
