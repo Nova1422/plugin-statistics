@@ -6,30 +6,30 @@ v1.0.0-avgi.outfitter | downloads: 40
 v1.0.1-reduce.requiredcrew | downloads: 477
 v1.0.0-reduce.requiredcrew | downloads: 93
 v1.0.0-capture.augen | downloads: 637
-v1.0.0-zoom.extension | downloads: 675
+v1.0.0-zoom.extension | downloads: 679
 v1.0.0-purchaseable.androids | downloads: 612
 v1.1.1-capture.archons | downloads: 893
 v1.1.0-capture.archons | downloads: 124
 v1.0.4-capture.archons | downloads: 118
 v1.0.1-capturingpower | downloads: 1117
-v1.0.0-unlock.hai.reveal | downloads: 1098
+v1.0.0-unlock.hai.reveal | downloads: 1100
 v1.0.4-obtainheron | downloads: 1352
 v1.0.0-navypirates | downloads: 915
 v1.0.3-obtainheron | downloads: 250
 v1.0.2-obtainheron | downloads: 25
 v1.0.1-purchase.bactrian | downloads: 1678
 v1.0.0-quargoutfitter | downloads: 1707
-v1.0.2-aberrant.kahet.outfitter | downloads: 1892
+v1.0.2-aberrant.kahet.outfitter | downloads: 1893
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
 v1.0.3-capture.archons | downloads: 707
 v1.0.2-tributequarg | downloads: 1674
 v1.0.1-jumpdrive.extended | downloads: 1808
-v1.0.0-bunrodeaoutfitter | downloads: 1893
+v1.0.0-bunrodeaoutfitter | downloads: 1896
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 111
 v1.0.0-capturingpower | downloads: 752
-v1.0.0-1requiredcrew | downloads: 1913
+v1.0.0-1requiredcrew | downloads: 1914
 v1.0.1-unlimited.dfc | downloads: 1544
 v1.0.0-unlimited.dfc | downloads: 168
 v1.0.0-purchaseable.cloakingdevice | downloads: 1744
@@ -39,14 +39,14 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 38
-# TOTAL DOWNLOADS: 26680
+# TOTAL DOWNLOADS: 26691
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 1913
-aberrant.kahet.outfitter 1896
+1requiredcrew 1914
+aberrant.kahet.outfitter 1897
 avgi.outfitter 40
-bunrodeaoutfitter 1893
+bunrodeaoutfitter 1896
 capture.archons 1938
 capture.augen 637
 capturingpower 1869
@@ -62,5 +62,5 @@ quargoutfitter 1707
 reduce.requiredcrew 570
 tributequarg 1684
 unlimited.dfc 1712
-unlock.hai.reveal 1098
-zoom.extension 675
+unlock.hai.reveal 1100
+zoom.extension 679
