@@ -11,25 +11,25 @@ v1.0.0-purchaseable.androids | downloads: 625
 v1.1.1-capture.archons | downloads: 899
 v1.1.0-capture.archons | downloads: 124
 v1.0.4-capture.archons | downloads: 118
-v1.0.1-capturingpower | downloads: 1123
-v1.0.0-unlock.hai.reveal | downloads: 1106
+v1.0.1-capturingpower | downloads: 1125
+v1.0.0-unlock.hai.reveal | downloads: 1107
 v1.0.4-obtainheron | downloads: 1358
 v1.0.0-navypirates | downloads: 915
 v1.0.3-obtainheron | downloads: 250
 v1.0.2-obtainheron | downloads: 25
 v1.0.1-purchase.bactrian | downloads: 1684
 v1.0.0-quargoutfitter | downloads: 1714
-v1.0.2-aberrant.kahet.outfitter | downloads: 1933
+v1.0.2-aberrant.kahet.outfitter | downloads: 1934
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
 v1.0.3-capture.archons | downloads: 707
 v1.0.2-tributequarg | downloads: 1680
-v1.0.1-jumpdrive.extended | downloads: 1816
-v1.0.0-bunrodeaoutfitter | downloads: 1936
+v1.0.1-jumpdrive.extended | downloads: 1817
+v1.0.0-bunrodeaoutfitter | downloads: 1937
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 111
 v1.0.0-capturingpower | downloads: 752
-v1.0.0-1requiredcrew | downloads: 1953
+v1.0.0-1requiredcrew | downloads: 1954
 v1.0.1-unlimited.dfc | downloads: 1550
 v1.0.0-unlimited.dfc | downloads: 168
 v1.0.0-purchaseable.cloakingdevice | downloads: 1750
@@ -39,20 +39,20 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 38
-# TOTAL DOWNLOADS: 26921
+# TOTAL DOWNLOADS: 26928
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 1953
-aberrant.kahet.outfitter 1937
+1requiredcrew 1954
+aberrant.kahet.outfitter 1938
 avgi.outfitter 40
-bunrodeaoutfitter 1936
+bunrodeaoutfitter 1937
 capture.archons 1944
 capture.augen 643
-capturingpower 1875
+capturingpower 1877
 disable.aberrant.blockade 17
 easier.ground.assault 19
-jumpdrive.extended 1922
+jumpdrive.extended 1923
 navypirates 1341
 obtainheron 1633
 purchase.bactrian 1795
@@ -62,5 +62,5 @@ quargoutfitter 1714
 reduce.requiredcrew 576
 tributequarg 1690
 unlimited.dfc 1718
-unlock.hai.reveal 1106
+unlock.hai.reveal 1107
 zoom.extension 687
