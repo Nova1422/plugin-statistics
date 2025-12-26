@@ -21,8 +21,8 @@
 		<td>1903</td>
 		<td>1929</td>
 		<td>1954</td>
-		<td>1976</td>
-		<td>+ 22</td>
+		<td>1977</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>1886</td>
 		<td>1913</td>
 		<td>1938</td>
-		<td>1962</td>
-		<td>+ 24</td>
+		<td>1963</td>
+		<td>+ 25</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>1883</td>
 		<td>1912</td>
 		<td>1937</td>
-		<td>1959</td>
-		<td>+ 22</td>
+		<td>1960</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -76,8 +76,8 @@
 		<td>633</td>
 		<td>639</td>
 		<td>643</td>
-		<td>648</td>
-		<td>+ 5</td>
+		<td>650</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>27059</td>
-		<td>131</td>
+		<td>27064</td>
+		<td>136</td>
 	</tr>
 </table>
 </sub></sup>
@@ -278,8 +278,8 @@
 		<td>1903</td>
 		<td>1929</td>
 		<td>1954</td>
-		<td>1976</td>
-		<td>+ 22</td>
+		<td>1977</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -289,8 +289,8 @@
 		<td>1886</td>
 		<td>1913</td>
 		<td>1938</td>
-		<td>1962</td>
-		<td>+ 24</td>
+		<td>1963</td>
+		<td>+ 25</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -300,8 +300,8 @@
 		<td>1883</td>
 		<td>1912</td>
 		<td>1937</td>
-		<td>1959</td>
-		<td>+ 22</td>
+		<td>1960</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -443,8 +443,8 @@
 		<td>633</td>
 		<td>639</td>
 		<td>643</td>
-		<td>648</td>
-		<td>+ 5</td>
+		<td>650</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>27059</td>
-		<td>131</td>
+		<td>27064</td>
+		<td>136</td>
 	</tr>
 </table>
 </sub></sup>
@@ -538,7 +538,7 @@
 		<td>19</td>
 		<td>13</td>
 		<td>7</td>
-		<td>7</td>
+		<td>8</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -550,7 +550,7 @@
 		<td>11</td>
 		<td>6</td>
 		<td>6</td>
-		<td>6</td>
+		<td>7</td>
 	</tr>
 </table>
 <br>
@@ -564,8 +564,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-15</td>
-		<td>2917</td>
-		<td>666</td>
+		<td>2918</td>
+		<td>667</td>
 		<td>192</td>
 		<td>21</td>
 	</tr>
@@ -578,8 +578,8 @@
 	</tr>
 	<tr>
 		<td>72</td>
-		<td>40.51</td>
-		<td>9.25</td>
+		<td>40.53</td>
+		<td>9.26</td>
 		<td></td>
 		<td></td>
 	</tr>
