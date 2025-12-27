@@ -21,8 +21,8 @@
 		<td>1929</td>
 		<td>1954</td>
 		<td>1979</td>
-		<td>1984</td>
-		<td>+ 5</td>
+		<td>1985</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>1913</td>
 		<td>1938</td>
 		<td>1965</td>
-		<td>1970</td>
-		<td>+ 5</td>
+		<td>1973</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>1912</td>
 		<td>1937</td>
 		<td>1962</td>
-		<td>1967</td>
-		<td>+ 5</td>
+		<td>1968</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -98,8 +98,8 @@
 		<td>17</td>
 		<td>17</td>
 		<td>19</td>
-		<td>19</td>
-		<td></td>
+		<td>21</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>easier.ground.assault</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>27122</td>
-		<td>33</td>
+		<td>27129</td>
+		<td>40</td>
 	</tr>
 </table>
 </sub></sup>
@@ -278,8 +278,8 @@
 		<td>1929</td>
 		<td>1954</td>
 		<td>1979</td>
-		<td>1984</td>
-		<td>+ 5</td>
+		<td>1985</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -289,8 +289,8 @@
 		<td>1913</td>
 		<td>1938</td>
 		<td>1965</td>
-		<td>1970</td>
-		<td>+ 5</td>
+		<td>1973</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -300,8 +300,8 @@
 		<td>1912</td>
 		<td>1937</td>
 		<td>1962</td>
-		<td>1967</td>
-		<td>+ 5</td>
+		<td>1968</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -498,8 +498,8 @@
 		<td>17</td>
 		<td>17</td>
 		<td>19</td>
-		<td>19</td>
-		<td></td>
+		<td>21</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>27122</td>
-		<td>33</td>
+		<td>27129</td>
+		<td>40</td>
 	</tr>
 </table>
 </sub></sup>
@@ -538,7 +538,7 @@
 		<td>13</td>
 		<td>7</td>
 		<td>12</td>
-		<td>1</td>
+		<td>18</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -550,7 +550,7 @@
 		<td>6</td>
 		<td>6</td>
 		<td>8</td>
-		<td>1</td>
+		<td>2</td>
 	</tr>
 </table>
 <br>
@@ -564,8 +564,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-15</td>
-		<td>2923</td>
-		<td>669</td>
+		<td>2940</td>
+		<td>670</td>
 		<td>192</td>
 		<td>21</td>
 	</tr>
@@ -578,8 +578,8 @@
 	</tr>
 	<tr>
 		<td>73</td>
-		<td>40.04</td>
-		<td>9.16</td>
+		<td>40.27</td>
+		<td>9.18</td>
 		<td></td>
 		<td></td>
 	</tr>
