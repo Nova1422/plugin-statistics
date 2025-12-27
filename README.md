@@ -21,8 +21,8 @@
 		<td>1929</td>
 		<td>1954</td>
 		<td>1979</td>
-		<td>2001</td>
-		<td>+ 22</td>
+		<td>2002</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>1913</td>
 		<td>1938</td>
 		<td>1965</td>
-		<td>1991</td>
-		<td>+ 26</td>
+		<td>1992</td>
+		<td>+ 27</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>1912</td>
 		<td>1937</td>
 		<td>1962</td>
-		<td>1984</td>
-		<td>+ 22</td>
+		<td>1985</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>27227</td>
-		<td>138</td>
+		<td>27230</td>
+		<td>141</td>
 	</tr>
 </table>
 </sub></sup>
@@ -278,8 +278,8 @@
 		<td>1929</td>
 		<td>1954</td>
 		<td>1979</td>
-		<td>2001</td>
-		<td>+ 22</td>
+		<td>2002</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -289,8 +289,8 @@
 		<td>1913</td>
 		<td>1938</td>
 		<td>1965</td>
-		<td>1991</td>
-		<td>+ 26</td>
+		<td>1992</td>
+		<td>+ 27</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -300,8 +300,8 @@
 		<td>1912</td>
 		<td>1937</td>
 		<td>1962</td>
-		<td>1984</td>
-		<td>+ 22</td>
+		<td>1985</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>27227</td>
-		<td>138</td>
+		<td>27230</td>
+		<td>141</td>
 	</tr>
 </table>
 </sub></sup>
