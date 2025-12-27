@@ -21,8 +21,8 @@
 		<td>1929</td>
 		<td>1954</td>
 		<td>1979</td>
-		<td>1982</td>
-		<td>+ 3</td>
+		<td>1983</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>1913</td>
 		<td>1938</td>
 		<td>1965</td>
-		<td>1968</td>
-		<td>+ 3</td>
+		<td>1969</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -43,8 +43,8 @@
 		<td>40</td>
 		<td>40</td>
 		<td>40</td>
-		<td>40</td>
-		<td></td>
+		<td>42</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -54,8 +54,8 @@
 		<td>1912</td>
 		<td>1937</td>
 		<td>1962</td>
-		<td>1965</td>
-		<td>+ 3</td>
+		<td>1966</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -120,8 +120,8 @@
 		<td>1916</td>
 		<td>1923</td>
 		<td>1929</td>
-		<td>1930</td>
-		<td>+ 1</td>
+		<td>1931</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navypirates</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>27113</td>
-		<td>24</td>
+		<td>27119</td>
+		<td>30</td>
 	</tr>
 </table>
 </sub></sup>
@@ -278,8 +278,8 @@
 		<td>1929</td>
 		<td>1954</td>
 		<td>1979</td>
-		<td>1982</td>
-		<td>+ 3</td>
+		<td>1983</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -289,8 +289,8 @@
 		<td>1913</td>
 		<td>1938</td>
 		<td>1965</td>
-		<td>1968</td>
-		<td>+ 3</td>
+		<td>1969</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -300,8 +300,8 @@
 		<td>1912</td>
 		<td>1937</td>
 		<td>1962</td>
-		<td>1965</td>
-		<td>+ 3</td>
+		<td>1966</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -322,8 +322,8 @@
 		<td>1916</td>
 		<td>1923</td>
 		<td>1929</td>
-		<td>1930</td>
-		<td>+ 1</td>
+		<td>1931</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -476,8 +476,8 @@
 		<td>40</td>
 		<td>40</td>
 		<td>40</td>
-		<td>40</td>
-		<td></td>
+		<td>42</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>easier.ground.assault</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>27113</td>
-		<td>24</td>
+		<td>27119</td>
+		<td>30</td>
 	</tr>
 </table>
 </sub></sup>
