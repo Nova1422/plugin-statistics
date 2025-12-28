@@ -5,31 +5,31 @@ v1.0.0-disable.aberrant.blockade | downloads: 21
 v1.0.0-avgi.outfitter | downloads: 42
 v1.0.1-reduce.requiredcrew | downloads: 494
 v1.0.0-reduce.requiredcrew | downloads: 93
-v1.0.0-capture.augen | downloads: 664
+v1.0.0-capture.augen | downloads: 665
 v1.0.0-zoom.extension | downloads: 701
 v1.0.0-purchaseable.androids | downloads: 638
-v1.1.1-capture.archons | downloads: 916
+v1.1.1-capture.archons | downloads: 917
 v1.1.0-capture.archons | downloads: 124
 v1.0.4-capture.archons | downloads: 119
-v1.0.1-capturingpower | downloads: 1143
+v1.0.1-capturingpower | downloads: 1144
 v1.0.0-unlock.hai.reveal | downloads: 1120
 v1.0.4-obtainheron | downloads: 1370
 v1.0.0-navypirates | downloads: 915
 v1.0.3-obtainheron | downloads: 250
 v1.0.2-obtainheron | downloads: 25
 v1.0.1-purchase.bactrian | downloads: 1697
-v1.0.0-quargoutfitter | downloads: 1726
-v1.0.2-aberrant.kahet.outfitter | downloads: 1997
+v1.0.0-quargoutfitter | downloads: 1728
+v1.0.2-aberrant.kahet.outfitter | downloads: 2000
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
 v1.0.3-capture.archons | downloads: 707
 v1.0.2-tributequarg | downloads: 1690
 v1.0.1-jumpdrive.extended | downloads: 1832
-v1.0.0-bunrodeaoutfitter | downloads: 1994
+v1.0.0-bunrodeaoutfitter | downloads: 1995
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 111
 v1.0.0-capturingpower | downloads: 752
-v1.0.0-1requiredcrew | downloads: 2011
+v1.0.0-1requiredcrew | downloads: 2012
 v1.0.1-unlimited.dfc | downloads: 1560
 v1.0.0-unlimited.dfc | downloads: 168
 v1.0.0-purchaseable.cloakingdevice | downloads: 1762
@@ -39,17 +39,17 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 38
-# TOTAL DOWNLOADS: 27316
+# TOTAL DOWNLOADS: 27326
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 2011
-aberrant.kahet.outfitter 2001
+1requiredcrew 2012
+aberrant.kahet.outfitter 2004
 avgi.outfitter 42
-bunrodeaoutfitter 1994
-capture.archons 1962
-capture.augen 664
-capturingpower 1895
+bunrodeaoutfitter 1995
+capture.archons 1963
+capture.augen 665
+capturingpower 1896
 disable.aberrant.blockade 21
 easier.ground.assault 21
 jumpdrive.extended 1938
@@ -58,7 +58,7 @@ obtainheron 1645
 purchase.bactrian 1808
 purchaseable.androids 638
 purchaseable.cloakingdevice 1762
-quargoutfitter 1726
+quargoutfitter 1728
 reduce.requiredcrew 587
 tributequarg 1700
 unlimited.dfc 1728
