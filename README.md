@@ -21,8 +21,8 @@
 		<td>1979</td>
 		<td>2007</td>
 		<td>2031</td>
-		<td>2035</td>
-		<td>+ 4</td>
+		<td>2036</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>1965</td>
 		<td>1997</td>
 		<td>2023</td>
-		<td>2027</td>
-		<td>+ 4</td>
+		<td>2028</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>1962</td>
 		<td>1990</td>
 		<td>2016</td>
-		<td>2020</td>
-		<td>+ 4</td>
+		<td>2021</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -65,8 +65,8 @@
 		<td>1948</td>
 		<td>1958</td>
 		<td>1982</td>
-		<td>1986</td>
-		<td>+ 4</td>
+		<td>1987</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
@@ -76,8 +76,8 @@
 		<td>650</td>
 		<td>659</td>
 		<td>684</td>
-		<td>688</td>
-		<td>+ 4</td>
+		<td>689</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -87,8 +87,8 @@
 		<td>1881</td>
 		<td>1890</td>
 		<td>1915</td>
-		<td>1919</td>
-		<td>+ 4</td>
+		<td>1920</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>27537</td>
-		<td>42</td>
+		<td>27543</td>
+		<td>48</td>
 	</tr>
 </table>
 </sub></sup>
@@ -278,8 +278,8 @@
 		<td>1979</td>
 		<td>2007</td>
 		<td>2031</td>
-		<td>2035</td>
-		<td>+ 4</td>
+		<td>2036</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -289,8 +289,8 @@
 		<td>1965</td>
 		<td>1997</td>
 		<td>2023</td>
-		<td>2027</td>
-		<td>+ 4</td>
+		<td>2028</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -300,8 +300,8 @@
 		<td>1962</td>
 		<td>1990</td>
 		<td>2016</td>
-		<td>2020</td>
-		<td>+ 4</td>
+		<td>2021</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -311,8 +311,8 @@
 		<td>1948</td>
 		<td>1958</td>
 		<td>1982</td>
-		<td>1986</td>
-		<td>+ 4</td>
+		<td>1987</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -333,8 +333,8 @@
 		<td>1881</td>
 		<td>1890</td>
 		<td>1915</td>
-		<td>1919</td>
-		<td>+ 4</td>
+		<td>1920</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -443,8 +443,8 @@
 		<td>650</td>
 		<td>659</td>
 		<td>684</td>
-		<td>688</td>
-		<td>+ 4</td>
+		<td>689</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>27537</td>
-		<td>42</td>
+		<td>27543</td>
+		<td>48</td>
 	</tr>
 </table>
 </sub></sup>
@@ -538,7 +538,7 @@
 		<td>12</td>
 		<td>30</td>
 		<td>10</td>
-		<td>1</td>
+		<td>2</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -550,7 +550,7 @@
 		<td>8</td>
 		<td>8</td>
 		<td>6</td>
-		<td>1</td>
+		<td>2</td>
 	</tr>
 </table>
 <br>
@@ -564,8 +564,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-15</td>
-		<td>2963</td>
-		<td>683</td>
+		<td>2964</td>
+		<td>684</td>
 		<td>192</td>
 		<td>21</td>
 	</tr>
@@ -578,8 +578,8 @@
 	</tr>
 	<tr>
 		<td>75</td>
-		<td>39.51</td>
-		<td>9.11</td>
+		<td>39.52</td>
+		<td>9.12</td>
 		<td></td>
 		<td></td>
 	</tr>
