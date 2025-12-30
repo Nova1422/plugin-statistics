@@ -5,13 +5,13 @@ v1.0.0-disable.aberrant.blockade | downloads: 21
 v1.0.0-avgi.outfitter | downloads: 42
 v1.0.1-reduce.requiredcrew | downloads: 504
 v1.0.0-reduce.requiredcrew | downloads: 93
-v1.0.0-capture.augen | downloads: 717
+v1.0.0-capture.augen | downloads: 718
 v1.0.0-zoom.extension | downloads: 715
 v1.0.0-purchaseable.androids | downloads: 651
-v1.1.1-capture.archons | downloads: 969
+v1.1.1-capture.archons | downloads: 970
 v1.1.0-capture.archons | downloads: 124
 v1.0.4-capture.archons | downloads: 119
-v1.0.1-capturingpower | downloads: 1196
+v1.0.1-capturingpower | downloads: 1197
 v1.0.0-unlock.hai.reveal | downloads: 1133
 v1.0.4-obtainheron | downloads: 1379
 v1.0.0-navypirates | downloads: 915
@@ -19,17 +19,17 @@ v1.0.3-obtainheron | downloads: 250
 v1.0.2-obtainheron | downloads: 25
 v1.0.1-purchase.bactrian | downloads: 1707
 v1.0.0-quargoutfitter | downloads: 1739
-v1.0.2-aberrant.kahet.outfitter | downloads: 2050
+v1.0.2-aberrant.kahet.outfitter | downloads: 2051
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
 v1.0.3-capture.archons | downloads: 707
 v1.0.2-tributequarg | downloads: 1703
 v1.0.1-jumpdrive.extended | downloads: 1844
-v1.0.0-bunrodeaoutfitter | downloads: 2047
+v1.0.0-bunrodeaoutfitter | downloads: 2048
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 111
 v1.0.0-capturingpower | downloads: 752
-v1.0.0-1requiredcrew | downloads: 2062
+v1.0.0-1requiredcrew | downloads: 2063
 v1.0.1-unlimited.dfc | downloads: 1569
 v1.0.0-unlimited.dfc | downloads: 169
 v1.0.0-purchaseable.cloakingdevice | downloads: 1772
@@ -39,17 +39,17 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 38
-# TOTAL DOWNLOADS: 27770
+# TOTAL DOWNLOADS: 27776
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 2062
-aberrant.kahet.outfitter 2054
+1requiredcrew 2063
+aberrant.kahet.outfitter 2055
 avgi.outfitter 42
-bunrodeaoutfitter 2047
-capture.archons 2015
-capture.augen 717
-capturingpower 1948
+bunrodeaoutfitter 2048
+capture.archons 2016
+capture.augen 718
+capturingpower 1949
 disable.aberrant.blockade 21
 easier.ground.assault 21
 jumpdrive.extended 1950
