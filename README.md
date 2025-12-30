@@ -21,8 +21,8 @@
 		<td>2007</td>
 		<td>2031</td>
 		<td>2054</td>
-		<td>2079</td>
-		<td>+ 25</td>
+		<td>2080</td>
+		<td>+ 26</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>1997</td>
 		<td>2023</td>
 		<td>2046</td>
-		<td>2075</td>
-		<td>+ 29</td>
+		<td>2076</td>
+		<td>+ 30</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>1990</td>
 		<td>2016</td>
 		<td>2039</td>
-		<td>2065</td>
-		<td>+ 26</td>
+		<td>2066</td>
+		<td>+ 27</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -65,8 +65,8 @@
 		<td>1958</td>
 		<td>1982</td>
 		<td>2006</td>
-		<td>2032</td>
-		<td>+ 26</td>
+		<td>2033</td>
+		<td>+ 27</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
@@ -76,8 +76,8 @@
 		<td>659</td>
 		<td>684</td>
 		<td>708</td>
-		<td>736</td>
-		<td>+ 28</td>
+		<td>737</td>
+		<td>+ 29</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -87,8 +87,8 @@
 		<td>1890</td>
 		<td>1915</td>
 		<td>1939</td>
-		<td>1965</td>
-		<td>+ 26</td>
+		<td>1966</td>
+		<td>+ 27</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -131,8 +131,8 @@
 		<td>1350</td>
 		<td>1357</td>
 		<td>1361</td>
-		<td>1366</td>
-		<td>+ 5</td>
+		<td>1367</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>27920</td>
-		<td>226</td>
+		<td>27927</td>
+		<td>233</td>
 	</tr>
 </table>
 </sub></sup>
@@ -278,8 +278,8 @@
 		<td>2007</td>
 		<td>2031</td>
 		<td>2054</td>
-		<td>2079</td>
-		<td>+ 25</td>
+		<td>2080</td>
+		<td>+ 26</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -289,8 +289,8 @@
 		<td>1997</td>
 		<td>2023</td>
 		<td>2046</td>
-		<td>2075</td>
-		<td>+ 29</td>
+		<td>2076</td>
+		<td>+ 30</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -300,8 +300,8 @@
 		<td>1990</td>
 		<td>2016</td>
 		<td>2039</td>
-		<td>2065</td>
-		<td>+ 26</td>
+		<td>2066</td>
+		<td>+ 27</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -311,8 +311,8 @@
 		<td>1958</td>
 		<td>1982</td>
 		<td>2006</td>
-		<td>2032</td>
-		<td>+ 26</td>
+		<td>2033</td>
+		<td>+ 27</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -322,8 +322,8 @@
 		<td>1890</td>
 		<td>1915</td>
 		<td>1939</td>
-		<td>1965</td>
-		<td>+ 26</td>
+		<td>1966</td>
+		<td>+ 27</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -410,8 +410,8 @@
 		<td>1350</td>
 		<td>1357</td>
 		<td>1361</td>
-		<td>1366</td>
-		<td>+ 5</td>
+		<td>1367</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>unlock.hai.reveal</td>
@@ -432,8 +432,8 @@
 		<td>659</td>
 		<td>684</td>
 		<td>708</td>
-		<td>736</td>
-		<td>+ 28</td>
+		<td>737</td>
+		<td>+ 29</td>
 	</tr>
 	<tr>
 		<td>zoom.extension</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>27920</td>
-		<td>226</td>
+		<td>27927</td>
+		<td>233</td>
 	</tr>
 </table>
 </sub></sup>
