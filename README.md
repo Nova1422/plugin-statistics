@@ -21,8 +21,8 @@
 		<td>2031</td>
 		<td>2054</td>
 		<td>2080</td>
-		<td>2090</td>
-		<td>+ 10</td>
+		<td>2091</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>2023</td>
 		<td>2046</td>
 		<td>2076</td>
-		<td>2083</td>
-		<td>+ 7</td>
+		<td>2084</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>2016</td>
 		<td>2039</td>
 		<td>2066</td>
-		<td>2075</td>
-		<td>+ 9</td>
+		<td>2076</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -65,8 +65,8 @@
 		<td>1982</td>
 		<td>2006</td>
 		<td>2033</td>
-		<td>2040</td>
-		<td>+ 7</td>
+		<td>2041</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
@@ -76,8 +76,8 @@
 		<td>684</td>
 		<td>708</td>
 		<td>737</td>
-		<td>744</td>
-		<td>+ 7</td>
+		<td>745</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -87,8 +87,8 @@
 		<td>1915</td>
 		<td>1939</td>
 		<td>1966</td>
-		<td>1978</td>
-		<td>+ 12</td>
+		<td>1979</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>28045</td>
-		<td>118</td>
+		<td>28051</td>
+		<td>124</td>
 	</tr>
 </table>
 </sub></sup>
@@ -278,8 +278,8 @@
 		<td>2031</td>
 		<td>2054</td>
 		<td>2080</td>
-		<td>2090</td>
-		<td>+ 10</td>
+		<td>2091</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -289,8 +289,8 @@
 		<td>2023</td>
 		<td>2046</td>
 		<td>2076</td>
-		<td>2083</td>
-		<td>+ 7</td>
+		<td>2084</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -300,8 +300,8 @@
 		<td>2016</td>
 		<td>2039</td>
 		<td>2066</td>
-		<td>2075</td>
-		<td>+ 9</td>
+		<td>2076</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -311,8 +311,8 @@
 		<td>1982</td>
 		<td>2006</td>
 		<td>2033</td>
-		<td>2040</td>
-		<td>+ 7</td>
+		<td>2041</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -322,8 +322,8 @@
 		<td>1915</td>
 		<td>1939</td>
 		<td>1966</td>
-		<td>1978</td>
-		<td>+ 12</td>
+		<td>1979</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -432,8 +432,8 @@
 		<td>684</td>
 		<td>708</td>
 		<td>737</td>
-		<td>744</td>
-		<td>+ 7</td>
+		<td>745</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>zoom.extension</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>28045</td>
-		<td>118</td>
+		<td>28051</td>
+		<td>124</td>
 	</tr>
 </table>
 </sub></sup>
