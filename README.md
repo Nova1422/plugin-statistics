@@ -186,8 +186,8 @@
 		<td>1797</td>
 		<td>1822</td>
 		<td>1850</td>
-		<td>1864</td>
-		<td>+ 14</td>
+		<td>1866</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>30434</td>
-		<td>282</td>
+		<td>30436</td>
+		<td>284</td>
 	</tr>
 </table>
 </sub></sup>
@@ -366,8 +366,8 @@
 		<td>1797</td>
 		<td>1822</td>
 		<td>1850</td>
-		<td>1864</td>
-		<td>+ 14</td>
+		<td>1866</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>30434</td>
-		<td>282</td>
+		<td>30436</td>
+		<td>284</td>
 	</tr>
 </table>
 </sub></sup>
