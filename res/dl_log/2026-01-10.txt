@@ -1,0 +1,66 @@
+# DOWNLOADS FOR EACH RELEASE:
+v1.0.1-navypirates | downloads: 682
+v1.0.0-easier.ground.assault | downloads: 240
+v1.0.0-disable.aberrant.blockade | downloads: 236
+v1.0.0-avgi.outfitter | downloads: 63
+v1.0.1-reduce.requiredcrew | downloads: 735
+v1.0.0-reduce.requiredcrew | downloads: 93
+v1.0.0-capture.augen | downloads: 1014
+v1.0.0-zoom.extension | downloads: 955
+v1.0.0-purchaseable.androids | downloads: 897
+v1.1.1-capture.archons | downloads: 1250
+v1.1.0-capture.archons | downloads: 124
+v1.0.4-capture.archons | downloads: 119
+v1.0.1-capturingpower | downloads: 1477
+v1.0.0-unlock.hai.reveal | downloads: 1383
+v1.0.4-obtainheron | downloads: 1627
+v1.0.0-navypirates | downloads: 915
+v1.0.3-obtainheron | downloads: 250
+v1.0.2-obtainheron | downloads: 25
+v1.0.1-purchase.bactrian | downloads: 1940
+v1.0.0-quargoutfitter | downloads: 1986
+v1.0.2-aberrant.kahet.outfitter | downloads: 2348
+v1.0.1-aberrant.kahet.outfitter | downloads: 4
+v1.0.3-capture.archons | downloads: 707
+v1.0.2-tributequarg | downloads: 1928
+v1.0.1-jumpdrive.extended | downloads: 2082
+v1.0.0-bunrodeaoutfitter | downloads: 2347
+v1.0.1-tributequarg | downloads: 8
+v1.0.0-tributequarg | downloads: 2
+v1.0.0-purchase.bactrian | downloads: 111
+v1.0.0-capturingpower | downloads: 752
+v1.0.0-1requiredcrew | downloads: 2338
+v1.0.1-unlimited.dfc | downloads: 1786
+v1.0.0-unlimited.dfc | downloads: 171
+v1.0.0-purchaseable.cloakingdevice | downloads: 1997
+v1.0.0-jumpdrive.extended | downloads: 106
+v1.0.2-capture.archons | downloads: 92
+v1.0.1-capture.archons | downloads: 4
+
+
+# NUMBER OF RELEASES: 38
+# TOTAL DOWNLOADS: 32794
+
+
+# TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
+1requiredcrew 2338
+aberrant.kahet.outfitter 2352
+avgi.outfitter 63
+bunrodeaoutfitter 2347
+capture.archons 2296
+capture.augen 1014
+capturingpower 2229
+disable.aberrant.blockade 236
+easier.ground.assault 240
+jumpdrive.extended 2188
+navypirates 1597
+obtainheron 1902
+purchase.bactrian 2051
+purchaseable.androids 897
+purchaseable.cloakingdevice 1997
+quargoutfitter 1986
+reduce.requiredcrew 828
+tributequarg 1938
+unlimited.dfc 1957
+unlock.hai.reveal 1383
+zoom.extension 955
