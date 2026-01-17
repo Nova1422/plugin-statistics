@@ -21,8 +21,8 @@
 		<td>2460</td>
 		<td>2484</td>
 		<td>2507</td>
-		<td>2528</td>
-		<td>+ 21</td>
+		<td>2529</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>2485</td>
 		<td>2511</td>
 		<td>2539</td>
-		<td>2560</td>
-		<td>+ 21</td>
+		<td>2563</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>2473</td>
 		<td>2501</td>
 		<td>2527</td>
-		<td>2548</td>
-		<td>+ 21</td>
+		<td>2552</td>
+		<td>+ 25</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -65,8 +65,8 @@
 		<td>2423</td>
 		<td>2447</td>
 		<td>2475</td>
-		<td>2496</td>
-		<td>+ 21</td>
+		<td>2497</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
@@ -76,8 +76,8 @@
 		<td>1139</td>
 		<td>1165</td>
 		<td>1193</td>
-		<td>1214</td>
-		<td>+ 21</td>
+		<td>1215</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -87,8 +87,8 @@
 		<td>2360</td>
 		<td>2386</td>
 		<td>2414</td>
-		<td>2435</td>
-		<td>+ 21</td>
+		<td>2436</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -98,8 +98,8 @@
 		<td>360</td>
 		<td>384</td>
 		<td>411</td>
-		<td>432</td>
-		<td>+ 21</td>
+		<td>435</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>easier.ground.assault</td>
@@ -109,8 +109,8 @@
 		<td>364</td>
 		<td>388</td>
 		<td>412</td>
-		<td>433</td>
-		<td>+ 21</td>
+		<td>434</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -131,8 +131,8 @@
 		<td>1690</td>
 		<td>1696</td>
 		<td>1700</td>
-		<td>1705</td>
-		<td>+ 5</td>
+		<td>1708</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -164,8 +164,8 @@
 		<td>985</td>
 		<td>991</td>
 		<td>997</td>
-		<td>1002</td>
-		<td>+ 5</td>
+		<td>1004</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35664</td>
-		<td>230</td>
+		<td>35684</td>
+		<td>250</td>
 	</tr>
 </table>
 </sub></sup>
@@ -278,8 +278,8 @@
 		<td>2485</td>
 		<td>2511</td>
 		<td>2539</td>
-		<td>2560</td>
-		<td>+ 21</td>
+		<td>2563</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -289,8 +289,8 @@
 		<td>2473</td>
 		<td>2501</td>
 		<td>2527</td>
-		<td>2548</td>
-		<td>+ 21</td>
+		<td>2552</td>
+		<td>+ 25</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -300,8 +300,8 @@
 		<td>2460</td>
 		<td>2484</td>
 		<td>2507</td>
-		<td>2528</td>
-		<td>+ 21</td>
+		<td>2529</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -311,8 +311,8 @@
 		<td>2423</td>
 		<td>2447</td>
 		<td>2475</td>
-		<td>2496</td>
-		<td>+ 21</td>
+		<td>2497</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -322,8 +322,8 @@
 		<td>2360</td>
 		<td>2386</td>
 		<td>2414</td>
-		<td>2435</td>
-		<td>+ 21</td>
+		<td>2436</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -410,8 +410,8 @@
 		<td>1690</td>
 		<td>1696</td>
 		<td>1700</td>
-		<td>1705</td>
-		<td>+ 5</td>
+		<td>1708</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>unlock.hai.reveal</td>
@@ -432,8 +432,8 @@
 		<td>1139</td>
 		<td>1165</td>
 		<td>1193</td>
-		<td>1214</td>
-		<td>+ 21</td>
+		<td>1215</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>zoom.extension</td>
@@ -454,8 +454,8 @@
 		<td>985</td>
 		<td>991</td>
 		<td>997</td>
-		<td>1002</td>
-		<td>+ 5</td>
+		<td>1004</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -469,17 +469,6 @@
 		<td>+ 5</td>
 	</tr>
 	<tr>
-		<td>easier.ground.assault</td>
-		<td>291</td>
-		<td>315</td>
-		<td>340</td>
-		<td>364</td>
-		<td>388</td>
-		<td>412</td>
-		<td>433</td>
-		<td>+ 21</td>
-	</tr>
-	<tr>
 		<td>disable.aberrant.blockade</td>
 		<td>287</td>
 		<td>311</td>
@@ -487,8 +476,19 @@
 		<td>360</td>
 		<td>384</td>
 		<td>411</td>
-		<td>432</td>
-		<td>+ 21</td>
+		<td>435</td>
+		<td>+ 24</td>
+	</tr>
+	<tr>
+		<td>easier.ground.assault</td>
+		<td>291</td>
+		<td>315</td>
+		<td>340</td>
+		<td>364</td>
+		<td>388</td>
+		<td>412</td>
+		<td>434</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35664</td>
-		<td>230</td>
+		<td>35684</td>
+		<td>250</td>
 	</tr>
 </table>
 </sub></sup>
