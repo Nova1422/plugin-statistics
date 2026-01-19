@@ -1,0 +1,66 @@
+# DOWNLOADS FOR EACH RELEASE:
+v1.0.1-navypirates | downloads: 800
+v1.0.0-easier.ground.assault | downloads: 466
+v1.0.0-disable.aberrant.blockade | downloads: 467
+v1.0.0-avgi.outfitter | downloads: 71
+v1.0.1-reduce.requiredcrew | downloads: 842
+v1.0.0-reduce.requiredcrew | downloads: 93
+v1.0.0-capture.augen | downloads: 1247
+v1.0.0-zoom.extension | downloads: 1073
+v1.0.0-purchaseable.androids | downloads: 1010
+v1.1.1-capture.archons | downloads: 1482
+v1.1.0-capture.archons | downloads: 124
+v1.0.4-capture.archons | downloads: 122
+v1.0.1-capturingpower | downloads: 1716
+v1.0.0-unlock.hai.reveal | downloads: 1514
+v1.0.4-obtainheron | downloads: 1740
+v1.0.0-navypirates | downloads: 915
+v1.0.3-obtainheron | downloads: 250
+v1.0.2-obtainheron | downloads: 25
+v1.0.1-purchase.bactrian | downloads: 2049
+v1.0.0-quargoutfitter | downloads: 2094
+v1.0.2-aberrant.kahet.outfitter | downloads: 2592
+v1.0.1-aberrant.kahet.outfitter | downloads: 4
+v1.0.3-capture.archons | downloads: 707
+v1.0.2-tributequarg | downloads: 2034
+v1.0.1-jumpdrive.extended | downloads: 2203
+v1.0.0-bunrodeaoutfitter | downloads: 2584
+v1.0.1-tributequarg | downloads: 8
+v1.0.0-tributequarg | downloads: 2
+v1.0.0-purchase.bactrian | downloads: 111
+v1.0.0-capturingpower | downloads: 752
+v1.0.0-1requiredcrew | downloads: 2561
+v1.0.1-unlimited.dfc | downloads: 1887
+v1.0.0-unlimited.dfc | downloads: 172
+v1.0.0-purchaseable.cloakingdevice | downloads: 2103
+v1.0.0-jumpdrive.extended | downloads: 106
+v1.0.2-capture.archons | downloads: 92
+v1.0.1-capture.archons | downloads: 4
+
+
+# NUMBER OF RELEASES: 38
+# TOTAL DOWNLOADS: 36022
+
+
+# TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
+1requiredcrew 2561
+aberrant.kahet.outfitter 2596
+avgi.outfitter 71
+bunrodeaoutfitter 2584
+capture.archons 2531
+capture.augen 1247
+capturingpower 2468
+disable.aberrant.blockade 467
+easier.ground.assault 466
+jumpdrive.extended 2309
+navypirates 1715
+obtainheron 2015
+purchase.bactrian 2160
+purchaseable.androids 1010
+purchaseable.cloakingdevice 2103
+quargoutfitter 2094
+reduce.requiredcrew 935
+tributequarg 2044
+unlimited.dfc 2059
+unlock.hai.reveal 1514
+zoom.extension 1073
