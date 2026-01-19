@@ -21,8 +21,8 @@
 		<td>2507</td>
 		<td>2535</td>
 		<td>2560</td>
-		<td>2567</td>
-		<td>+ 7</td>
+		<td>2568</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>2539</td>
 		<td>2570</td>
 		<td>2595</td>
-		<td>2602</td>
-		<td>+ 7</td>
+		<td>2604</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>2527</td>
 		<td>2558</td>
 		<td>2583</td>
-		<td>2590</td>
-		<td>+ 7</td>
+		<td>2592</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>36094</td>
-		<td>80</td>
+		<td>36099</td>
+		<td>85</td>
 	</tr>
 </table>
 </sub></sup>
@@ -278,8 +278,8 @@
 		<td>2539</td>
 		<td>2570</td>
 		<td>2595</td>
-		<td>2602</td>
-		<td>+ 7</td>
+		<td>2604</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -289,8 +289,8 @@
 		<td>2527</td>
 		<td>2558</td>
 		<td>2583</td>
-		<td>2590</td>
-		<td>+ 7</td>
+		<td>2592</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -300,8 +300,8 @@
 		<td>2507</td>
 		<td>2535</td>
 		<td>2560</td>
-		<td>2567</td>
-		<td>+ 7</td>
+		<td>2568</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>36094</td>
-		<td>80</td>
+		<td>36099</td>
+		<td>85</td>
 	</tr>
 </table>
 </sub></sup>
