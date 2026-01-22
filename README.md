@@ -230,8 +230,8 @@
 		<td>1520</td>
 		<td>1526</td>
 		<td>1530</td>
-		<td>1533</td>
-		<td>+ 3</td>
+		<td>1534</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>zoom.extension</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37008</td>
-		<td>152</td>
+		<td>37009</td>
+		<td>153</td>
 	</tr>
 </table>
 </sub></sup>
@@ -421,8 +421,8 @@
 		<td>1520</td>
 		<td>1526</td>
 		<td>1530</td>
-		<td>1533</td>
-		<td>+ 3</td>
+		<td>1534</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37008</td>
-		<td>152</td>
+		<td>37009</td>
+		<td>153</td>
 	</tr>
 </table>
 </sub></sup>
