@@ -12,7 +12,7 @@ v1.1.1-capture.archons | downloads: 1573
 v1.1.0-capture.archons | downloads: 124
 v1.0.4-capture.archons | downloads: 122
 v1.0.1-capturingpower | downloads: 1805
-v1.0.0-unlock.hai.reveal | downloads: 1533
+v1.0.0-unlock.hai.reveal | downloads: 1534
 v1.0.4-obtainheron | downloads: 1763
 v1.0.0-navypirates | downloads: 915
 v1.0.3-obtainheron | downloads: 250
@@ -39,7 +39,7 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 38
-# TOTAL DOWNLOADS: 37008
+# TOTAL DOWNLOADS: 37009
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -62,5 +62,5 @@ quargoutfitter 2116
 reduce.requiredcrew 955
 tributequarg 2061
 unlimited.dfc 2079
-unlock.hai.reveal 1533
+unlock.hai.reveal 1534
 zoom.extension 1101
