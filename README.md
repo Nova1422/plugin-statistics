@@ -54,8 +54,8 @@
 		<td>2709</td>
 		<td>2733</td>
 		<td>2761</td>
-		<td>2777</td>
-		<td>+ 16</td>
+		<td>2778</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>38101</td>
-		<td>176</td>
+		<td>38102</td>
+		<td>177</td>
 	</tr>
 </table>
 </sub></sup>
@@ -289,8 +289,8 @@
 		<td>2709</td>
 		<td>2733</td>
 		<td>2761</td>
-		<td>2777</td>
-		<td>+ 16</td>
+		<td>2778</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>38101</td>
-		<td>176</td>
+		<td>38102</td>
+		<td>177</td>
 	</tr>
 </table>
 </sub></sup>
