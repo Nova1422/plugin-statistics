@@ -120,8 +120,8 @@
 		<td>2412</td>
 		<td>2426</td>
 		<td>2429</td>
-		<td>2432</td>
-		<td>+ 3</td>
+		<td>2433</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>navypirates</td>
@@ -186,8 +186,8 @@
 		<td>2188</td>
 		<td>2200</td>
 		<td>2205</td>
-		<td>2207</td>
-		<td>+ 2</td>
+		<td>2208</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -197,8 +197,8 @@
 		<td>1006</td>
 		<td>1011</td>
 		<td>1015</td>
-		<td>1017</td>
-		<td>+ 2</td>
+		<td>1018</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>40254</td>
-		<td>85</td>
+		<td>40257</td>
+		<td>88</td>
 	</tr>
 </table>
 </sub></sup>
@@ -333,8 +333,8 @@
 		<td>2412</td>
 		<td>2426</td>
 		<td>2429</td>
-		<td>2432</td>
-		<td>+ 3</td>
+		<td>2433</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -355,8 +355,8 @@
 		<td>2188</td>
 		<td>2200</td>
 		<td>2205</td>
-		<td>2207</td>
-		<td>+ 2</td>
+		<td>2208</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -465,8 +465,8 @@
 		<td>1006</td>
 		<td>1011</td>
 		<td>1015</td>
-		<td>1017</td>
-		<td>+ 2</td>
+		<td>1018</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>easier.ground.assault</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>40254</td>
-		<td>85</td>
+		<td>40257</td>
+		<td>88</td>
 	</tr>
 </table>
 </sub></sup>
