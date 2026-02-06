@@ -164,8 +164,8 @@
 		<td>1112</td>
 		<td>1121</td>
 		<td>1127</td>
-		<td>1137</td>
-		<td>+ 10</td>
+		<td>1139</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -175,8 +175,8 @@
 		<td>2202</td>
 		<td>2210</td>
 		<td>2214</td>
-		<td>2224</td>
-		<td>+ 10</td>
+		<td>2226</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>41280</td>
-		<td>294</td>
+		<td>41284</td>
+		<td>298</td>
 	</tr>
 </table>
 </sub></sup>
@@ -366,8 +366,8 @@
 		<td>2202</td>
 		<td>2210</td>
 		<td>2214</td>
-		<td>2224</td>
-		<td>+ 10</td>
+		<td>2226</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -454,8 +454,8 @@
 		<td>1112</td>
 		<td>1121</td>
 		<td>1127</td>
-		<td>1137</td>
-		<td>+ 10</td>
+		<td>1139</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>41280</td>
-		<td>294</td>
+		<td>41284</td>
+		<td>298</td>
 	</tr>
 </table>
 </sub></sup>
