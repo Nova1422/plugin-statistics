@@ -142,8 +142,8 @@
 		<td>2148</td>
 		<td>2152</td>
 		<td>2162</td>
-		<td>2171</td>
-		<td>+ 9</td>
+		<td>2173</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -230,8 +230,8 @@
 		<td>1608</td>
 		<td>1614</td>
 		<td>1620</td>
-		<td>1624</td>
-		<td>+ 4</td>
+		<td>1626</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>zoom.extension</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>41546</td>
-		<td>232</td>
+		<td>41550</td>
+		<td>236</td>
 	</tr>
 </table>
 </sub></sup>
@@ -377,8 +377,8 @@
 		<td>2148</td>
 		<td>2152</td>
 		<td>2162</td>
-		<td>2171</td>
-		<td>+ 9</td>
+		<td>2173</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -432,8 +432,8 @@
 		<td>1608</td>
 		<td>1614</td>
 		<td>1620</td>
-		<td>1624</td>
-		<td>+ 4</td>
+		<td>1626</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>zoom.extension</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>41546</td>
-		<td>232</td>
+		<td>41550</td>
+		<td>236</td>
 	</tr>
 </table>
 </sub></sup>
