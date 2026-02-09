@@ -29,7 +29,7 @@ v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 111
 v1.0.0-capturingpower | downloads: 752
-v1.0.0-1requiredcrew | downloads: 3074
+v1.0.0-1requiredcrew | downloads: 3075
 v1.0.1-unlimited.dfc | downloads: 1982
 v1.0.0-unlimited.dfc | downloads: 195
 v1.0.0-purchaseable.cloakingdevice | downloads: 2246
@@ -39,11 +39,11 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 38
-# TOTAL DOWNLOADS: 42033
+# TOTAL DOWNLOADS: 42034
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 3074
+1requiredcrew 3075
 aberrant.kahet.outfitter 3152
 avgi.outfitter 111
 bunrodeaoutfitter 3114
