@@ -54,8 +54,8 @@
 		<td>3061</td>
 		<td>3087</td>
 		<td>3109</td>
-		<td>3115</td>
-		<td>+ 6</td>
+		<td>3116</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -76,8 +76,8 @@
 		<td>1731</td>
 		<td>1754</td>
 		<td>1776</td>
-		<td>1782</td>
-		<td>+ 6</td>
+		<td>1783</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42054</td>
-		<td>106</td>
+		<td>42056</td>
+		<td>108</td>
 	</tr>
 </table>
 </sub></sup>
@@ -289,8 +289,8 @@
 		<td>3061</td>
 		<td>3087</td>
 		<td>3109</td>
-		<td>3115</td>
-		<td>+ 6</td>
+		<td>3116</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -421,8 +421,8 @@
 		<td>1731</td>
 		<td>1754</td>
 		<td>1776</td>
-		<td>1782</td>
-		<td>+ 6</td>
+		<td>1783</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>unlock.hai.reveal</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42054</td>
-		<td>106</td>
+		<td>42056</td>
+		<td>108</td>
 	</tr>
 </table>
 </sub></sup>
