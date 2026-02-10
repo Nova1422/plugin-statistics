@@ -21,8 +21,8 @@
 		<td>3041</td>
 		<td>3068</td>
 		<td>3086</td>
-		<td>3096</td>
-		<td>+ 10</td>
+		<td>3097</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>3120</td>
 		<td>3146</td>
 		<td>3163</td>
-		<td>3172</td>
-		<td>+ 9</td>
+		<td>3173</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>3087</td>
 		<td>3109</td>
 		<td>3125</td>
-		<td>3133</td>
-		<td>+ 8</td>
+		<td>3134</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -65,8 +65,8 @@
 		<td>3035</td>
 		<td>3057</td>
 		<td>3072</td>
-		<td>3080</td>
-		<td>+ 8</td>
+		<td>3081</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
@@ -120,8 +120,8 @@
 		<td>2477</td>
 		<td>2488</td>
 		<td>2496</td>
-		<td>2499</td>
-		<td>+ 3</td>
+		<td>2500</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>navypirates</td>
@@ -186,8 +186,8 @@
 		<td>2252</td>
 		<td>2261</td>
 		<td>2269</td>
-		<td>2272</td>
-		<td>+ 3</td>
+		<td>2273</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -252,8 +252,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42276</td>
-		<td>108</td>
+		<td>42282</td>
+		<td>114</td>
 	</tr>
 </table>
 </sub></sup>
@@ -278,8 +278,8 @@
 		<td>3120</td>
 		<td>3146</td>
 		<td>3163</td>
-		<td>3172</td>
-		<td>+ 9</td>
+		<td>3173</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -289,8 +289,8 @@
 		<td>3087</td>
 		<td>3109</td>
 		<td>3125</td>
-		<td>3133</td>
-		<td>+ 8</td>
+		<td>3134</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -300,8 +300,8 @@
 		<td>3041</td>
 		<td>3068</td>
 		<td>3086</td>
-		<td>3096</td>
-		<td>+ 10</td>
+		<td>3097</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -311,8 +311,8 @@
 		<td>3035</td>
 		<td>3057</td>
 		<td>3072</td>
-		<td>3080</td>
-		<td>+ 8</td>
+		<td>3081</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -333,8 +333,8 @@
 		<td>2477</td>
 		<td>2488</td>
 		<td>2496</td>
-		<td>2499</td>
-		<td>+ 3</td>
+		<td>2500</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -355,8 +355,8 @@
 		<td>2252</td>
 		<td>2261</td>
 		<td>2269</td>
-		<td>2272</td>
-		<td>+ 3</td>
+		<td>2273</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -509,8 +509,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42276</td>
-		<td>108</td>
+		<td>42282</td>
+		<td>114</td>
 	</tr>
 </table>
 </sub></sup>
