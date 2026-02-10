@@ -1,17 +1,17 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.1-navypirates | downloads: 957
-v1.0.0-easier.ground.assault | downloads: 993
-v1.0.0-disable.aberrant.blockade | downloads: 993
+v1.0.0-easier.ground.assault | downloads: 994
+v1.0.0-disable.aberrant.blockade | downloads: 994
 v1.0.0-avgi.outfitter | downloads: 111
 v1.0.1-reduce.requiredcrew | downloads: 970
 v1.0.0-reduce.requiredcrew | downloads: 93
-v1.0.0-capture.augen | downloads: 1803
+v1.0.0-capture.augen | downloads: 1804
 v1.0.0-zoom.extension | downloads: 1239
 v1.0.0-purchaseable.androids | downloads: 1175
-v1.1.1-capture.archons | downloads: 2034
+v1.1.1-capture.archons | downloads: 2035
 v1.1.0-capture.archons | downloads: 124
 v1.0.4-capture.archons | downloads: 123
-v1.0.1-capturingpower | downloads: 2281
+v1.0.1-capturingpower | downloads: 2282
 v1.0.0-unlock.hai.reveal | downloads: 1649
 v1.0.4-obtainheron | downloads: 1921
 v1.0.0-navypirates | downloads: 915
@@ -19,17 +19,17 @@ v1.0.3-obtainheron | downloads: 250
 v1.0.2-obtainheron | downloads: 25
 v1.0.1-purchase.bactrian | downloads: 2190
 v1.0.0-quargoutfitter | downloads: 2274
-v1.0.2-aberrant.kahet.outfitter | downloads: 3173
+v1.0.2-aberrant.kahet.outfitter | downloads: 3174
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
 v1.0.3-capture.archons | downloads: 707
 v1.0.2-tributequarg | downloads: 2167
 v1.0.1-jumpdrive.extended | downloads: 2394
-v1.0.0-bunrodeaoutfitter | downloads: 3138
+v1.0.0-bunrodeaoutfitter | downloads: 3139
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 111
 v1.0.0-capturingpower | downloads: 752
-v1.0.0-1requiredcrew | downloads: 3100
+v1.0.0-1requiredcrew | downloads: 3101
 v1.0.1-unlimited.dfc | downloads: 1988
 v1.0.0-unlimited.dfc | downloads: 195
 v1.0.0-purchaseable.cloakingdevice | downloads: 2258
@@ -39,19 +39,19 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 38
-# TOTAL DOWNLOADS: 42320
+# TOTAL DOWNLOADS: 42328
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 3100
-aberrant.kahet.outfitter 3177
+1requiredcrew 3101
+aberrant.kahet.outfitter 3178
 avgi.outfitter 111
-bunrodeaoutfitter 3138
-capture.archons 3084
-capture.augen 1803
-capturingpower 3033
-disable.aberrant.blockade 993
-easier.ground.assault 993
+bunrodeaoutfitter 3139
+capture.archons 3085
+capture.augen 1804
+capturingpower 3034
+disable.aberrant.blockade 994
+easier.ground.assault 994
 jumpdrive.extended 2501
 navypirates 1872
 obtainheron 2196
