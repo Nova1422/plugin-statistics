@@ -8,7 +8,7 @@ v1.0.0-reduce.requiredcrew | downloads: 93
 v1.0.0-capture.augen | downloads: 1800
 v1.0.0-zoom.extension | downloads: 1238
 v1.0.0-purchaseable.androids | downloads: 1174
-v1.1.1-capture.archons | downloads: 2030
+v1.1.1-capture.archons | downloads: 2031
 v1.1.0-capture.archons | downloads: 124
 v1.0.4-capture.archons | downloads: 123
 v1.0.1-capturingpower | downloads: 2278
@@ -18,18 +18,18 @@ v1.0.0-navypirates | downloads: 915
 v1.0.3-obtainheron | downloads: 250
 v1.0.2-obtainheron | downloads: 25
 v1.0.1-purchase.bactrian | downloads: 2189
-v1.0.0-quargoutfitter | downloads: 2272
-v1.0.2-aberrant.kahet.outfitter | downloads: 3168
+v1.0.0-quargoutfitter | downloads: 2273
+v1.0.2-aberrant.kahet.outfitter | downloads: 3169
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
 v1.0.3-capture.archons | downloads: 707
 v1.0.2-tributequarg | downloads: 2166
-v1.0.1-jumpdrive.extended | downloads: 2392
-v1.0.0-bunrodeaoutfitter | downloads: 3133
+v1.0.1-jumpdrive.extended | downloads: 2393
+v1.0.0-bunrodeaoutfitter | downloads: 3134
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 111
 v1.0.0-capturingpower | downloads: 752
-v1.0.0-1requiredcrew | downloads: 3096
+v1.0.0-1requiredcrew | downloads: 3097
 v1.0.1-unlimited.dfc | downloads: 1987
 v1.0.0-unlimited.dfc | downloads: 195
 v1.0.0-purchaseable.cloakingdevice | downloads: 2257
@@ -39,26 +39,26 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 38
-# TOTAL DOWNLOADS: 42276
+# TOTAL DOWNLOADS: 42282
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 3096
-aberrant.kahet.outfitter 3172
+1requiredcrew 3097
+aberrant.kahet.outfitter 3173
 avgi.outfitter 111
-bunrodeaoutfitter 3133
-capture.archons 3080
+bunrodeaoutfitter 3134
+capture.archons 3081
 capture.augen 1800
 capturingpower 3030
 disable.aberrant.blockade 990
 easier.ground.assault 990
-jumpdrive.extended 2499
+jumpdrive.extended 2500
 navypirates 1871
 obtainheron 2195
 purchase.bactrian 2300
 purchaseable.androids 1174
 purchaseable.cloakingdevice 2257
-quargoutfitter 2272
+quargoutfitter 2273
 reduce.requiredcrew 1062
 tributequarg 2176
 unlimited.dfc 2182
