@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.0-unshrouded | downloads: 7
 v1.0.0-map.reveal | downloads: 4
-v1.0.1-navypirates | downloads: 968
+v1.0.1-navypirates | downloads: 970
 v1.0.0-easier.ground.assault | downloads: 1012
 v1.0.0-disable.aberrant.blockade | downloads: 1011
 v1.0.0-avgi.outfitter | downloads: 115
@@ -19,13 +19,13 @@ v1.0.4-obtainheron | downloads: 1931
 v1.0.0-navypirates | downloads: 915
 v1.0.3-obtainheron | downloads: 250
 v1.0.2-obtainheron | downloads: 25
-v1.0.1-purchase.bactrian | downloads: 2197
-v1.0.0-quargoutfitter | downloads: 2282
+v1.0.1-purchase.bactrian | downloads: 2199
+v1.0.0-quargoutfitter | downloads: 2284
 v1.0.2-aberrant.kahet.outfitter | downloads: 3194
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
 v1.0.3-capture.archons | downloads: 707
 v1.0.2-tributequarg | downloads: 2173
-v1.0.1-jumpdrive.extended | downloads: 2406
+v1.0.1-jumpdrive.extended | downloads: 2408
 v1.0.0-bunrodeaoutfitter | downloads: 3159
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
@@ -34,14 +34,14 @@ v1.0.0-capturingpower | downloads: 752
 v1.0.0-1requiredcrew | downloads: 3118
 v1.0.1-unlimited.dfc | downloads: 1993
 v1.0.0-unlimited.dfc | downloads: 197
-v1.0.0-purchaseable.cloakingdevice | downloads: 2266
+v1.0.0-purchaseable.cloakingdevice | downloads: 2268
 v1.0.0-jumpdrive.extended | downloads: 107
 v1.0.2-capture.archons | downloads: 92
 v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 40
-# TOTAL DOWNLOADS: 42590
+# TOTAL DOWNLOADS: 42600
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -54,14 +54,14 @@ capture.augen 1824
 capturingpower 3052
 disable.aberrant.blockade 1011
 easier.ground.assault 1012
-jumpdrive.extended 2513
+jumpdrive.extended 2515
 map.reveal 4
-navypirates 1883
+navypirates 1885
 obtainheron 2206
-purchase.bactrian 2308
+purchase.bactrian 2310
 purchaseable.androids 1183
-purchaseable.cloakingdevice 2266
-quargoutfitter 2282
+purchaseable.cloakingdevice 2268
+quargoutfitter 2284
 reduce.requiredcrew 1070
 tributequarg 2183
 unlimited.dfc 2190
