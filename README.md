@@ -120,8 +120,8 @@
 		<td>2488</td>
 		<td>2496</td>
 		<td>2501</td>
-		<td>2513</td>
-		<td>+ 12</td>
+		<td>2515</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>map.reveal</td>
@@ -142,8 +142,8 @@
 		<td>1858</td>
 		<td>1868</td>
 		<td>1874</td>
-		<td>1883</td>
-		<td>+ 9</td>
+		<td>1885</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -164,8 +164,8 @@
 		<td>2290</td>
 		<td>2297</td>
 		<td>2301</td>
-		<td>2308</td>
-		<td>+ 7</td>
+		<td>2310</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -186,8 +186,8 @@
 		<td>2244</td>
 		<td>2252</td>
 		<td>2258</td>
-		<td>2266</td>
-		<td>+ 8</td>
+		<td>2268</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -197,8 +197,8 @@
 		<td>2261</td>
 		<td>2269</td>
 		<td>2274</td>
-		<td>2282</td>
-		<td>+ 8</td>
+		<td>2284</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42590</td>
-		<td>239</td>
+		<td>42600</td>
+		<td>249</td>
 	</tr>
 </table>
 </sub></sup>
@@ -355,8 +355,8 @@
 		<td>2488</td>
 		<td>2496</td>
 		<td>2501</td>
-		<td>2513</td>
-		<td>+ 12</td>
+		<td>2515</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -366,8 +366,8 @@
 		<td>2290</td>
 		<td>2297</td>
 		<td>2301</td>
-		<td>2308</td>
-		<td>+ 7</td>
+		<td>2310</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -377,8 +377,8 @@
 		<td>2261</td>
 		<td>2269</td>
 		<td>2274</td>
-		<td>2282</td>
-		<td>+ 8</td>
+		<td>2284</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -388,8 +388,8 @@
 		<td>2244</td>
 		<td>2252</td>
 		<td>2258</td>
-		<td>2266</td>
-		<td>+ 8</td>
+		<td>2268</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -432,8 +432,8 @@
 		<td>1858</td>
 		<td>1868</td>
 		<td>1874</td>
-		<td>1883</td>
-		<td>+ 9</td>
+		<td>1885</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42590</td>
-		<td>239</td>
+		<td>42600</td>
+		<td>249</td>
 	</tr>
 </table>
 </sub></sup>
