@@ -32,8 +32,8 @@
 		<td>3203</td>
 		<td>3227</td>
 		<td>3255</td>
-		<td>3273</td>
-		<td>+ 18</td>
+		<td>3274</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -65,8 +65,8 @@
 		<td>3110</td>
 		<td>3134</td>
 		<td>3157</td>
-		<td>3171</td>
-		<td>+ 14</td>
+		<td>3172</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
@@ -153,8 +153,8 @@
 		<td>2211</td>
 		<td>2234</td>
 		<td>2260</td>
-		<td>2274</td>
-		<td>+ 14</td>
+		<td>2275</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>43989</td>
-		<td>305</td>
+		<td>43992</td>
+		<td>308</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>3203</td>
 		<td>3227</td>
 		<td>3255</td>
-		<td>3273</td>
-		<td>+ 18</td>
+		<td>3274</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -333,8 +333,8 @@
 		<td>3110</td>
 		<td>3134</td>
 		<td>3157</td>
-		<td>3171</td>
-		<td>+ 14</td>
+		<td>3172</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -399,8 +399,8 @@
 		<td>2211</td>
 		<td>2234</td>
 		<td>2260</td>
-		<td>2274</td>
-		<td>+ 14</td>
+		<td>2275</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>43989</td>
-		<td>305</td>
+		<td>43992</td>
+		<td>308</td>
 	</tr>
 </table>
 </sub></sup>
