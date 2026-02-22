@@ -21,8 +21,8 @@
 		<td>3301</td>
 		<td>3325</td>
 		<td>3349</td>
-		<td>3369</td>
-		<td>+ 20</td>
+		<td>3370</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -43,8 +43,8 @@
 		<td>121</td>
 		<td>121</td>
 		<td>124</td>
-		<td>124</td>
-		<td></td>
+		<td>126</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -87,8 +87,8 @@
 		<td>3241</td>
 		<td>3264</td>
 		<td>3289</td>
-		<td>3306</td>
-		<td>+ 17</td>
+		<td>3308</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>47781</td>
-		<td>333</td>
+		<td>47786</td>
+		<td>338</td>
 	</tr>
 </table>
 </sub></sup>
@@ -322,8 +322,8 @@
 		<td>3301</td>
 		<td>3325</td>
 		<td>3349</td>
-		<td>3369</td>
-		<td>+ 20</td>
+		<td>3370</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -344,8 +344,8 @@
 		<td>3241</td>
 		<td>3264</td>
 		<td>3289</td>
-		<td>3306</td>
-		<td>+ 17</td>
+		<td>3308</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -520,8 +520,8 @@
 		<td>121</td>
 		<td>121</td>
 		<td>124</td>
-		<td>124</td>
-		<td></td>
+		<td>126</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>unshrouded</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>47781</td>
-		<td>333</td>
+		<td>47786</td>
+		<td>338</td>
 	</tr>
 </table>
 </sub></sup>
