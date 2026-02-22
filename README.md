@@ -208,8 +208,8 @@
 		<td>1261</td>
 		<td>1284</td>
 		<td>1310</td>
-		<td>1317</td>
-		<td>+ 7</td>
+		<td>1318</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>47590</td>
-		<td>142</td>
+		<td>47591</td>
+		<td>143</td>
 	</tr>
 </table>
 </sub></sup>
@@ -487,8 +487,8 @@
 		<td>1261</td>
 		<td>1284</td>
 		<td>1310</td>
-		<td>1317</td>
-		<td>+ 7</td>
+		<td>1318</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>easier.ground.assault</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>47590</td>
-		<td>142</td>
+		<td>47591</td>
+		<td>143</td>
 	</tr>
 </table>
 </sub></sup>
@@ -562,7 +562,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-02-12</td>
 		<td>2026-02-13</td>
 		<td>2026-02-14</td>
 		<td>2026-02-15</td>
@@ -571,10 +570,10 @@
 		<td>2026-02-18</td>
 		<td>2026-02-19</td>
 		<td>2026-02-20</td>
+		<td>2026-02-21</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>15</td>
 		<td>11</td>
 		<td>50</td>
 		<td>17</td>
@@ -583,10 +582,10 @@
 		<td>20</td>
 		<td>15</td>
 		<td>6</td>
+		<td>14</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>7</td>
 		<td>7</td>
 		<td>14</td>
 		<td>10</td>
@@ -595,6 +594,7 @@
 		<td>6</td>
 		<td>6</td>
 		<td>5</td>
+		<td>8</td>
 	</tr>
 </table>
 <br>
@@ -608,8 +608,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-15</td>
-		<td>3985</td>
-		<td>1125</td>
+		<td>3999</td>
+		<td>1133</td>
 		<td>192</td>
 		<td>21</td>
 	</tr>
@@ -622,8 +622,8 @@
 	</tr>
 	<tr>
 		<td>130</td>
-		<td>30.65</td>
-		<td>8.65</td>
+		<td>30.76</td>
+		<td>8.72</td>
 		<td></td>
 		<td></td>
 	</tr>
