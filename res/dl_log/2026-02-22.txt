@@ -5,7 +5,7 @@ v1.0.1-navypirates | downloads: 1222
 v1.0.0-easier.ground.assault | downloads: 1247
 v1.0.0-disable.aberrant.blockade | downloads: 1245
 v1.0.0-avgi.outfitter | downloads: 124
-v1.0.1-reduce.requiredcrew | downloads: 1224
+v1.0.1-reduce.requiredcrew | downloads: 1225
 v1.0.0-reduce.requiredcrew | downloads: 93
 v1.0.0-capture.augen | downloads: 2072
 v1.0.0-zoom.extension | downloads: 1496
@@ -41,7 +41,7 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 40
-# TOTAL DOWNLOADS: 47590
+# TOTAL DOWNLOADS: 47591
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -62,7 +62,7 @@ purchase.bactrian 2559
 purchaseable.androids 1446
 purchaseable.cloakingdevice 2532
 quargoutfitter 2522
-reduce.requiredcrew 1317
+reduce.requiredcrew 1318
 tributequarg 2428
 unlimited.dfc 2426
 unlock.hai.reveal 1881
