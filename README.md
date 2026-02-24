@@ -32,8 +32,8 @@
 		<td>3458</td>
 		<td>3477</td>
 		<td>3502</td>
-		<td>3510</td>
-		<td>+ 8</td>
+		<td>3512</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -87,8 +87,8 @@
 		<td>3289</td>
 		<td>3310</td>
 		<td>3334</td>
-		<td>3342</td>
-		<td>+ 8</td>
+		<td>3344</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -153,8 +153,8 @@
 		<td>2456</td>
 		<td>2475</td>
 		<td>2499</td>
-		<td>2507</td>
-		<td>+ 8</td>
+		<td>2509</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>48482</td>
-		<td>176</td>
+		<td>48488</td>
+		<td>182</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>3458</td>
 		<td>3477</td>
 		<td>3502</td>
-		<td>3510</td>
-		<td>+ 8</td>
+		<td>3512</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -344,8 +344,8 @@
 		<td>3289</td>
 		<td>3310</td>
 		<td>3334</td>
-		<td>3342</td>
-		<td>+ 8</td>
+		<td>3344</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -399,8 +399,8 @@
 		<td>2456</td>
 		<td>2475</td>
 		<td>2499</td>
-		<td>2507</td>
-		<td>+ 8</td>
+		<td>2509</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>48482</td>
-		<td>176</td>
+		<td>48488</td>
+		<td>182</td>
 	</tr>
 </table>
 </sub></sup>
