@@ -32,8 +32,8 @@
 		<td>3502</td>
 		<td>3529</td>
 		<td>3556</td>
-		<td>3568</td>
-		<td>+ 12</td>
+		<td>3569</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -153,8 +153,8 @@
 		<td>2499</td>
 		<td>2526</td>
 		<td>2546</td>
-		<td>2553</td>
-		<td>+ 7</td>
+		<td>2554</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>49330</td>
-		<td>165</td>
+		<td>49332</td>
+		<td>167</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>3502</td>
 		<td>3529</td>
 		<td>3556</td>
-		<td>3568</td>
-		<td>+ 12</td>
+		<td>3569</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -399,8 +399,8 @@
 		<td>2499</td>
 		<td>2526</td>
 		<td>2546</td>
-		<td>2553</td>
-		<td>+ 7</td>
+		<td>2554</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>49330</td>
-		<td>165</td>
+		<td>49332</td>
+		<td>167</td>
 	</tr>
 </table>
 </sub></sup>
