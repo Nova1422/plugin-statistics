@@ -76,8 +76,8 @@
 		<td>2107</td>
 		<td>2129</td>
 		<td>2149</td>
-		<td>2164</td>
-		<td>+ 15</td>
+		<td>2166</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -142,8 +142,8 @@
 		<td>2171</td>
 		<td>2191</td>
 		<td>2212</td>
-		<td>2233</td>
-		<td>+ 21</td>
+		<td>2235</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>49529</td>
-		<td>364</td>
+		<td>49533</td>
+		<td>368</td>
 	</tr>
 </table>
 </sub></sup>
@@ -432,8 +432,8 @@
 		<td>2171</td>
 		<td>2191</td>
 		<td>2212</td>
-		<td>2233</td>
-		<td>+ 21</td>
+		<td>2235</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
@@ -443,8 +443,8 @@
 		<td>2107</td>
 		<td>2129</td>
 		<td>2149</td>
-		<td>2164</td>
-		<td>+ 15</td>
+		<td>2166</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>unlock.hai.reveal</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>49529</td>
-		<td>364</td>
+		<td>49533</td>
+		<td>368</td>
 	</tr>
 </table>
 </sub></sup>
