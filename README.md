@@ -21,8 +21,8 @@
 		<td>3393</td>
 		<td>3414</td>
 		<td>3435</td>
-		<td>3442</td>
-		<td>+ 7</td>
+		<td>3443</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>49302</td>
-		<td>137</td>
+		<td>49303</td>
+		<td>138</td>
 	</tr>
 </table>
 </sub></sup>
@@ -322,8 +322,8 @@
 		<td>3393</td>
 		<td>3414</td>
 		<td>3435</td>
-		<td>3442</td>
-		<td>+ 7</td>
+		<td>3443</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>49302</td>
-		<td>137</td>
+		<td>49303</td>
+		<td>138</td>
 	</tr>
 </table>
 </sub></sup>
