@@ -21,8 +21,8 @@
 		<td>3393</td>
 		<td>3414</td>
 		<td>3435</td>
-		<td>3441</td>
-		<td>+ 6</td>
+		<td>3442</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>3502</td>
 		<td>3529</td>
 		<td>3556</td>
-		<td>3564</td>
-		<td>+ 8</td>
+		<td>3565</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -263,8 +263,8 @@
 		<td>1538</td>
 		<td>1560</td>
 		<td>1585</td>
-		<td>1592</td>
-		<td>+ 7</td>
+		<td>1594</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>49298</td>
-		<td>133</td>
+		<td>49302</td>
+		<td>137</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>3502</td>
 		<td>3529</td>
 		<td>3556</td>
-		<td>3564</td>
-		<td>+ 8</td>
+		<td>3565</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -322,8 +322,8 @@
 		<td>3393</td>
 		<td>3414</td>
 		<td>3435</td>
-		<td>3441</td>
-		<td>+ 6</td>
+		<td>3442</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -465,8 +465,8 @@
 		<td>1538</td>
 		<td>1560</td>
 		<td>1585</td>
-		<td>1592</td>
-		<td>+ 7</td>
+		<td>1594</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>49298</td>
-		<td>133</td>
+		<td>49302</td>
+		<td>137</td>
 	</tr>
 </table>
 </sub></sup>
