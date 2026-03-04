@@ -21,8 +21,8 @@
 		<td>3527</td>
 		<td>3549</td>
 		<td>3568</td>
-		<td>3569</td>
-		<td>+ 1</td>
+		<td>3570</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -164,8 +164,8 @@
 		<td>2724</td>
 		<td>2749</td>
 		<td>2769</td>
-		<td>2770</td>
-		<td>+ 1</td>
+		<td>2771</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>51853</td>
-		<td>20</td>
+		<td>51855</td>
+		<td>22</td>
 	</tr>
 </table>
 </sub></sup>
@@ -322,8 +322,8 @@
 		<td>3527</td>
 		<td>3549</td>
 		<td>3568</td>
-		<td>3569</td>
-		<td>+ 1</td>
+		<td>3570</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -366,8 +366,8 @@
 		<td>2724</td>
 		<td>2749</td>
 		<td>2769</td>
-		<td>2770</td>
-		<td>+ 1</td>
+		<td>2771</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>51853</td>
-		<td>20</td>
+		<td>51855</td>
+		<td>22</td>
 	</tr>
 </table>
 </sub></sup>
