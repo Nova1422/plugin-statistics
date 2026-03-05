@@ -263,8 +263,8 @@
 		<td>1703</td>
 		<td>1724</td>
 		<td>1740</td>
-		<td>1742</td>
-		<td>+ 2</td>
+		<td>1745</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>52251</td>
-		<td>68</td>
+		<td>52254</td>
+		<td>71</td>
 	</tr>
 </table>
 </sub></sup>
@@ -465,8 +465,8 @@
 		<td>1703</td>
 		<td>1724</td>
 		<td>1740</td>
-		<td>1742</td>
-		<td>+ 2</td>
+		<td>1745</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>52251</td>
-		<td>68</td>
+		<td>52254</td>
+		<td>71</td>
 	</tr>
 </table>
 </sub></sup>
@@ -562,7 +562,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-02-23</td>
 		<td>2026-02-24</td>
 		<td>2026-02-25</td>
 		<td>2026-02-26</td>
@@ -571,10 +570,10 @@
 		<td>2026-03-01</td>
 		<td>2026-03-02</td>
 		<td>2026-03-03</td>
+		<td>2026-03-04</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>47</td>
 		<td>38</td>
 		<td>23</td>
 		<td>18</td>
@@ -583,10 +582,10 @@
 		<td>41</td>
 		<td>10</td>
 		<td>42</td>
+		<td>4</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>6</td>
 		<td>11</td>
 		<td>9</td>
 		<td>10</td>
@@ -595,6 +594,7 @@
 		<td>11</td>
 		<td>6</td>
 		<td>8</td>
+		<td>3</td>
 	</tr>
 </table>
 <br>
@@ -608,8 +608,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-15</td>
-		<td>4261</td>
-		<td>1215</td>
+		<td>4265</td>
+		<td>1218</td>
 		<td>192</td>
 		<td>21</td>
 	</tr>
@@ -622,8 +622,8 @@
 	</tr>
 	<tr>
 		<td>141</td>
-		<td>30.22</td>
-		<td>8.62</td>
+		<td>30.25</td>
+		<td>8.64</td>
 		<td></td>
 		<td></td>
 	</tr>
