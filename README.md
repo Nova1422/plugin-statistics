@@ -32,8 +32,8 @@
 		<td>3675</td>
 		<td>3701</td>
 		<td>3722</td>
-		<td>3726</td>
-		<td>+ 4</td>
+		<td>3727</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>3603</td>
 		<td>3626</td>
 		<td>3644</td>
-		<td>3647</td>
-		<td>+ 3</td>
+		<td>3648</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>52223</td>
-		<td>40</td>
+		<td>52225</td>
+		<td>42</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>3675</td>
 		<td>3701</td>
 		<td>3722</td>
-		<td>3726</td>
-		<td>+ 4</td>
+		<td>3727</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -311,8 +311,8 @@
 		<td>3603</td>
 		<td>3626</td>
 		<td>3644</td>
-		<td>3647</td>
-		<td>+ 3</td>
+		<td>3648</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>52223</td>
-		<td>40</td>
+		<td>52225</td>
+		<td>42</td>
 	</tr>
 </table>
 </sub></sup>
