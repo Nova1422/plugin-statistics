@@ -87,8 +87,8 @@
 		<td>3486</td>
 		<td>3510</td>
 		<td>3530</td>
-		<td>3537</td>
-		<td>+ 7</td>
+		<td>3538</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -109,8 +109,8 @@
 		<td>1423</td>
 		<td>1443</td>
 		<td>1460</td>
-		<td>1462</td>
-		<td>+ 2</td>
+		<td>1463</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -153,8 +153,8 @@
 		<td>2659</td>
 		<td>2677</td>
 		<td>2691</td>
-		<td>2694</td>
-		<td>+ 3</td>
+		<td>2695</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -230,8 +230,8 @@
 		<td>2610</td>
 		<td>2631</td>
 		<td>2649</td>
-		<td>2653</td>
-		<td>+ 4</td>
+		<td>2654</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>unlock.hai.reveal</td>
@@ -263,8 +263,8 @@
 		<td>1703</td>
 		<td>1724</td>
 		<td>1740</td>
-		<td>1745</td>
-		<td>+ 5</td>
+		<td>1746</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>52258</td>
-		<td>75</td>
+		<td>52263</td>
+		<td>80</td>
 	</tr>
 </table>
 </sub></sup>
@@ -344,8 +344,8 @@
 		<td>3486</td>
 		<td>3510</td>
 		<td>3530</td>
-		<td>3537</td>
-		<td>+ 7</td>
+		<td>3538</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -399,8 +399,8 @@
 		<td>2659</td>
 		<td>2677</td>
 		<td>2691</td>
-		<td>2694</td>
-		<td>+ 3</td>
+		<td>2695</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -410,8 +410,8 @@
 		<td>2610</td>
 		<td>2631</td>
 		<td>2649</td>
-		<td>2653</td>
-		<td>+ 4</td>
+		<td>2654</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -465,8 +465,8 @@
 		<td>1703</td>
 		<td>1724</td>
 		<td>1740</td>
-		<td>1745</td>
-		<td>+ 5</td>
+		<td>1746</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -509,8 +509,8 @@
 		<td>1423</td>
 		<td>1443</td>
 		<td>1460</td>
-		<td>1462</td>
-		<td>+ 2</td>
+		<td>1463</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>52258</td>
-		<td>75</td>
+		<td>52263</td>
+		<td>80</td>
 	</tr>
 </table>
 </sub></sup>
