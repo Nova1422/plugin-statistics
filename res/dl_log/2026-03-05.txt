@@ -2,20 +2,20 @@
 v1.0.0-unshrouded | downloads: 28
 v1.0.0-map.reveal | downloads: 22
 v1.0.1-navypirates | downloads: 1452
-v1.0.0-easier.ground.assault | downloads: 1462
+v1.0.0-easier.ground.assault | downloads: 1463
 v1.0.0-disable.aberrant.blockade | downloads: 1468
 v1.0.0-avgi.outfitter | downloads: 139
 v1.0.1-reduce.requiredcrew | downloads: 1446
 v1.0.0-reduce.requiredcrew | downloads: 93
 v1.0.0-capture.augen | downloads: 2305
-v1.0.0-zoom.extension | downloads: 1745
+v1.0.0-zoom.extension | downloads: 1746
 v1.0.0-purchaseable.androids | downloads: 1676
 v1.1.1-capture.archons | downloads: 2516
 v1.1.0-capture.archons | downloads: 124
 v1.0.4-capture.archons | downloads: 123
-v1.0.1-capturingpower | downloads: 2785
+v1.0.1-capturingpower | downloads: 2786
 v1.0.0-unlock.hai.reveal | downloads: 2097
-v1.0.4-obtainheron | downloads: 2419
+v1.0.4-obtainheron | downloads: 2420
 v1.0.0-navypirates | downloads: 915
 v1.0.3-obtainheron | downloads: 250
 v1.0.2-obtainheron | downloads: 25
@@ -32,7 +32,7 @@ v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 111
 v1.0.0-capturingpower | downloads: 752
 v1.0.0-1requiredcrew | downloads: 3592
-v1.0.1-unlimited.dfc | downloads: 2435
+v1.0.1-unlimited.dfc | downloads: 2436
 v1.0.0-unlimited.dfc | downloads: 218
 v1.0.0-purchaseable.cloakingdevice | downloads: 2772
 v1.0.0-jumpdrive.extended | downloads: 107
@@ -41,7 +41,7 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 40
-# TOTAL DOWNLOADS: 52258
+# TOTAL DOWNLOADS: 52263
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -51,20 +51,20 @@ avgi.outfitter 139
 bunrodeaoutfitter 3650
 capture.archons 3566
 capture.augen 2305
-capturingpower 3537
+capturingpower 3538
 disable.aberrant.blockade 1468
-easier.ground.assault 1462
+easier.ground.assault 1463
 jumpdrive.extended 3029
 map.reveal 22
 navypirates 2367
-obtainheron 2694
+obtainheron 2695
 purchase.bactrian 2786
 purchaseable.androids 1676
 purchaseable.cloakingdevice 2772
 quargoutfitter 2755
 reduce.requiredcrew 1539
 tributequarg 2647
-unlimited.dfc 2653
+unlimited.dfc 2654
 unlock.hai.reveal 2097
 unshrouded 28
-zoom.extension 1745
+zoom.extension 1746
