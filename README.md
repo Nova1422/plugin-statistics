@@ -54,8 +54,8 @@
 		<td>3603</td>
 		<td>3626</td>
 		<td>3644</td>
-		<td>3649</td>
-		<td>+ 5</td>
+		<td>3650</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -87,8 +87,8 @@
 		<td>3486</td>
 		<td>3510</td>
 		<td>3530</td>
-		<td>3536</td>
-		<td>+ 6</td>
+		<td>3537</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -120,8 +120,8 @@
 		<td>2987</td>
 		<td>3010</td>
 		<td>3026</td>
-		<td>3028</td>
-		<td>+ 2</td>
+		<td>3029</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>map.reveal</td>
@@ -153,8 +153,8 @@
 		<td>2659</td>
 		<td>2677</td>
 		<td>2691</td>
-		<td>2693</td>
-		<td>+ 2</td>
+		<td>2694</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>52254</td>
-		<td>71</td>
+		<td>52258</td>
+		<td>75</td>
 	</tr>
 </table>
 </sub></sup>
@@ -311,8 +311,8 @@
 		<td>3603</td>
 		<td>3626</td>
 		<td>3644</td>
-		<td>3649</td>
-		<td>+ 5</td>
+		<td>3650</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -344,8 +344,8 @@
 		<td>3486</td>
 		<td>3510</td>
 		<td>3530</td>
-		<td>3536</td>
-		<td>+ 6</td>
+		<td>3537</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -355,8 +355,8 @@
 		<td>2987</td>
 		<td>3010</td>
 		<td>3026</td>
-		<td>3028</td>
-		<td>+ 2</td>
+		<td>3029</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -399,8 +399,8 @@
 		<td>2659</td>
 		<td>2677</td>
 		<td>2691</td>
-		<td>2693</td>
-		<td>+ 2</td>
+		<td>2694</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>52254</td>
-		<td>71</td>
+		<td>52258</td>
+		<td>75</td>
 	</tr>
 </table>
 </sub></sup>
