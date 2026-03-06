@@ -54,8 +54,8 @@
 		<td>3626</td>
 		<td>3644</td>
 		<td>3663</td>
-		<td>3679</td>
-		<td>+ 16</td>
+		<td>3680</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -65,8 +65,8 @@
 		<td>3542</td>
 		<td>3562</td>
 		<td>3578</td>
-		<td>3594</td>
-		<td>+ 16</td>
+		<td>3595</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
@@ -142,8 +142,8 @@
 		<td>2349</td>
 		<td>2365</td>
 		<td>2380</td>
-		<td>2394</td>
-		<td>+ 14</td>
+		<td>2395</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -164,8 +164,8 @@
 		<td>2769</td>
 		<td>2784</td>
 		<td>2798</td>
-		<td>2812</td>
-		<td>+ 14</td>
+		<td>2813</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -175,8 +175,8 @@
 		<td>1655</td>
 		<td>1672</td>
 		<td>1687</td>
-		<td>1701</td>
-		<td>+ 14</td>
+		<td>1702</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -219,8 +219,8 @@
 		<td>2631</td>
 		<td>2645</td>
 		<td>2659</td>
-		<td>2672</td>
-		<td>+ 13</td>
+		<td>2673</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -263,8 +263,8 @@
 		<td>1724</td>
 		<td>1740</td>
 		<td>1758</td>
-		<td>1770</td>
-		<td>+ 12</td>
+		<td>1771</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>52788</td>
-		<td>285</td>
+		<td>52795</td>
+		<td>292</td>
 	</tr>
 </table>
 </sub></sup>
@@ -311,8 +311,8 @@
 		<td>3626</td>
 		<td>3644</td>
 		<td>3663</td>
-		<td>3679</td>
-		<td>+ 16</td>
+		<td>3680</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -333,8 +333,8 @@
 		<td>3542</td>
 		<td>3562</td>
 		<td>3578</td>
-		<td>3594</td>
-		<td>+ 16</td>
+		<td>3595</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -366,8 +366,8 @@
 		<td>2769</td>
 		<td>2784</td>
 		<td>2798</td>
-		<td>2812</td>
-		<td>+ 14</td>
+		<td>2813</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -421,8 +421,8 @@
 		<td>2631</td>
 		<td>2645</td>
 		<td>2659</td>
-		<td>2672</td>
-		<td>+ 13</td>
+		<td>2673</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>navypirates</td>
@@ -432,8 +432,8 @@
 		<td>2349</td>
 		<td>2365</td>
 		<td>2380</td>
-		<td>2394</td>
-		<td>+ 14</td>
+		<td>2395</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
@@ -465,8 +465,8 @@
 		<td>1724</td>
 		<td>1740</td>
 		<td>1758</td>
-		<td>1770</td>
-		<td>+ 12</td>
+		<td>1771</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -476,8 +476,8 @@
 		<td>1655</td>
 		<td>1672</td>
 		<td>1687</td>
-		<td>1701</td>
-		<td>+ 14</td>
+		<td>1702</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>52788</td>
-		<td>285</td>
+		<td>52795</td>
+		<td>292</td>
 	</tr>
 </table>
 </sub></sup>
