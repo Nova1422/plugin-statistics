@@ -32,8 +32,8 @@
 		<td>3701</td>
 		<td>3722</td>
 		<td>3742</td>
-		<td>3748</td>
-		<td>+ 6</td>
+		<td>3749</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -65,8 +65,8 @@
 		<td>3542</td>
 		<td>3562</td>
 		<td>3578</td>
-		<td>3585</td>
-		<td>+ 7</td>
+		<td>3586</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
@@ -109,8 +109,8 @@
 		<td>1443</td>
 		<td>1460</td>
 		<td>1474</td>
-		<td>1480</td>
-		<td>+ 6</td>
+		<td>1481</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -153,8 +153,8 @@
 		<td>2677</td>
 		<td>2691</td>
 		<td>2706</td>
-		<td>2711</td>
-		<td>+ 5</td>
+		<td>2712</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -164,8 +164,8 @@
 		<td>2769</td>
 		<td>2784</td>
 		<td>2798</td>
-		<td>2803</td>
-		<td>+ 5</td>
+		<td>2804</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -175,8 +175,8 @@
 		<td>1655</td>
 		<td>1672</td>
 		<td>1687</td>
-		<td>1693</td>
-		<td>+ 6</td>
+		<td>1694</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -186,8 +186,8 @@
 		<td>2753</td>
 		<td>2770</td>
 		<td>2784</td>
-		<td>2790</td>
-		<td>+ 6</td>
+		<td>2791</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -241,8 +241,8 @@
 		<td>2075</td>
 		<td>2093</td>
 		<td>2108</td>
-		<td>2113</td>
-		<td>+ 5</td>
+		<td>2114</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>unshrouded</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>52625</td>
-		<td>122</td>
+		<td>52633</td>
+		<td>130</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>3701</td>
 		<td>3722</td>
 		<td>3742</td>
-		<td>3748</td>
-		<td>+ 6</td>
+		<td>3749</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -333,8 +333,8 @@
 		<td>3542</td>
 		<td>3562</td>
 		<td>3578</td>
-		<td>3585</td>
-		<td>+ 7</td>
+		<td>3586</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -366,8 +366,8 @@
 		<td>2769</td>
 		<td>2784</td>
 		<td>2798</td>
-		<td>2803</td>
-		<td>+ 5</td>
+		<td>2804</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -377,8 +377,8 @@
 		<td>2753</td>
 		<td>2770</td>
 		<td>2784</td>
-		<td>2790</td>
-		<td>+ 6</td>
+		<td>2791</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -399,8 +399,8 @@
 		<td>2677</td>
 		<td>2691</td>
 		<td>2706</td>
-		<td>2711</td>
-		<td>+ 5</td>
+		<td>2712</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -454,8 +454,8 @@
 		<td>2075</td>
 		<td>2093</td>
 		<td>2108</td>
-		<td>2113</td>
-		<td>+ 5</td>
+		<td>2114</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>zoom.extension</td>
@@ -476,8 +476,8 @@
 		<td>1655</td>
 		<td>1672</td>
 		<td>1687</td>
-		<td>1693</td>
-		<td>+ 6</td>
+		<td>1694</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -509,8 +509,8 @@
 		<td>1443</td>
 		<td>1460</td>
 		<td>1474</td>
-		<td>1480</td>
-		<td>+ 6</td>
+		<td>1481</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>52625</td>
-		<td>122</td>
+		<td>52633</td>
+		<td>130</td>
 	</tr>
 </table>
 </sub></sup>
@@ -562,7 +562,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-02-24</td>
 		<td>2026-02-25</td>
 		<td>2026-02-26</td>
 		<td>2026-02-27</td>
@@ -571,10 +570,10 @@
 		<td>2026-03-02</td>
 		<td>2026-03-03</td>
 		<td>2026-03-04</td>
+		<td>2026-03-05</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>38</td>
 		<td>23</td>
 		<td>18</td>
 		<td>8</td>
@@ -583,10 +582,10 @@
 		<td>10</td>
 		<td>42</td>
 		<td>4</td>
+		<td>4</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>11</td>
 		<td>9</td>
 		<td>10</td>
 		<td>6</td>
@@ -594,6 +593,7 @@
 		<td>11</td>
 		<td>6</td>
 		<td>8</td>
+		<td>3</td>
 		<td>3</td>
 	</tr>
 </table>
@@ -608,8 +608,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-15</td>
-		<td>4265</td>
-		<td>1218</td>
+		<td>4269</td>
+		<td>1221</td>
 		<td>192</td>
 		<td>21</td>
 	</tr>
@@ -622,8 +622,8 @@
 	</tr>
 	<tr>
 		<td>142</td>
-		<td>30.04</td>
-		<td>8.58</td>
+		<td>30.06</td>
+		<td>8.60</td>
 		<td></td>
 		<td></td>
 	</tr>
