@@ -32,8 +32,8 @@
 		<td>3722</td>
 		<td>3742</td>
 		<td>3759</td>
-		<td>3770</td>
-		<td>+ 11</td>
+		<td>3771</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -43,8 +43,8 @@
 		<td>139</td>
 		<td>140</td>
 		<td>140</td>
-		<td>140</td>
-		<td></td>
+		<td>141</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -98,8 +98,8 @@
 		<td>1464</td>
 		<td>1479</td>
 		<td>1495</td>
-		<td>1507</td>
-		<td>+ 12</td>
+		<td>1508</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>easier.ground.assault</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>53090</td>
-		<td>248</td>
+		<td>53093</td>
+		<td>251</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>3722</td>
 		<td>3742</td>
 		<td>3759</td>
-		<td>3770</td>
-		<td>+ 11</td>
+		<td>3771</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -498,8 +498,8 @@
 		<td>1464</td>
 		<td>1479</td>
 		<td>1495</td>
-		<td>1507</td>
-		<td>+ 12</td>
+		<td>1508</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>easier.ground.assault</td>
@@ -520,8 +520,8 @@
 		<td>139</td>
 		<td>140</td>
 		<td>140</td>
-		<td>140</td>
-		<td></td>
+		<td>141</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>unshrouded</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>53090</td>
-		<td>248</td>
+		<td>53093</td>
+		<td>251</td>
 	</tr>
 </table>
 </sub></sup>
