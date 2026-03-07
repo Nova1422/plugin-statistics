@@ -54,8 +54,8 @@
 		<td>3644</td>
 		<td>3663</td>
 		<td>3682</td>
-		<td>3686</td>
-		<td>+ 4</td>
+		<td>3687</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -65,8 +65,8 @@
 		<td>3562</td>
 		<td>3578</td>
 		<td>3597</td>
-		<td>3600</td>
-		<td>+ 3</td>
+		<td>3601</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
@@ -87,8 +87,8 @@
 		<td>3530</td>
 		<td>3551</td>
 		<td>3569</td>
-		<td>3572</td>
-		<td>+ 3</td>
+		<td>3573</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -164,8 +164,8 @@
 		<td>2784</td>
 		<td>2798</td>
 		<td>2816</td>
-		<td>2819</td>
-		<td>+ 3</td>
+		<td>2820</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -175,8 +175,8 @@
 		<td>1672</td>
 		<td>1687</td>
 		<td>1704</td>
-		<td>1707</td>
-		<td>+ 3</td>
+		<td>1708</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -186,8 +186,8 @@
 		<td>2770</td>
 		<td>2784</td>
 		<td>2801</td>
-		<td>2806</td>
-		<td>+ 5</td>
+		<td>2807</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>52911</td>
-		<td>69</td>
+		<td>52917</td>
+		<td>75</td>
 	</tr>
 </table>
 </sub></sup>
@@ -311,8 +311,8 @@
 		<td>3644</td>
 		<td>3663</td>
 		<td>3682</td>
-		<td>3686</td>
-		<td>+ 4</td>
+		<td>3687</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -333,8 +333,8 @@
 		<td>3562</td>
 		<td>3578</td>
 		<td>3597</td>
-		<td>3600</td>
-		<td>+ 3</td>
+		<td>3601</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -344,8 +344,8 @@
 		<td>3530</td>
 		<td>3551</td>
 		<td>3569</td>
-		<td>3572</td>
-		<td>+ 3</td>
+		<td>3573</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -366,8 +366,8 @@
 		<td>2784</td>
 		<td>2798</td>
 		<td>2816</td>
-		<td>2819</td>
-		<td>+ 3</td>
+		<td>2820</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -377,8 +377,8 @@
 		<td>2770</td>
 		<td>2784</td>
 		<td>2801</td>
-		<td>2806</td>
-		<td>+ 5</td>
+		<td>2807</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -476,8 +476,8 @@
 		<td>1672</td>
 		<td>1687</td>
 		<td>1704</td>
-		<td>1707</td>
-		<td>+ 3</td>
+		<td>1708</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>52911</td>
-		<td>69</td>
+		<td>52917</td>
+		<td>75</td>
 	</tr>
 </table>
 </sub></sup>
