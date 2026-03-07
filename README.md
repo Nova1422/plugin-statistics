@@ -76,8 +76,8 @@
 		<td>2301</td>
 		<td>2317</td>
 		<td>2337</td>
-		<td>2350</td>
-		<td>+ 13</td>
+		<td>2351</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -98,8 +98,8 @@
 		<td>1464</td>
 		<td>1479</td>
 		<td>1495</td>
-		<td>1508</td>
-		<td>+ 13</td>
+		<td>1509</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>easier.ground.assault</td>
@@ -142,8 +142,8 @@
 		<td>2365</td>
 		<td>2380</td>
 		<td>2397</td>
-		<td>2409</td>
-		<td>+ 12</td>
+		<td>2410</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -153,8 +153,8 @@
 		<td>2691</td>
 		<td>2706</td>
 		<td>2721</td>
-		<td>2733</td>
-		<td>+ 12</td>
+		<td>2734</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -208,8 +208,8 @@
 		<td>1535</td>
 		<td>1551</td>
 		<td>1566</td>
-		<td>1579</td>
-		<td>+ 13</td>
+		<td>1580</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -219,8 +219,8 @@
 		<td>2645</td>
 		<td>2659</td>
 		<td>2675</td>
-		<td>2688</td>
-		<td>+ 13</td>
+		<td>2689</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -241,8 +241,8 @@
 		<td>2093</td>
 		<td>2108</td>
 		<td>2124</td>
-		<td>2135</td>
-		<td>+ 11</td>
+		<td>2136</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>unshrouded</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>53093</td>
-		<td>251</td>
+		<td>53100</td>
+		<td>258</td>
 	</tr>
 </table>
 </sub></sup>
@@ -399,8 +399,8 @@
 		<td>2691</td>
 		<td>2706</td>
 		<td>2721</td>
-		<td>2733</td>
-		<td>+ 12</td>
+		<td>2734</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -421,8 +421,8 @@
 		<td>2645</td>
 		<td>2659</td>
 		<td>2675</td>
-		<td>2688</td>
-		<td>+ 13</td>
+		<td>2689</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>navypirates</td>
@@ -432,8 +432,8 @@
 		<td>2365</td>
 		<td>2380</td>
 		<td>2397</td>
-		<td>2409</td>
-		<td>+ 12</td>
+		<td>2410</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
@@ -443,8 +443,8 @@
 		<td>2301</td>
 		<td>2317</td>
 		<td>2337</td>
-		<td>2350</td>
-		<td>+ 13</td>
+		<td>2351</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>unlock.hai.reveal</td>
@@ -454,8 +454,8 @@
 		<td>2093</td>
 		<td>2108</td>
 		<td>2124</td>
-		<td>2135</td>
-		<td>+ 11</td>
+		<td>2136</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>zoom.extension</td>
@@ -487,8 +487,8 @@
 		<td>1535</td>
 		<td>1551</td>
 		<td>1566</td>
-		<td>1579</td>
-		<td>+ 13</td>
+		<td>1580</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -498,8 +498,8 @@
 		<td>1464</td>
 		<td>1479</td>
 		<td>1495</td>
-		<td>1508</td>
-		<td>+ 13</td>
+		<td>1509</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>easier.ground.assault</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>53093</td>
-		<td>251</td>
+		<td>53100</td>
+		<td>258</td>
 	</tr>
 </table>
 </sub></sup>
