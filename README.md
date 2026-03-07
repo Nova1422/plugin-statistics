@@ -32,8 +32,8 @@
 		<td>3722</td>
 		<td>3742</td>
 		<td>3759</td>
-		<td>3777</td>
-		<td>+ 18</td>
+		<td>3778</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -87,8 +87,8 @@
 		<td>3530</td>
 		<td>3551</td>
 		<td>3569</td>
-		<td>3587</td>
-		<td>+ 18</td>
+		<td>3588</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -153,8 +153,8 @@
 		<td>2691</td>
 		<td>2706</td>
 		<td>2721</td>
-		<td>2740</td>
-		<td>+ 19</td>
+		<td>2741</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -197,8 +197,8 @@
 		<td>2753</td>
 		<td>2766</td>
 		<td>2780</td>
-		<td>2799</td>
-		<td>+ 19</td>
+		<td>2800</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -241,8 +241,8 @@
 		<td>2093</td>
 		<td>2108</td>
 		<td>2124</td>
-		<td>2141</td>
-		<td>+ 17</td>
+		<td>2142</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>unshrouded</td>
@@ -263,8 +263,8 @@
 		<td>1740</td>
 		<td>1758</td>
 		<td>1774</td>
-		<td>1790</td>
-		<td>+ 16</td>
+		<td>1791</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>53199</td>
-		<td>357</td>
+		<td>53205</td>
+		<td>363</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>3722</td>
 		<td>3742</td>
 		<td>3759</td>
-		<td>3777</td>
-		<td>+ 18</td>
+		<td>3778</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -344,8 +344,8 @@
 		<td>3530</td>
 		<td>3551</td>
 		<td>3569</td>
-		<td>3587</td>
-		<td>+ 18</td>
+		<td>3588</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -388,8 +388,8 @@
 		<td>2753</td>
 		<td>2766</td>
 		<td>2780</td>
-		<td>2799</td>
-		<td>+ 19</td>
+		<td>2800</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -399,8 +399,8 @@
 		<td>2691</td>
 		<td>2706</td>
 		<td>2721</td>
-		<td>2740</td>
-		<td>+ 19</td>
+		<td>2741</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -454,8 +454,8 @@
 		<td>2093</td>
 		<td>2108</td>
 		<td>2124</td>
-		<td>2141</td>
-		<td>+ 17</td>
+		<td>2142</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>zoom.extension</td>
@@ -465,8 +465,8 @@
 		<td>1740</td>
 		<td>1758</td>
 		<td>1774</td>
-		<td>1790</td>
-		<td>+ 16</td>
+		<td>1791</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>53199</td>
-		<td>357</td>
+		<td>53205</td>
+		<td>363</td>
 	</tr>
 </table>
 </sub></sup>
