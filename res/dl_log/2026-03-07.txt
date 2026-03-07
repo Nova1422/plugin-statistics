@@ -9,24 +9,24 @@ v1.0.1-reduce.requiredcrew | downloads: 1477
 v1.0.0-reduce.requiredcrew | downloads: 93
 v1.0.0-capture.augen | downloads: 2340
 v1.0.0-zoom.extension | downloads: 1777
-v1.0.0-purchaseable.androids | downloads: 1707
-v1.1.1-capture.archons | downloads: 2550
+v1.0.0-purchaseable.androids | downloads: 1708
+v1.1.1-capture.archons | downloads: 2551
 v1.1.0-capture.archons | downloads: 124
 v1.0.4-capture.archons | downloads: 123
-v1.0.1-capturingpower | downloads: 2820
+v1.0.1-capturingpower | downloads: 2821
 v1.0.0-unlock.hai.reveal | downloads: 2127
 v1.0.4-obtainheron | downloads: 2449
 v1.0.0-navypirates | downloads: 915
 v1.0.3-obtainheron | downloads: 250
 v1.0.2-obtainheron | downloads: 25
-v1.0.1-purchase.bactrian | downloads: 2708
+v1.0.1-purchase.bactrian | downloads: 2709
 v1.0.0-quargoutfitter | downloads: 2784
 v1.0.2-aberrant.kahet.outfitter | downloads: 3758
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
 v1.0.3-capture.archons | downloads: 707
 v1.0.2-tributequarg | downloads: 2668
 v1.0.1-jumpdrive.extended | downloads: 2955
-v1.0.0-bunrodeaoutfitter | downloads: 3686
+v1.0.0-bunrodeaoutfitter | downloads: 3687
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 111
@@ -34,33 +34,33 @@ v1.0.0-capturingpower | downloads: 752
 v1.0.0-1requiredcrew | downloads: 3628
 v1.0.1-unlimited.dfc | downloads: 2466
 v1.0.0-unlimited.dfc | downloads: 218
-v1.0.0-purchaseable.cloakingdevice | downloads: 2806
+v1.0.0-purchaseable.cloakingdevice | downloads: 2807
 v1.0.0-jumpdrive.extended | downloads: 107
 v1.0.2-capture.archons | downloads: 92
 v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 40
-# TOTAL DOWNLOADS: 52911
+# TOTAL DOWNLOADS: 52917
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 1requiredcrew 3628
 aberrant.kahet.outfitter 3762
 avgi.outfitter 140
-bunrodeaoutfitter 3686
-capture.archons 3600
+bunrodeaoutfitter 3687
+capture.archons 3601
 capture.augen 2340
-capturingpower 3572
+capturingpower 3573
 disable.aberrant.blockade 1499
 easier.ground.assault 1495
 jumpdrive.extended 3062
 map.reveal 22
 navypirates 2401
 obtainheron 2724
-purchase.bactrian 2819
-purchaseable.androids 1707
-purchaseable.cloakingdevice 2806
+purchase.bactrian 2820
+purchaseable.androids 1708
+purchaseable.cloakingdevice 2807
 quargoutfitter 2784
 reduce.requiredcrew 1570
 tributequarg 2678
