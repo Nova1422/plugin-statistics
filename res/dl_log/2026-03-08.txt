@@ -34,14 +34,14 @@ v1.0.0-capturingpower | downloads: 752
 v1.0.0-1requiredcrew | downloads: 3655
 v1.0.1-unlimited.dfc | downloads: 2490
 v1.0.0-unlimited.dfc | downloads: 218
-v1.0.0-purchaseable.cloakingdevice | downloads: 2832
+v1.0.0-purchaseable.cloakingdevice | downloads: 2833
 v1.0.0-jumpdrive.extended | downloads: 107
 v1.0.2-capture.archons | downloads: 92
 v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 40
-# TOTAL DOWNLOADS: 53444
+# TOTAL DOWNLOADS: 53445
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -60,7 +60,7 @@ navypirates 2428
 obtainheron 2753
 purchase.bactrian 2845
 purchaseable.androids 1737
-purchaseable.cloakingdevice 2832
+purchaseable.cloakingdevice 2833
 quargoutfitter 2812
 reduce.requiredcrew 1596
 tributequarg 2705
