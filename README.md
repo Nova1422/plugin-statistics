@@ -186,8 +186,8 @@
 		<td>2784</td>
 		<td>2801</td>
 		<td>2821</td>
-		<td>2832</td>
-		<td>+ 11</td>
+		<td>2833</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>53444</td>
-		<td>199</td>
+		<td>53445</td>
+		<td>200</td>
 	</tr>
 </table>
 </sub></sup>
@@ -377,8 +377,8 @@
 		<td>2784</td>
 		<td>2801</td>
 		<td>2821</td>
-		<td>2832</td>
-		<td>+ 11</td>
+		<td>2833</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>53444</td>
-		<td>199</td>
+		<td>53445</td>
+		<td>200</td>
 	</tr>
 </table>
 </sub></sup>
