@@ -2,7 +2,7 @@
 v1.0.0-unshrouded | downloads: 28
 v1.0.0-map.reveal | downloads: 23
 v1.0.1-navypirates | downloads: 1545
-v1.0.0-easier.ground.assault | downloads: 1547
+v1.0.0-easier.ground.assault | downloads: 1548
 v1.0.0-disable.aberrant.blockade | downloads: 1551
 v1.0.0-avgi.outfitter | downloads: 142
 v1.0.1-reduce.requiredcrew | downloads: 1531
@@ -41,7 +41,7 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 40
-# TOTAL DOWNLOADS: 54063
+# TOTAL DOWNLOADS: 54064
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -53,7 +53,7 @@ capture.archons 3652
 capture.augen 2398
 capturingpower 3630
 disable.aberrant.blockade 1551
-easier.ground.assault 1547
+easier.ground.assault 1548
 jumpdrive.extended 3118
 map.reveal 23
 navypirates 2460
