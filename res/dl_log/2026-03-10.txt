@@ -15,7 +15,7 @@ v1.1.0-capture.archons | downloads: 124
 v1.0.4-capture.archons | downloads: 123
 v1.0.1-capturingpower | downloads: 2887
 v1.0.0-unlock.hai.reveal | downloads: 2199
-v1.0.4-obtainheron | downloads: 2517
+v1.0.4-obtainheron | downloads: 2518
 v1.0.0-navypirates | downloads: 915
 v1.0.3-obtainheron | downloads: 250
 v1.0.2-obtainheron | downloads: 25
@@ -41,7 +41,7 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 40
-# TOTAL DOWNLOADS: 54254
+# TOTAL DOWNLOADS: 54255
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -57,7 +57,7 @@ easier.ground.assault 1558
 jumpdrive.extended 3128
 map.reveal 23
 navypirates 2468
-obtainheron 2792
+obtainheron 2793
 purchase.bactrian 2890
 purchaseable.androids 1781
 purchaseable.cloakingdevice 2871
