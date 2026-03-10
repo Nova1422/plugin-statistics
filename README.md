@@ -109,8 +109,8 @@
 		<td>1509</td>
 		<td>1526</td>
 		<td>1543</td>
-		<td>1547</td>
-		<td>+ 4</td>
+		<td>1548</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>54063</td>
-		<td>114</td>
+		<td>54064</td>
+		<td>115</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>1509</td>
 		<td>1526</td>
 		<td>1543</td>
-		<td>1547</td>
-		<td>+ 4</td>
+		<td>1548</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>54063</td>
-		<td>114</td>
+		<td>54064</td>
+		<td>115</td>
 	</tr>
 </table>
 </sub></sup>
@@ -562,7 +562,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-02-28</td>
 		<td>2026-03-01</td>
 		<td>2026-03-02</td>
 		<td>2026-03-03</td>
@@ -571,10 +570,10 @@
 		<td>2026-03-06</td>
 		<td>2026-03-07</td>
 		<td>2026-03-08</td>
+		<td>2026-03-09</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>4</td>
 		<td>41</td>
 		<td>10</td>
 		<td>42</td>
@@ -583,10 +582,10 @@
 		<td>20</td>
 		<td>15</td>
 		<td>34</td>
+		<td>26</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>4</td>
 		<td>11</td>
 		<td>6</td>
 		<td>8</td>
@@ -595,6 +594,7 @@
 		<td>6</td>
 		<td>4</td>
 		<td>8</td>
+		<td>11</td>
 	</tr>
 </table>
 <br>
@@ -608,8 +608,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-15</td>
-		<td>4338</td>
-		<td>1239</td>
+		<td>4364</td>
+		<td>1250</td>
 		<td>192</td>
 		<td>21</td>
 	</tr>
@@ -622,8 +622,8 @@
 	</tr>
 	<tr>
 		<td>146</td>
-		<td>29.71</td>
-		<td>8.49</td>
+		<td>29.89</td>
+		<td>8.56</td>
 		<td></td>
 		<td></td>
 	</tr>
