@@ -21,8 +21,8 @@
 		<td>3643</td>
 		<td>3664</td>
 		<td>3682</td>
-		<td>3691</td>
-		<td>+ 9</td>
+		<td>3692</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>3701</td>
 		<td>3717</td>
 		<td>3733</td>
-		<td>3740</td>
-		<td>+ 7</td>
+		<td>3741</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -65,8 +65,8 @@
 		<td>3616</td>
 		<td>3631</td>
 		<td>3647</td>
-		<td>3653</td>
-		<td>+ 6</td>
+		<td>3654</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
@@ -76,8 +76,8 @@
 		<td>2358</td>
 		<td>2375</td>
 		<td>2392</td>
-		<td>2399</td>
-		<td>+ 7</td>
+		<td>2400</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -153,8 +153,8 @@
 		<td>2743</td>
 		<td>2759</td>
 		<td>2777</td>
-		<td>2783</td>
-		<td>+ 6</td>
+		<td>2784</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -219,8 +219,8 @@
 		<td>2695</td>
 		<td>2712</td>
 		<td>2729</td>
-		<td>2737</td>
-		<td>+ 8</td>
+		<td>2738</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -241,8 +241,8 @@
 		<td>2144</td>
 		<td>2165</td>
 		<td>2183</td>
-		<td>2191</td>
-		<td>+ 8</td>
+		<td>2192</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>unshrouded</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>54095</td>
-		<td>146</td>
+		<td>54102</td>
+		<td>153</td>
 	</tr>
 </table>
 </sub></sup>
@@ -311,8 +311,8 @@
 		<td>3701</td>
 		<td>3717</td>
 		<td>3733</td>
-		<td>3740</td>
-		<td>+ 7</td>
+		<td>3741</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -322,8 +322,8 @@
 		<td>3643</td>
 		<td>3664</td>
 		<td>3682</td>
-		<td>3691</td>
-		<td>+ 9</td>
+		<td>3692</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -333,8 +333,8 @@
 		<td>3616</td>
 		<td>3631</td>
 		<td>3647</td>
-		<td>3653</td>
-		<td>+ 6</td>
+		<td>3654</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -399,8 +399,8 @@
 		<td>2743</td>
 		<td>2759</td>
 		<td>2777</td>
-		<td>2783</td>
-		<td>+ 6</td>
+		<td>2784</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -421,8 +421,8 @@
 		<td>2695</td>
 		<td>2712</td>
 		<td>2729</td>
-		<td>2737</td>
-		<td>+ 8</td>
+		<td>2738</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>navypirates</td>
@@ -443,8 +443,8 @@
 		<td>2358</td>
 		<td>2375</td>
 		<td>2392</td>
-		<td>2399</td>
-		<td>+ 7</td>
+		<td>2400</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>unlock.hai.reveal</td>
@@ -454,8 +454,8 @@
 		<td>2144</td>
 		<td>2165</td>
 		<td>2183</td>
-		<td>2191</td>
-		<td>+ 8</td>
+		<td>2192</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>zoom.extension</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>54095</td>
-		<td>146</td>
+		<td>54102</td>
+		<td>153</td>
 	</tr>
 </table>
 </sub></sup>
