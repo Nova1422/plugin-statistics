@@ -32,8 +32,8 @@
 		<td>3802</td>
 		<td>3819</td>
 		<td>3836</td>
-		<td>3852</td>
-		<td>+ 16</td>
+		<td>3853</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>3717</td>
 		<td>3733</td>
 		<td>3750</td>
-		<td>3764</td>
-		<td>+ 14</td>
+		<td>3765</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -76,8 +76,8 @@
 		<td>2375</td>
 		<td>2392</td>
 		<td>2408</td>
-		<td>2419</td>
-		<td>+ 11</td>
+		<td>2420</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -87,8 +87,8 @@
 		<td>3607</td>
 		<td>3624</td>
 		<td>3640</td>
-		<td>3653</td>
-		<td>+ 13</td>
+		<td>3654</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -98,8 +98,8 @@
 		<td>1531</td>
 		<td>1546</td>
 		<td>1562</td>
-		<td>1576</td>
-		<td>+ 14</td>
+		<td>1577</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>easier.ground.assault</td>
@@ -120,8 +120,8 @@
 		<td>3097</td>
 		<td>3113</td>
 		<td>3129</td>
-		<td>3142</td>
-		<td>+ 13</td>
+		<td>3143</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>map.reveal</td>
@@ -142,8 +142,8 @@
 		<td>2437</td>
 		<td>2455</td>
 		<td>2468</td>
-		<td>2481</td>
-		<td>+ 13</td>
+		<td>2482</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -186,8 +186,8 @@
 		<td>2843</td>
 		<td>2858</td>
 		<td>2872</td>
-		<td>2885</td>
-		<td>+ 13</td>
+		<td>2886</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -197,8 +197,8 @@
 		<td>2819</td>
 		<td>2835</td>
 		<td>2851</td>
-		<td>2864</td>
-		<td>+ 13</td>
+		<td>2865</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -208,8 +208,8 @@
 		<td>1602</td>
 		<td>1619</td>
 		<td>1633</td>
-		<td>1646</td>
-		<td>+ 13</td>
+		<td>1647</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -241,8 +241,8 @@
 		<td>2165</td>
 		<td>2183</td>
 		<td>2199</td>
-		<td>2213</td>
-		<td>+ 14</td>
+		<td>2214</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>unshrouded</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>54537</td>
-		<td>270</td>
+		<td>54548</td>
+		<td>281</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>3802</td>
 		<td>3819</td>
 		<td>3836</td>
-		<td>3852</td>
-		<td>+ 16</td>
+		<td>3853</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -311,8 +311,8 @@
 		<td>3717</td>
 		<td>3733</td>
 		<td>3750</td>
-		<td>3764</td>
-		<td>+ 14</td>
+		<td>3765</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
@@ -344,8 +344,8 @@
 		<td>3607</td>
 		<td>3624</td>
 		<td>3640</td>
-		<td>3653</td>
-		<td>+ 13</td>
+		<td>3654</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -355,8 +355,8 @@
 		<td>3097</td>
 		<td>3113</td>
 		<td>3129</td>
-		<td>3142</td>
-		<td>+ 13</td>
+		<td>3143</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -377,8 +377,8 @@
 		<td>2843</td>
 		<td>2858</td>
 		<td>2872</td>
-		<td>2885</td>
-		<td>+ 13</td>
+		<td>2886</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -388,8 +388,8 @@
 		<td>2819</td>
 		<td>2835</td>
 		<td>2851</td>
-		<td>2864</td>
-		<td>+ 13</td>
+		<td>2865</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -432,8 +432,8 @@
 		<td>2437</td>
 		<td>2455</td>
 		<td>2468</td>
-		<td>2481</td>
-		<td>+ 13</td>
+		<td>2482</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
@@ -443,8 +443,8 @@
 		<td>2375</td>
 		<td>2392</td>
 		<td>2408</td>
-		<td>2419</td>
-		<td>+ 11</td>
+		<td>2420</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>unlock.hai.reveal</td>
@@ -454,8 +454,8 @@
 		<td>2165</td>
 		<td>2183</td>
 		<td>2199</td>
-		<td>2213</td>
-		<td>+ 14</td>
+		<td>2214</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>zoom.extension</td>
@@ -487,8 +487,8 @@
 		<td>1602</td>
 		<td>1619</td>
 		<td>1633</td>
-		<td>1646</td>
-		<td>+ 13</td>
+		<td>1647</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -498,8 +498,8 @@
 		<td>1531</td>
 		<td>1546</td>
 		<td>1562</td>
-		<td>1576</td>
-		<td>+ 14</td>
+		<td>1577</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>easier.ground.assault</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>54537</td>
-		<td>270</td>
+		<td>54548</td>
+		<td>281</td>
 	</tr>
 </table>
 </sub></sup>
