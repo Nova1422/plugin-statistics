@@ -142,8 +142,8 @@
 		<td>2509</td>
 		<td>2528</td>
 		<td>2542</td>
-		<td>2553</td>
-		<td>+ 11</td>
+		<td>2554</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -208,8 +208,8 @@
 		<td>1674</td>
 		<td>1694</td>
 		<td>1707</td>
-		<td>1718</td>
-		<td>+ 11</td>
+		<td>1719</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>55962</td>
-		<td>223</td>
+		<td>55964</td>
+		<td>225</td>
 	</tr>
 </table>
 </sub></sup>
@@ -432,8 +432,8 @@
 		<td>2509</td>
 		<td>2528</td>
 		<td>2542</td>
-		<td>2553</td>
-		<td>+ 11</td>
+		<td>2554</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
@@ -487,8 +487,8 @@
 		<td>1674</td>
 		<td>1694</td>
 		<td>1707</td>
-		<td>1718</td>
-		<td>+ 11</td>
+		<td>1719</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>55962</td>
-		<td>223</td>
+		<td>55964</td>
+		<td>225</td>
 	</tr>
 </table>
 </sub></sup>
