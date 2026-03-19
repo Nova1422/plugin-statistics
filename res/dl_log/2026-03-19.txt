@@ -20,7 +20,7 @@ v1.0.0-navypirates | downloads: 915
 v1.0.3-obtainheron | downloads: 250
 v1.0.2-obtainheron | downloads: 25
 v1.0.1-purchase.bactrian | downloads: 2919
-v1.0.0-quargoutfitter | downloads: 2990
+v1.0.0-quargoutfitter | downloads: 2991
 v1.0.2-aberrant.kahet.outfitter | downloads: 3979
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
 v1.0.3-capture.archons | downloads: 707
@@ -41,7 +41,7 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 40
-# TOTAL DOWNLOADS: 57042
+# TOTAL DOWNLOADS: 57043
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -61,7 +61,7 @@ obtainheron 2926
 purchase.bactrian 3030
 purchaseable.androids 1922
 purchaseable.cloakingdevice 3010
-quargoutfitter 2990
+quargoutfitter 2991
 reduce.requiredcrew 1774
 tributequarg 2878
 unlimited.dfc 2886
