@@ -197,8 +197,8 @@
 		<td>2950</td>
 		<td>2967</td>
 		<td>2982</td>
-		<td>2990</td>
-		<td>+ 8</td>
+		<td>2991</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>57042</td>
-		<td>160</td>
+		<td>57043</td>
+		<td>161</td>
 	</tr>
 </table>
 </sub></sup>
@@ -388,8 +388,8 @@
 		<td>2950</td>
 		<td>2967</td>
 		<td>2982</td>
-		<td>2990</td>
-		<td>+ 8</td>
+		<td>2991</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>57042</td>
-		<td>160</td>
+		<td>57043</td>
+		<td>161</td>
 	</tr>
 </table>
 </sub></sup>
