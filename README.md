@@ -32,8 +32,8 @@
 		<td>3989</td>
 		<td>4008</td>
 		<td>4028</td>
-		<td>4038</td>
-		<td>+ 10</td>
+		<td>4039</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -164,8 +164,8 @@
 		<td>3036</td>
 		<td>3053</td>
 		<td>3073</td>
-		<td>3076</td>
-		<td>+ 3</td>
+		<td>3077</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -175,8 +175,8 @@
 		<td>1928</td>
 		<td>1946</td>
 		<td>1967</td>
-		<td>1972</td>
-		<td>+ 5</td>
+		<td>1973</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>58033</td>
-		<td>110</td>
+		<td>58036</td>
+		<td>113</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>3989</td>
 		<td>4008</td>
 		<td>4028</td>
-		<td>4038</td>
-		<td>+ 10</td>
+		<td>4039</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -366,8 +366,8 @@
 		<td>3036</td>
 		<td>3053</td>
 		<td>3073</td>
-		<td>3076</td>
-		<td>+ 3</td>
+		<td>3077</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -476,8 +476,8 @@
 		<td>1928</td>
 		<td>1946</td>
 		<td>1967</td>
-		<td>1972</td>
-		<td>+ 5</td>
+		<td>1973</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>58033</td>
-		<td>110</td>
+		<td>58036</td>
+		<td>113</td>
 	</tr>
 </table>
 </sub></sup>
