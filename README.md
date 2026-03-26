@@ -153,8 +153,8 @@
 		<td>3006</td>
 		<td>3025</td>
 		<td>3047</td>
-		<td>3055</td>
-		<td>+ 8</td>
+		<td>3056</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>59665</td>
-		<td>174</td>
+		<td>59666</td>
+		<td>175</td>
 	</tr>
 </table>
 </sub></sup>
@@ -399,8 +399,8 @@
 		<td>3006</td>
 		<td>3025</td>
 		<td>3047</td>
-		<td>3055</td>
-		<td>+ 8</td>
+		<td>3056</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>59665</td>
-		<td>174</td>
+		<td>59666</td>
+		<td>175</td>
 	</tr>
 </table>
 </sub></sup>
