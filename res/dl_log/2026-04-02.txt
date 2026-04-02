@@ -20,7 +20,7 @@ v1.0.0-navypirates | downloads: 915
 v1.0.3-obtainheron | downloads: 250
 v1.0.2-obtainheron | downloads: 25
 v1.0.1-purchase.bactrian | downloads: 3200
-v1.0.0-quargoutfitter | downloads: 3279
+v1.0.0-quargoutfitter | downloads: 3280
 v1.0.2-aberrant.kahet.outfitter | downloads: 4279
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
 v1.0.3-capture.archons | downloads: 707
@@ -31,7 +31,7 @@ v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 111
 v1.0.0-capturingpower | downloads: 752
-v1.0.0-1requiredcrew | downloads: 4201
+v1.0.0-1requiredcrew | downloads: 4202
 v1.0.1-unlimited.dfc | downloads: 2940
 v1.0.0-unlimited.dfc | downloads: 228
 v1.0.0-purchaseable.cloakingdevice | downloads: 3293
@@ -41,11 +41,11 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 40
-# TOTAL DOWNLOADS: 62874
+# TOTAL DOWNLOADS: 62876
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 4201
+1requiredcrew 4202
 aberrant.kahet.outfitter 4283
 avgi.outfitter 158
 bunrodeaoutfitter 4184
@@ -61,7 +61,7 @@ obtainheron 3214
 purchase.bactrian 3311
 purchaseable.androids 2207
 purchaseable.cloakingdevice 3293
-quargoutfitter 3279
+quargoutfitter 3280
 reduce.requiredcrew 2053
 tributequarg 3157
 unlimited.dfc 3168
