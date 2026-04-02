@@ -21,8 +21,8 @@
 		<td>4134</td>
 		<td>4163</td>
 		<td>4189</td>
-		<td>4201</td>
-		<td>+ 12</td>
+		<td>4202</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -197,8 +197,8 @@
 		<td>3232</td>
 		<td>3249</td>
 		<td>3269</td>
-		<td>3279</td>
-		<td>+ 10</td>
+		<td>3280</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>62874</td>
-		<td>197</td>
+		<td>62876</td>
+		<td>199</td>
 	</tr>
 </table>
 </sub></sup>
@@ -311,8 +311,8 @@
 		<td>4134</td>
 		<td>4163</td>
 		<td>4189</td>
-		<td>4201</td>
-		<td>+ 12</td>
+		<td>4202</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -388,8 +388,8 @@
 		<td>3232</td>
 		<td>3249</td>
 		<td>3269</td>
-		<td>3279</td>
-		<td>+ 10</td>
+		<td>3280</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>62874</td>
-		<td>197</td>
+		<td>62876</td>
+		<td>199</td>
 	</tr>
 </table>
 </sub></sup>
