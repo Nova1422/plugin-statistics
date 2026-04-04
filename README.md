@@ -21,8 +21,8 @@
 		<td>4189</td>
 		<td>4217</td>
 		<td>4250</td>
-		<td>4264</td>
-		<td>+ 14</td>
+		<td>4266</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>63851</td>
-		<td>227</td>
+		<td>63853</td>
+		<td>229</td>
 	</tr>
 </table>
 </sub></sup>
@@ -311,8 +311,8 @@
 		<td>4189</td>
 		<td>4217</td>
 		<td>4250</td>
-		<td>4264</td>
-		<td>+ 14</td>
+		<td>4266</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>63851</td>
-		<td>227</td>
+		<td>63853</td>
+		<td>229</td>
 	</tr>
 </table>
 </sub></sup>
@@ -562,7 +562,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-03-25</td>
 		<td>2026-03-26</td>
 		<td>2026-03-27</td>
 		<td>2026-03-28</td>
@@ -571,10 +570,10 @@
 		<td>2026-03-31</td>
 		<td>2026-04-01</td>
 		<td>2026-04-02</td>
+		<td>2026-04-03</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>11</td>
 		<td>21</td>
 		<td>9</td>
 		<td>49</td>
@@ -583,10 +582,10 @@
 		<td>24</td>
 		<td>10</td>
 		<td>65</td>
+		<td>19</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>7</td>
 		<td>6</td>
 		<td>5</td>
 		<td>7</td>
@@ -595,6 +594,7 @@
 		<td>7</td>
 		<td>3</td>
 		<td>12</td>
+		<td>8</td>
 	</tr>
 </table>
 <br>
@@ -608,8 +608,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-15</td>
-		<td>4797</td>
-		<td>1412</td>
+		<td>4816</td>
+		<td>1420</td>
 		<td>192</td>
 		<td>21</td>
 	</tr>
@@ -622,8 +622,8 @@
 	</tr>
 	<tr>
 		<td>171</td>
-		<td>28.05</td>
-		<td>8.26</td>
+		<td>28.16</td>
+		<td>8.30</td>
 		<td></td>
 		<td></td>
 	</tr>
