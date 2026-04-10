@@ -21,8 +21,8 @@
 		<td>4383</td>
 		<td>4410</td>
 		<td>4436</td>
-		<td>4454</td>
-		<td>+ 18</td>
+		<td>4455</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>66776</td>
-		<td>298</td>
+		<td>66777</td>
+		<td>299</td>
 	</tr>
 </table>
 </sub></sup>
@@ -311,8 +311,8 @@
 		<td>4383</td>
 		<td>4410</td>
 		<td>4436</td>
-		<td>4454</td>
-		<td>+ 18</td>
+		<td>4455</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>66776</td>
-		<td>298</td>
+		<td>66777</td>
+		<td>299</td>
 	</tr>
 </table>
 </sub></sup>
