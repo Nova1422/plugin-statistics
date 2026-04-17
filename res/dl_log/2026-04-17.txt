@@ -35,13 +35,13 @@ v1.0.0-1requiredcrew | downloads: 4648
 v1.0.1-unlimited.dfc | downloads: 3264
 v1.0.0-unlimited.dfc | downloads: 235
 v1.0.0-purchaseable.cloakingdevice | downloads: 3631
-v1.0.0-jumpdrive.extended | downloads: 107
+v1.0.0-jumpdrive.extended | downloads: 108
 v1.0.2-capture.archons | downloads: 92
 v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 40
-# TOTAL DOWNLOADS: 69785
+# TOTAL DOWNLOADS: 69786
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -54,7 +54,7 @@ capture.augen 3182
 capturingpower 4411
 disable.aberrant.blockade 2318
 easier.ground.assault 2310
-jumpdrive.extended 3911
+jumpdrive.extended 3912
 map.reveal 31
 navypirates 3236
 obtainheron 3557
