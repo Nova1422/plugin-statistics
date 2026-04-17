@@ -120,8 +120,8 @@
 		<td>3859</td>
 		<td>3877</td>
 		<td>3898</td>
-		<td>3911</td>
-		<td>+ 13</td>
+		<td>3912</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>map.reveal</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>69785</td>
-		<td>269</td>
+		<td>69786</td>
+		<td>270</td>
 	</tr>
 </table>
 </sub></sup>
@@ -355,8 +355,8 @@
 		<td>3859</td>
 		<td>3877</td>
 		<td>3898</td>
-		<td>3911</td>
-		<td>+ 13</td>
+		<td>3912</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>69785</td>
-		<td>269</td>
+		<td>69786</td>
+		<td>270</td>
 	</tr>
 </table>
 </sub></sup>
