@@ -21,8 +21,8 @@
 		<td>4688</td>
 		<td>4718</td>
 		<td>4741</td>
-		<td>4749</td>
-		<td>+ 8</td>
+		<td>4750</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>4660</td>
 		<td>4683</td>
 		<td>4703</td>
-		<td>4710</td>
-		<td>+ 7</td>
+		<td>4711</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>4556</td>
 		<td>4579</td>
 		<td>4599</td>
-		<td>4606</td>
-		<td>+ 7</td>
+		<td>4607</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -65,8 +65,8 @@
 		<td>4453</td>
 		<td>4476</td>
 		<td>4496</td>
-		<td>4504</td>
-		<td>+ 8</td>
+		<td>4505</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
@@ -76,8 +76,8 @@
 		<td>3212</td>
 		<td>3234</td>
 		<td>3257</td>
-		<td>3266</td>
-		<td>+ 9</td>
+		<td>3267</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -87,8 +87,8 @@
 		<td>4442</td>
 		<td>4464</td>
 		<td>4485</td>
-		<td>4492</td>
-		<td>+ 7</td>
+		<td>4493</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -98,8 +98,8 @@
 		<td>2348</td>
 		<td>2370</td>
 		<td>2390</td>
-		<td>2396</td>
-		<td>+ 6</td>
+		<td>2397</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>easier.ground.assault</td>
@@ -109,8 +109,8 @@
 		<td>2340</td>
 		<td>2362</td>
 		<td>2380</td>
-		<td>2387</td>
-		<td>+ 7</td>
+		<td>2388</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>71343</td>
-		<td>111</td>
+		<td>71351</td>
+		<td>119</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>4688</td>
 		<td>4718</td>
 		<td>4741</td>
-		<td>4749</td>
-		<td>+ 8</td>
+		<td>4750</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -311,8 +311,8 @@
 		<td>4660</td>
 		<td>4683</td>
 		<td>4703</td>
-		<td>4710</td>
-		<td>+ 7</td>
+		<td>4711</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -322,8 +322,8 @@
 		<td>4556</td>
 		<td>4579</td>
 		<td>4599</td>
-		<td>4606</td>
-		<td>+ 7</td>
+		<td>4607</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -333,8 +333,8 @@
 		<td>4453</td>
 		<td>4476</td>
 		<td>4496</td>
-		<td>4504</td>
-		<td>+ 8</td>
+		<td>4505</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -344,8 +344,8 @@
 		<td>4442</td>
 		<td>4464</td>
 		<td>4485</td>
-		<td>4492</td>
-		<td>+ 7</td>
+		<td>4493</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -443,8 +443,8 @@
 		<td>3212</td>
 		<td>3234</td>
 		<td>3257</td>
-		<td>3266</td>
-		<td>+ 9</td>
+		<td>3267</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>unlock.hai.reveal</td>
@@ -498,8 +498,8 @@
 		<td>2348</td>
 		<td>2370</td>
 		<td>2390</td>
-		<td>2396</td>
-		<td>+ 6</td>
+		<td>2397</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>easier.ground.assault</td>
@@ -509,8 +509,8 @@
 		<td>2340</td>
 		<td>2362</td>
 		<td>2380</td>
-		<td>2387</td>
-		<td>+ 7</td>
+		<td>2388</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>71343</td>
-		<td>111</td>
+		<td>71351</td>
+		<td>119</td>
 	</tr>
 </table>
 </sub></sup>
@@ -562,7 +562,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-04-11</td>
 		<td>2026-04-12</td>
 		<td>2026-04-13</td>
 		<td>2026-04-14</td>
@@ -571,10 +570,10 @@
 		<td>2026-04-17</td>
 		<td>2026-04-18</td>
 		<td>2026-04-19</td>
+		<td>2026-04-20</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>10</td>
 		<td>4</td>
 		<td>5</td>
 		<td>14</td>
@@ -583,10 +582,10 @@
 		<td>6</td>
 		<td>22</td>
 		<td>16</td>
+		<td>8</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>7</td>
 		<td>4</td>
 		<td>3</td>
 		<td>3</td>
@@ -595,6 +594,7 @@
 		<td>4</td>
 		<td>4</td>
 		<td>6</td>
+		<td>4</td>
 	</tr>
 </table>
 <br>
@@ -608,8 +608,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-15</td>
-		<td>5028</td>
-		<td>1504</td>
+		<td>5036</td>
+		<td>1508</td>
 		<td>192</td>
 		<td>21</td>
 	</tr>
@@ -622,8 +622,8 @@
 	</tr>
 	<tr>
 		<td>188</td>
-		<td>26.74</td>
-		<td>8.00</td>
+		<td>26.79</td>
+		<td>8.02</td>
 		<td></td>
 		<td></td>
 	</tr>
