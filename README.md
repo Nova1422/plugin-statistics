@@ -21,8 +21,8 @@
 		<td>5027</td>
 		<td>5056</td>
 		<td>5087</td>
-		<td>5121</td>
-		<td>+ 34</td>
+		<td>5123</td>
+		<td>+ 36</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>4774</td>
 		<td>4792</td>
 		<td>4810</td>
-		<td>4831</td>
-		<td>+ 21</td>
+		<td>4832</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -142,8 +142,8 @@
 		<td>3388</td>
 		<td>3397</td>
 		<td>3406</td>
-		<td>3417</td>
-		<td>+ 11</td>
+		<td>3418</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -175,8 +175,8 @@
 		<td>2698</td>
 		<td>2706</td>
 		<td>2717</td>
-		<td>2725</td>
-		<td>+ 8</td>
+		<td>2726</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -186,8 +186,8 @@
 		<td>3776</td>
 		<td>3783</td>
 		<td>3792</td>
-		<td>3800</td>
-		<td>+ 8</td>
+		<td>3801</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>74498</td>
-		<td>289</td>
+		<td>74504</td>
+		<td>295</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>5027</td>
 		<td>5056</td>
 		<td>5087</td>
-		<td>5121</td>
-		<td>+ 34</td>
+		<td>5123</td>
+		<td>+ 36</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -322,8 +322,8 @@
 		<td>4774</td>
 		<td>4792</td>
 		<td>4810</td>
-		<td>4831</td>
-		<td>+ 21</td>
+		<td>4832</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -388,8 +388,8 @@
 		<td>3776</td>
 		<td>3783</td>
 		<td>3792</td>
-		<td>3800</td>
-		<td>+ 8</td>
+		<td>3801</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -443,8 +443,8 @@
 		<td>3388</td>
 		<td>3397</td>
 		<td>3406</td>
-		<td>3417</td>
-		<td>+ 11</td>
+		<td>3418</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>unlock.hai.reveal</td>
@@ -476,8 +476,8 @@
 		<td>2698</td>
 		<td>2706</td>
 		<td>2717</td>
-		<td>2725</td>
-		<td>+ 8</td>
+		<td>2726</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>74498</td>
-		<td>289</td>
+		<td>74504</td>
+		<td>295</td>
 	</tr>
 </table>
 </sub></sup>
