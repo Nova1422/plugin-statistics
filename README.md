@@ -21,8 +21,8 @@
 		<td>5056</td>
 		<td>5087</td>
 		<td>5125</td>
-		<td>5160</td>
-		<td>+ 35</td>
+		<td>5162</td>
+		<td>+ 37</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -153,8 +153,8 @@
 		<td>3723</td>
 		<td>3736</td>
 		<td>3748</td>
-		<td>3758</td>
-		<td>+ 10</td>
+		<td>3759</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>74797</td>
-		<td>284</td>
+		<td>74800</td>
+		<td>287</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>5056</td>
 		<td>5087</td>
 		<td>5125</td>
-		<td>5160</td>
-		<td>+ 35</td>
+		<td>5162</td>
+		<td>+ 37</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -399,8 +399,8 @@
 		<td>3723</td>
 		<td>3736</td>
 		<td>3748</td>
-		<td>3758</td>
-		<td>+ 10</td>
+		<td>3759</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>74797</td>
-		<td>284</td>
+		<td>74800</td>
+		<td>287</td>
 	</tr>
 </table>
 </sub></sup>
