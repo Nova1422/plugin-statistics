@@ -21,8 +21,8 @@
 		<td>5056</td>
 		<td>5087</td>
 		<td>5125</td>
-		<td>5135</td>
-		<td>+ 10</td>
+		<td>5137</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -175,8 +175,8 @@
 		<td>2706</td>
 		<td>2717</td>
 		<td>2726</td>
-		<td>2730</td>
-		<td>+ 4</td>
+		<td>2731</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>74619</td>
-		<td>106</td>
+		<td>74622</td>
+		<td>109</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>5056</td>
 		<td>5087</td>
 		<td>5125</td>
-		<td>5135</td>
-		<td>+ 10</td>
+		<td>5137</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -476,8 +476,8 @@
 		<td>2706</td>
 		<td>2717</td>
 		<td>2726</td>
-		<td>2730</td>
-		<td>+ 4</td>
+		<td>2731</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>74619</td>
-		<td>106</td>
+		<td>74622</td>
+		<td>109</td>
 	</tr>
 </table>
 </sub></sup>
@@ -562,7 +562,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-04-22</td>
 		<td>2026-04-23</td>
 		<td>2026-04-24</td>
 		<td>2026-04-25</td>
@@ -571,10 +570,10 @@
 		<td>2026-04-28</td>
 		<td>2026-04-29</td>
 		<td>2026-04-30</td>
+		<td>2026-05-01</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>15</td>
 		<td>8</td>
 		<td>32</td>
 		<td>12</td>
@@ -583,10 +582,10 @@
 		<td>17</td>
 		<td>16</td>
 		<td>15</td>
+		<td>25</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>7</td>
 		<td>6</td>
 		<td>12</td>
 		<td>5</td>
@@ -595,6 +594,7 @@
 		<td>8</td>
 		<td>7</td>
 		<td>9</td>
+		<td>8</td>
 	</tr>
 </table>
 <br>
@@ -608,8 +608,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-15</td>
-		<td>5214</td>
-		<td>1579</td>
+		<td>5239</td>
+		<td>1587</td>
 		<td>192</td>
 		<td>21</td>
 	</tr>
@@ -622,8 +622,8 @@
 	</tr>
 	<tr>
 		<td>199</td>
-		<td>26.20</td>
-		<td>7.93</td>
+		<td>26.33</td>
+		<td>7.97</td>
 		<td></td>
 		<td></td>
 	</tr>
