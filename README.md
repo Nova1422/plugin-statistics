@@ -21,8 +21,8 @@
 		<td>5267</td>
 		<td>5296</td>
 		<td>5328</td>
-		<td>5348</td>
-		<td>+ 20</td>
+		<td>5350</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>5023</td>
 		<td>5040</td>
 		<td>5059</td>
-		<td>5073</td>
-		<td>+ 14</td>
+		<td>5074</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>4915</td>
 		<td>4932</td>
 		<td>4951</td>
-		<td>4963</td>
-		<td>+ 12</td>
+		<td>4964</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -65,8 +65,8 @@
 		<td>4799</td>
 		<td>4816</td>
 		<td>4837</td>
-		<td>4850</td>
-		<td>+ 13</td>
+		<td>4851</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
@@ -76,8 +76,8 @@
 		<td>3562</td>
 		<td>3580</td>
 		<td>3601</td>
-		<td>3614</td>
-		<td>+ 13</td>
+		<td>3615</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -87,8 +87,8 @@
 		<td>4790</td>
 		<td>4809</td>
 		<td>4827</td>
-		<td>4841</td>
-		<td>+ 14</td>
+		<td>4842</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -98,8 +98,8 @@
 		<td>2684</td>
 		<td>2702</td>
 		<td>2722</td>
-		<td>2736</td>
-		<td>+ 14</td>
+		<td>2737</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>easier.ground.assault</td>
@@ -109,8 +109,8 @@
 		<td>2681</td>
 		<td>2699</td>
 		<td>2720</td>
-		<td>2733</td>
-		<td>+ 13</td>
+		<td>2734</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>76401</td>
-		<td>192</td>
+		<td>76410</td>
+		<td>201</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>5267</td>
 		<td>5296</td>
 		<td>5328</td>
-		<td>5348</td>
-		<td>+ 20</td>
+		<td>5350</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -311,8 +311,8 @@
 		<td>5023</td>
 		<td>5040</td>
 		<td>5059</td>
-		<td>5073</td>
-		<td>+ 14</td>
+		<td>5074</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -322,8 +322,8 @@
 		<td>4915</td>
 		<td>4932</td>
 		<td>4951</td>
-		<td>4963</td>
-		<td>+ 12</td>
+		<td>4964</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -333,8 +333,8 @@
 		<td>4799</td>
 		<td>4816</td>
 		<td>4837</td>
-		<td>4850</td>
-		<td>+ 13</td>
+		<td>4851</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -344,8 +344,8 @@
 		<td>4790</td>
 		<td>4809</td>
 		<td>4827</td>
-		<td>4841</td>
-		<td>+ 14</td>
+		<td>4842</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -432,8 +432,8 @@
 		<td>3562</td>
 		<td>3580</td>
 		<td>3601</td>
-		<td>3614</td>
-		<td>+ 13</td>
+		<td>3615</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>navypirates</td>
@@ -487,8 +487,8 @@
 		<td>2684</td>
 		<td>2702</td>
 		<td>2722</td>
-		<td>2736</td>
-		<td>+ 14</td>
+		<td>2737</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>easier.ground.assault</td>
@@ -498,8 +498,8 @@
 		<td>2681</td>
 		<td>2699</td>
 		<td>2720</td>
-		<td>2733</td>
-		<td>+ 13</td>
+		<td>2734</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>76401</td>
-		<td>192</td>
+		<td>76410</td>
+		<td>201</td>
 	</tr>
 </table>
 </sub></sup>
