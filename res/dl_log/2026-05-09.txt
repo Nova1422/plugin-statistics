@@ -2,18 +2,18 @@
 v1.0.0-unshrouded | downloads: 80
 v1.0.0-map.reveal | downloads: 39
 v1.0.1-navypirates | downloads: 2571
-v1.0.0-easier.ground.assault | downloads: 2759
-v1.0.0-disable.aberrant.blockade | downloads: 2762
-v1.0.0-avgi.outfitter | downloads: 188
+v1.0.0-easier.ground.assault | downloads: 2760
+v1.0.0-disable.aberrant.blockade | downloads: 2763
+v1.0.0-avgi.outfitter | downloads: 189
 v1.0.1-reduce.requiredcrew | downloads: 2535
 v1.0.0-reduce.requiredcrew | downloads: 94
-v1.0.0-capture.augen | downloads: 3640
+v1.0.0-capture.augen | downloads: 3641
 v1.0.0-zoom.extension | downloads: 2872
 v1.0.0-purchaseable.androids | downloads: 2801
-v1.1.1-capture.archons | downloads: 3824
+v1.1.1-capture.archons | downloads: 3825
 v1.1.0-capture.archons | downloads: 124
 v1.0.4-capture.archons | downloads: 125
-v1.0.1-capturingpower | downloads: 4114
+v1.0.1-capturingpower | downloads: 4115
 v1.0.0-unlock.hai.reveal | downloads: 3167
 v1.0.4-obtainheron | downloads: 3548
 v1.0.0-navypirates | downloads: 915
@@ -21,17 +21,17 @@ v1.0.3-obtainheron | downloads: 250
 v1.0.2-obtainheron | downloads: 25
 v1.0.1-purchase.bactrian | downloads: 3784
 v1.0.0-quargoutfitter | downloads: 3887
-v1.0.2-aberrant.kahet.outfitter | downloads: 5096
+v1.0.2-aberrant.kahet.outfitter | downloads: 5098
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
 v1.0.3-capture.archons | downloads: 707
 v1.0.2-tributequarg | downloads: 3709
 v1.0.1-jumpdrive.extended | downloads: 4072
-v1.0.0-bunrodeaoutfitter | downloads: 4990
+v1.0.0-bunrodeaoutfitter | downloads: 4992
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 111
 v1.0.0-capturingpower | downloads: 753
-v1.0.0-1requiredcrew | downloads: 5396
+v1.0.0-1requiredcrew | downloads: 5398
 v1.0.1-unlimited.dfc | downloads: 3488
 v1.0.0-unlimited.dfc | downloads: 242
 v1.0.0-purchaseable.cloakingdevice | downloads: 3877
@@ -41,19 +41,19 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 40
-# TOTAL DOWNLOADS: 76763
+# TOTAL DOWNLOADS: 76775
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 5396
-aberrant.kahet.outfitter 5100
-avgi.outfitter 188
-bunrodeaoutfitter 4990
-capture.archons 4876
-capture.augen 3640
-capturingpower 4867
-disable.aberrant.blockade 2762
-easier.ground.assault 2759
+1requiredcrew 5398
+aberrant.kahet.outfitter 5102
+avgi.outfitter 189
+bunrodeaoutfitter 4992
+capture.archons 4877
+capture.augen 3641
+capturingpower 4868
+disable.aberrant.blockade 2763
+easier.ground.assault 2760
 jumpdrive.extended 4180
 map.reveal 39
 navypirates 3486
