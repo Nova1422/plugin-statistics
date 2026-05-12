@@ -1,70 +1,70 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.0-unshrouded | downloads: 80
+v1.0.0-unshrouded | downloads: 81
 v1.0.0-map.reveal | downloads: 40
-v1.0.1-navypirates | downloads: 2600
-v1.0.0-easier.ground.assault | downloads: 2807
-v1.0.0-disable.aberrant.blockade | downloads: 2811
+v1.0.1-navypirates | downloads: 2602
+v1.0.0-easier.ground.assault | downloads: 2809
+v1.0.0-disable.aberrant.blockade | downloads: 2813
 v1.0.0-avgi.outfitter | downloads: 190
-v1.0.1-reduce.requiredcrew | downloads: 2564
+v1.0.1-reduce.requiredcrew | downloads: 2566
 v1.0.0-reduce.requiredcrew | downloads: 94
-v1.0.0-capture.augen | downloads: 3688
-v1.0.0-zoom.extension | downloads: 2904
-v1.0.0-purchaseable.androids | downloads: 2831
-v1.1.1-capture.archons | downloads: 3872
+v1.0.0-capture.augen | downloads: 3690
+v1.0.0-zoom.extension | downloads: 2906
+v1.0.0-purchaseable.androids | downloads: 2833
+v1.1.1-capture.archons | downloads: 3874
 v1.1.0-capture.archons | downloads: 124
 v1.0.4-capture.archons | downloads: 125
-v1.0.1-capturingpower | downloads: 4162
-v1.0.0-unlock.hai.reveal | downloads: 3195
-v1.0.4-obtainheron | downloads: 3582
+v1.0.1-capturingpower | downloads: 4164
+v1.0.0-unlock.hai.reveal | downloads: 3197
+v1.0.4-obtainheron | downloads: 3584
 v1.0.0-navypirates | downloads: 915
 v1.0.3-obtainheron | downloads: 250
 v1.0.2-obtainheron | downloads: 25
-v1.0.1-purchase.bactrian | downloads: 3813
-v1.0.0-quargoutfitter | downloads: 3920
-v1.0.2-aberrant.kahet.outfitter | downloads: 5148
+v1.0.1-purchase.bactrian | downloads: 3815
+v1.0.0-quargoutfitter | downloads: 3922
+v1.0.2-aberrant.kahet.outfitter | downloads: 5151
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
 v1.0.3-capture.archons | downloads: 707
-v1.0.2-tributequarg | downloads: 3739
-v1.0.1-jumpdrive.extended | downloads: 4104
-v1.0.0-bunrodeaoutfitter | downloads: 5044
+v1.0.2-tributequarg | downloads: 3741
+v1.0.1-jumpdrive.extended | downloads: 4107
+v1.0.0-bunrodeaoutfitter | downloads: 5046
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 111
 v1.0.0-capturingpower | downloads: 753
-v1.0.0-1requiredcrew | downloads: 5480
-v1.0.1-unlimited.dfc | downloads: 3516
+v1.0.0-1requiredcrew | downloads: 5483
+v1.0.1-unlimited.dfc | downloads: 3519
 v1.0.0-unlimited.dfc | downloads: 242
-v1.0.0-purchaseable.cloakingdevice | downloads: 3906
+v1.0.0-purchaseable.cloakingdevice | downloads: 3909
 v1.0.0-jumpdrive.extended | downloads: 108
 v1.0.2-capture.archons | downloads: 92
 v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 40
-# TOTAL DOWNLOADS: 77560
+# TOTAL DOWNLOADS: 77606
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 5480
-aberrant.kahet.outfitter 5152
+1requiredcrew 5483
+aberrant.kahet.outfitter 5155
 avgi.outfitter 190
-bunrodeaoutfitter 5044
-capture.archons 4924
-capture.augen 3688
-capturingpower 4915
-disable.aberrant.blockade 2811
-easier.ground.assault 2807
-jumpdrive.extended 4212
+bunrodeaoutfitter 5046
+capture.archons 4926
+capture.augen 3690
+capturingpower 4917
+disable.aberrant.blockade 2813
+easier.ground.assault 2809
+jumpdrive.extended 4215
 map.reveal 40
-navypirates 3515
-obtainheron 3857
-purchase.bactrian 3924
-purchaseable.androids 2831
-purchaseable.cloakingdevice 3906
-quargoutfitter 3920
-reduce.requiredcrew 2658
-tributequarg 3749
-unlimited.dfc 3758
-unlock.hai.reveal 3195
-unshrouded 80
-zoom.extension 2904
+navypirates 3517
+obtainheron 3859
+purchase.bactrian 3926
+purchaseable.androids 2833
+purchaseable.cloakingdevice 3909
+quargoutfitter 3922
+reduce.requiredcrew 2660
+tributequarg 3751
+unlimited.dfc 3761
+unlock.hai.reveal 3197
+unshrouded 81
+zoom.extension 2906
