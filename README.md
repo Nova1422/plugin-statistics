@@ -21,8 +21,8 @@
 		<td>6430</td>
 		<td>6455</td>
 		<td>6484</td>
-		<td>6501</td>
-		<td>+ 17</td>
+		<td>6502</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -197,8 +197,8 @@
 		<td>4533</td>
 		<td>4550</td>
 		<td>4568</td>
-		<td>4578</td>
-		<td>+ 10</td>
+		<td>4579</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>90873</td>
-		<td>218</td>
+		<td>90875</td>
+		<td>220</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>6430</td>
 		<td>6455</td>
 		<td>6484</td>
-		<td>6501</td>
-		<td>+ 17</td>
+		<td>6502</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -366,8 +366,8 @@
 		<td>4533</td>
 		<td>4550</td>
 		<td>4568</td>
-		<td>4578</td>
-		<td>+ 10</td>
+		<td>4579</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>90873</td>
-		<td>218</td>
+		<td>90875</td>
+		<td>220</td>
 	</tr>
 </table>
 </sub></sup>
