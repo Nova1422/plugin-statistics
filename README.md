@@ -21,8 +21,8 @@
 		<td>6586</td>
 		<td>6609</td>
 		<td>6634</td>
-		<td>6639</td>
-		<td>+ 5</td>
+		<td>6640</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -142,8 +142,8 @@
 		<td>4203</td>
 		<td>4220</td>
 		<td>4238</td>
-		<td>4244</td>
-		<td>+ 6</td>
+		<td>4245</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -186,8 +186,8 @@
 		<td>4606</td>
 		<td>4624</td>
 		<td>4642</td>
-		<td>4647</td>
-		<td>+ 5</td>
+		<td>4648</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -219,8 +219,8 @@
 		<td>4424</td>
 		<td>4442</td>
 		<td>4460</td>
-		<td>4465</td>
-		<td>+ 5</td>
+		<td>4466</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>92907</td>
-		<td>126</td>
+		<td>92911</td>
+		<td>130</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>6586</td>
 		<td>6609</td>
 		<td>6634</td>
-		<td>6639</td>
-		<td>+ 5</td>
+		<td>6640</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -388,8 +388,8 @@
 		<td>4606</td>
 		<td>4624</td>
 		<td>4642</td>
-		<td>4647</td>
-		<td>+ 5</td>
+		<td>4648</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -421,8 +421,8 @@
 		<td>4424</td>
 		<td>4442</td>
 		<td>4460</td>
-		<td>4465</td>
-		<td>+ 5</td>
+		<td>4466</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
@@ -443,8 +443,8 @@
 		<td>4203</td>
 		<td>4220</td>
 		<td>4238</td>
-		<td>4244</td>
-		<td>+ 6</td>
+		<td>4245</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>unlock.hai.reveal</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>92907</td>
-		<td>126</td>
+		<td>92911</td>
+		<td>130</td>
 	</tr>
 </table>
 </sub></sup>
@@ -562,7 +562,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-06-17</td>
 		<td>2026-06-18</td>
 		<td>2026-06-19</td>
 		<td>2026-06-20</td>
@@ -571,10 +570,10 @@
 		<td>2026-06-23</td>
 		<td>2026-06-24</td>
 		<td>2026-06-25</td>
+		<td>2026-06-26</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>11</td>
 		<td>16</td>
 		<td>10</td>
 		<td>15</td>
@@ -583,10 +582,10 @@
 		<td>22</td>
 		<td>11</td>
 		<td>36</td>
+		<td>7</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>8</td>
 		<td>5</td>
 		<td>4</td>
 		<td>4</td>
@@ -595,6 +594,7 @@
 		<td>8</td>
 		<td>6</td>
 		<td>7</td>
+		<td>4</td>
 	</tr>
 </table>
 <br>
@@ -608,8 +608,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-15</td>
-		<td>5966</td>
-		<td>1899</td>
+		<td>5973</td>
+		<td>1903</td>
 		<td>192</td>
 		<td>21</td>
 	</tr>
@@ -622,8 +622,8 @@
 	</tr>
 	<tr>
 		<td>255</td>
-		<td>23.40</td>
-		<td>7.45</td>
+		<td>23.42</td>
+		<td>7.46</td>
 		<td></td>
 		<td></td>
 	</tr>
