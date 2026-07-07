@@ -7,7 +7,7 @@ v1.0.0-disable.aberrant.blockade | downloads: 3676
 v1.0.0-avgi.outfitter | downloads: 237
 v1.0.1-reduce.requiredcrew | downloads: 3416
 v1.0.0-reduce.requiredcrew | downloads: 94
-v1.0.0-capture.augen | downloads: 4584
+v1.0.0-capture.augen | downloads: 4585
 v1.0.0-zoom.extension | downloads: 3797
 v1.0.0-purchaseable.androids | downloads: 3706
 v1.1.1-capture.archons | downloads: 4748
@@ -15,18 +15,18 @@ v1.1.0-capture.archons | downloads: 125
 v1.0.4-capture.archons | downloads: 127
 v1.0.1-capturingpower | downloads: 5044
 v1.0.0-unlock.hai.reveal | downloads: 4019
-v1.0.4-obtainheron | downloads: 4479
+v1.0.4-obtainheron | downloads: 4480
 v1.0.0-navypirates | downloads: 915
 v1.0.3-obtainheron | downloads: 250
 v1.0.2-obtainheron | downloads: 25
 v1.0.1-purchase.bactrian | downloads: 4685
-v1.0.0-quargoutfitter | downloads: 4824
+v1.0.0-quargoutfitter | downloads: 4825
 v1.0.2-aberrant.kahet.outfitter | downloads: 6082
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
 v1.0.3-capture.archons | downloads: 707
 v1.0.2-tributequarg | downloads: 4583
-v1.0.1-jumpdrive.extended | downloads: 5012
-v1.0.0-bunrodeaoutfitter | downloads: 5957
+v1.0.1-jumpdrive.extended | downloads: 5013
+v1.0.0-bunrodeaoutfitter | downloads: 5958
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 111
@@ -41,27 +41,27 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 40
-# TOTAL DOWNLOADS: 95632
+# TOTAL DOWNLOADS: 95637
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 1requiredcrew 6772
 aberrant.kahet.outfitter 6086
 avgi.outfitter 237
-bunrodeaoutfitter 5957
+bunrodeaoutfitter 5958
 capture.archons 5803
-capture.augen 4584
+capture.augen 4585
 capturingpower 5797
 disable.aberrant.blockade 3676
 easier.ground.assault 3653
-jumpdrive.extended 5120
+jumpdrive.extended 5121
 map.reveal 63
 navypirates 4385
-obtainheron 4754
+obtainheron 4755
 purchase.bactrian 4796
 purchaseable.androids 3706
 purchaseable.cloakingdevice 4787
-quargoutfitter 4824
+quargoutfitter 4825
 reduce.requiredcrew 3510
 tributequarg 4593
 unlimited.dfc 4594
