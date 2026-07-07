@@ -54,8 +54,8 @@
 		<td>5925</td>
 		<td>5939</td>
 		<td>5954</td>
-		<td>5957</td>
-		<td>+ 3</td>
+		<td>5958</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -76,8 +76,8 @@
 		<td>4553</td>
 		<td>4567</td>
 		<td>4579</td>
-		<td>4584</td>
-		<td>+ 5</td>
+		<td>4585</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -120,8 +120,8 @@
 		<td>5091</td>
 		<td>5105</td>
 		<td>5117</td>
-		<td>5120</td>
-		<td>+ 3</td>
+		<td>5121</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>map.reveal</td>
@@ -153,8 +153,8 @@
 		<td>4725</td>
 		<td>4739</td>
 		<td>4751</td>
-		<td>4754</td>
-		<td>+ 3</td>
+		<td>4755</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -197,8 +197,8 @@
 		<td>4788</td>
 		<td>4803</td>
 		<td>4818</td>
-		<td>4824</td>
-		<td>+ 6</td>
+		<td>4825</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>95632</td>
-		<td>67</td>
+		<td>95637</td>
+		<td>72</td>
 	</tr>
 </table>
 </sub></sup>
@@ -322,8 +322,8 @@
 		<td>5925</td>
 		<td>5939</td>
 		<td>5954</td>
-		<td>5957</td>
-		<td>+ 3</td>
+		<td>5958</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -355,8 +355,8 @@
 		<td>5091</td>
 		<td>5105</td>
 		<td>5117</td>
-		<td>5120</td>
-		<td>+ 3</td>
+		<td>5121</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -366,8 +366,8 @@
 		<td>4788</td>
 		<td>4803</td>
 		<td>4818</td>
-		<td>4824</td>
-		<td>+ 6</td>
+		<td>4825</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -399,8 +399,8 @@
 		<td>4725</td>
 		<td>4739</td>
 		<td>4751</td>
-		<td>4754</td>
-		<td>+ 3</td>
+		<td>4755</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -432,8 +432,8 @@
 		<td>4553</td>
 		<td>4567</td>
 		<td>4579</td>
-		<td>4584</td>
-		<td>+ 5</td>
+		<td>4585</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>navypirates</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>95632</td>
-		<td>67</td>
+		<td>95637</td>
+		<td>72</td>
 	</tr>
 </table>
 </sub></sup>
@@ -562,7 +562,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-06-27</td>
 		<td>2026-06-28</td>
 		<td>2026-06-29</td>
 		<td>2026-06-30</td>
@@ -571,10 +570,10 @@
 		<td>2026-07-03</td>
 		<td>2026-07-04</td>
 		<td>2026-07-05</td>
+		<td>2026-07-06</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>16</td>
 		<td>23</td>
 		<td>9</td>
 		<td>14</td>
@@ -583,10 +582,10 @@
 		<td>23</td>
 		<td>9</td>
 		<td>6</td>
+		<td>32</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>4</td>
 		<td>6</td>
 		<td>4</td>
 		<td>4</td>
@@ -595,6 +594,7 @@
 		<td>9</td>
 		<td>7</td>
 		<td>3</td>
+		<td>7</td>
 	</tr>
 </table>
 <br>
@@ -608,8 +608,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-15</td>
-		<td>6091</td>
-		<td>1950</td>
+		<td>6123</td>
+		<td>1957</td>
 		<td>192</td>
 		<td>21</td>
 	</tr>
@@ -622,8 +622,8 @@
 	</tr>
 	<tr>
 		<td>265</td>
-		<td>22.98</td>
-		<td>7.36</td>
+		<td>23.11</td>
+		<td>7.38</td>
 		<td></td>
 		<td></td>
 	</tr>
