@@ -164,8 +164,8 @@
 		<td>4818</td>
 		<td>4829</td>
 		<td>4840</td>
-		<td>4853</td>
-		<td>+ 13</td>
+		<td>4854</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -241,8 +241,8 @@
 		<td>4041</td>
 		<td>4050</td>
 		<td>4061</td>
-		<td>4073</td>
-		<td>+ 12</td>
+		<td>4074</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>unshrouded</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>96797</td>
-		<td>247</td>
+		<td>96799</td>
+		<td>249</td>
 	</tr>
 </table>
 </sub></sup>
@@ -377,8 +377,8 @@
 		<td>4818</td>
 		<td>4829</td>
 		<td>4840</td>
-		<td>4853</td>
-		<td>+ 13</td>
+		<td>4854</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -454,8 +454,8 @@
 		<td>4041</td>
 		<td>4050</td>
 		<td>4061</td>
-		<td>4073</td>
-		<td>+ 12</td>
+		<td>4074</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>zoom.extension</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>96797</td>
-		<td>247</td>
+		<td>96799</td>
+		<td>249</td>
 	</tr>
 </table>
 </sub></sup>
