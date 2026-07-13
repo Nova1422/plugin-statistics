@@ -65,8 +65,8 @@
 		<td>5847</td>
 		<td>5863</td>
 		<td>5878</td>
-		<td>5890</td>
-		<td>+ 12</td>
+		<td>5891</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>97427</td>
-		<td>230</td>
+		<td>97428</td>
+		<td>231</td>
 	</tr>
 </table>
 </sub></sup>
@@ -333,8 +333,8 @@
 		<td>5847</td>
 		<td>5863</td>
 		<td>5878</td>
-		<td>5890</td>
-		<td>+ 12</td>
+		<td>5891</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>97427</td>
-		<td>230</td>
+		<td>97428</td>
+		<td>231</td>
 	</tr>
 </table>
 </sub></sup>
