@@ -87,8 +87,8 @@
 		<td>5901</td>
 		<td>5916</td>
 		<td>5929</td>
-		<td>5943</td>
-		<td>+ 14</td>
+		<td>5944</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>98563</td>
-		<td>288</td>
+		<td>98564</td>
+		<td>289</td>
 	</tr>
 </table>
 </sub></sup>
@@ -344,8 +344,8 @@
 		<td>5901</td>
 		<td>5916</td>
 		<td>5929</td>
-		<td>5943</td>
-		<td>+ 14</td>
+		<td>5944</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>98563</td>
-		<td>288</td>
+		<td>98564</td>
+		<td>289</td>
 	</tr>
 </table>
 </sub></sup>
