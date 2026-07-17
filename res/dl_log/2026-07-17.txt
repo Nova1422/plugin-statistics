@@ -30,7 +30,7 @@ v1.0.0-bunrodeaoutfitter | downloads: 6107
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
 v1.0.0-purchase.bactrian | downloads: 111
-v1.0.0-capturingpower | downloads: 753
+v1.0.0-capturingpower | downloads: 754
 v1.0.0-1requiredcrew | downloads: 6919
 v1.0.1-unlimited.dfc | downloads: 4476
 v1.0.0-unlimited.dfc | downloads: 257
@@ -41,7 +41,7 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 40
-# TOTAL DOWNLOADS: 98563
+# TOTAL DOWNLOADS: 98564
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -51,7 +51,7 @@ avgi.outfitter 243
 bunrodeaoutfitter 6107
 capture.archons 5947
 capture.augen 4729
-capturingpower 5943
+capturingpower 5944
 disable.aberrant.blockade 3818
 easier.ground.assault 3795
 jumpdrive.extended 5278
