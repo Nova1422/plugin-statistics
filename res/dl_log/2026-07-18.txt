@@ -8,7 +8,7 @@ v1.0.0-avgi.outfitter | downloads: 243
 v1.0.1-reduce.requiredcrew | downloads: 3571
 v1.0.0-reduce.requiredcrew | downloads: 94
 v1.0.0-capture.augen | downloads: 4742
-v1.0.0-zoom.extension | downloads: 3961
+v1.0.0-zoom.extension | downloads: 3962
 v1.0.0-purchaseable.androids | downloads: 3870
 v1.1.1-capture.archons | downloads: 4905
 v1.1.0-capture.archons | downloads: 125
@@ -41,7 +41,7 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 40
-# TOTAL DOWNLOADS: 98835
+# TOTAL DOWNLOADS: 98836
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -67,4 +67,4 @@ tributequarg 4749
 unlimited.dfc 4746
 unlock.hai.reveal 4173
 unshrouded 124
-zoom.extension 3961
+zoom.extension 3962
