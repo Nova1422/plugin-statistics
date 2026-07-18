@@ -263,8 +263,8 @@
 		<td>3920</td>
 		<td>3933</td>
 		<td>3949</td>
-		<td>3961</td>
-		<td>+ 12</td>
+		<td>3962</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>98835</td>
-		<td>231</td>
+		<td>98836</td>
+		<td>232</td>
 	</tr>
 </table>
 </sub></sup>
@@ -465,8 +465,8 @@
 		<td>3920</td>
 		<td>3933</td>
 		<td>3949</td>
-		<td>3961</td>
-		<td>+ 12</td>
+		<td>3962</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>98835</td>
-		<td>231</td>
+		<td>98836</td>
+		<td>232</td>
 	</tr>
 </table>
 </sub></sup>
