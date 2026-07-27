@@ -120,8 +120,8 @@
 		<td>5371</td>
 		<td>5385</td>
 		<td>5400</td>
-		<td>5410</td>
-		<td>+ 10</td>
+		<td>5411</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>map.reveal</td>
@@ -263,8 +263,8 @@
 		<td>4043</td>
 		<td>4058</td>
 		<td>4072</td>
-		<td>4084</td>
-		<td>+ 12</td>
+		<td>4085</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>101290</td>
-		<td>206</td>
+		<td>101292</td>
+		<td>208</td>
 	</tr>
 </table>
 </sub></sup>
@@ -355,8 +355,8 @@
 		<td>5371</td>
 		<td>5385</td>
 		<td>5400</td>
-		<td>5410</td>
-		<td>+ 10</td>
+		<td>5411</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -465,8 +465,8 @@
 		<td>4043</td>
 		<td>4058</td>
 		<td>4072</td>
-		<td>4084</td>
-		<td>+ 12</td>
+		<td>4085</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>101290</td>
-		<td>206</td>
+		<td>101292</td>
+		<td>208</td>
 	</tr>
 </table>
 </sub></sup>
