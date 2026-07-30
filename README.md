@@ -21,8 +21,8 @@
 		<td>7063</td>
 		<td>7070</td>
 		<td>7084</td>
-		<td>7096</td>
-		<td>+ 12</td>
+		<td>7097</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -263,8 +263,8 @@
 		<td>4088</td>
 		<td>4097</td>
 		<td>4110</td>
-		<td>4122</td>
-		<td>+ 12</td>
+		<td>4123</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>102022</td>
-		<td>249</td>
+		<td>102024</td>
+		<td>251</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>7063</td>
 		<td>7070</td>
 		<td>7084</td>
-		<td>7096</td>
-		<td>+ 12</td>
+		<td>7097</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -465,8 +465,8 @@
 		<td>4088</td>
 		<td>4097</td>
 		<td>4110</td>
-		<td>4122</td>
-		<td>+ 12</td>
+		<td>4123</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>102022</td>
-		<td>249</td>
+		<td>102024</td>
+		<td>251</td>
 	</tr>
 </table>
 </sub></sup>
