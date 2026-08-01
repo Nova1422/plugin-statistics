@@ -142,8 +142,8 @@
 		<td>4680</td>
 		<td>4697</td>
 		<td>4711</td>
-		<td>4724</td>
-		<td>+ 13</td>
+		<td>4725</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>102619</td>
-		<td>269</td>
+		<td>102620</td>
+		<td>270</td>
 	</tr>
 </table>
 </sub></sup>
@@ -443,8 +443,8 @@
 		<td>4680</td>
 		<td>4697</td>
 		<td>4711</td>
-		<td>4724</td>
-		<td>+ 13</td>
+		<td>4725</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>unlock.hai.reveal</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>102619</td>
-		<td>269</td>
+		<td>102620</td>
+		<td>270</td>
 	</tr>
 </table>
 </sub></sup>
