@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.0-unshrouded | downloads: 139
 v1.0.0-map.reveal | downloads: 70
-v1.0.1-navypirates | downloads: 3809
+v1.0.1-navypirates | downloads: 3810
 v1.0.0-easier.ground.assault | downloads: 3999
 v1.0.0-disable.aberrant.blockade | downloads: 4023
 v1.0.0-avgi.outfitter | downloads: 254
@@ -41,7 +41,7 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 40
-# TOTAL DOWNLOADS: 102619
+# TOTAL DOWNLOADS: 102620
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -56,7 +56,7 @@ disable.aberrant.blockade 4023
 easier.ground.assault 3999
 jumpdrive.extended 5474
 map.reveal 70
-navypirates 4724
+navypirates 4725
 obtainheron 5103
 purchase.bactrian 5138
 purchaseable.androids 4053
