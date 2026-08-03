@@ -54,8 +54,8 @@
 		<td>6307</td>
 		<td>6323</td>
 		<td>6335</td>
-		<td>6342</td>
-		<td>+ 7</td>
+		<td>6343</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -98,8 +98,8 @@
 		<td>4010</td>
 		<td>4024</td>
 		<td>4036</td>
-		<td>4042</td>
-		<td>+ 6</td>
+		<td>4043</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>easier.ground.assault</td>
@@ -120,8 +120,8 @@
 		<td>5461</td>
 		<td>5475</td>
 		<td>5488</td>
-		<td>5493</td>
-		<td>+ 5</td>
+		<td>5494</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>map.reveal</td>
@@ -142,8 +142,8 @@
 		<td>4711</td>
 		<td>4726</td>
 		<td>4738</td>
-		<td>4745</td>
-		<td>+ 7</td>
+		<td>4746</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -175,8 +175,8 @@
 		<td>4039</td>
 		<td>4054</td>
 		<td>4067</td>
-		<td>4073</td>
-		<td>+ 6</td>
+		<td>4074</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -230,8 +230,8 @@
 		<td>4912</td>
 		<td>4926</td>
 		<td>4938</td>
-		<td>4942</td>
-		<td>+ 4</td>
+		<td>4943</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>unlock.hai.reveal</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>103006</td>
-		<td>121</td>
+		<td>103012</td>
+		<td>127</td>
 	</tr>
 </table>
 </sub></sup>
@@ -322,8 +322,8 @@
 		<td>6307</td>
 		<td>6323</td>
 		<td>6335</td>
-		<td>6342</td>
-		<td>+ 7</td>
+		<td>6343</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -355,8 +355,8 @@
 		<td>5461</td>
 		<td>5475</td>
 		<td>5488</td>
-		<td>5493</td>
-		<td>+ 5</td>
+		<td>5494</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -432,8 +432,8 @@
 		<td>4912</td>
 		<td>4926</td>
 		<td>4938</td>
-		<td>4942</td>
-		<td>+ 4</td>
+		<td>4943</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>navypirates</td>
@@ -443,8 +443,8 @@
 		<td>4711</td>
 		<td>4726</td>
 		<td>4738</td>
-		<td>4745</td>
-		<td>+ 7</td>
+		<td>4746</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>unlock.hai.reveal</td>
@@ -476,8 +476,8 @@
 		<td>4039</td>
 		<td>4054</td>
 		<td>4067</td>
-		<td>4073</td>
-		<td>+ 6</td>
+		<td>4074</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -487,8 +487,8 @@
 		<td>4010</td>
 		<td>4024</td>
 		<td>4036</td>
-		<td>4042</td>
-		<td>+ 6</td>
+		<td>4043</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>easier.ground.assault</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>103006</td>
-		<td>121</td>
+		<td>103012</td>
+		<td>127</td>
 	</tr>
 </table>
 </sub></sup>
