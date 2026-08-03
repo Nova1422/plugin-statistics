@@ -54,8 +54,8 @@
 		<td>6307</td>
 		<td>6323</td>
 		<td>6335</td>
-		<td>6341</td>
-		<td>+ 6</td>
+		<td>6342</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -142,8 +142,8 @@
 		<td>4711</td>
 		<td>4726</td>
 		<td>4738</td>
-		<td>4744</td>
-		<td>+ 6</td>
+		<td>4745</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -175,8 +175,8 @@
 		<td>4039</td>
 		<td>4054</td>
 		<td>4067</td>
-		<td>4072</td>
-		<td>+ 5</td>
+		<td>4073</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -186,8 +186,8 @@
 		<td>5114</td>
 		<td>5128</td>
 		<td>5140</td>
-		<td>5147</td>
-		<td>+ 7</td>
+		<td>5148</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -219,8 +219,8 @@
 		<td>4918</td>
 		<td>4933</td>
 		<td>4945</td>
-		<td>4949</td>
-		<td>+ 4</td>
+		<td>4951</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -241,8 +241,8 @@
 		<td>4333</td>
 		<td>4348</td>
 		<td>4360</td>
-		<td>4365</td>
-		<td>+ 5</td>
+		<td>4367</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>unshrouded</td>
@@ -263,8 +263,8 @@
 		<td>4138</td>
 		<td>4152</td>
 		<td>4164</td>
-		<td>4168</td>
-		<td>+ 4</td>
+		<td>4169</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>102997</td>
-		<td>112</td>
+		<td>103006</td>
+		<td>121</td>
 	</tr>
 </table>
 </sub></sup>
@@ -322,8 +322,8 @@
 		<td>6307</td>
 		<td>6323</td>
 		<td>6335</td>
-		<td>6341</td>
-		<td>+ 6</td>
+		<td>6342</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -388,8 +388,8 @@
 		<td>5114</td>
 		<td>5128</td>
 		<td>5140</td>
-		<td>5147</td>
-		<td>+ 7</td>
+		<td>5148</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -421,8 +421,8 @@
 		<td>4918</td>
 		<td>4933</td>
 		<td>4945</td>
-		<td>4949</td>
-		<td>+ 4</td>
+		<td>4951</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -443,8 +443,8 @@
 		<td>4711</td>
 		<td>4726</td>
 		<td>4738</td>
-		<td>4744</td>
-		<td>+ 6</td>
+		<td>4745</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>unlock.hai.reveal</td>
@@ -454,8 +454,8 @@
 		<td>4333</td>
 		<td>4348</td>
 		<td>4360</td>
-		<td>4365</td>
-		<td>+ 5</td>
+		<td>4367</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>zoom.extension</td>
@@ -465,8 +465,8 @@
 		<td>4138</td>
 		<td>4152</td>
 		<td>4164</td>
-		<td>4168</td>
-		<td>+ 4</td>
+		<td>4169</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -476,8 +476,8 @@
 		<td>4039</td>
 		<td>4054</td>
 		<td>4067</td>
-		<td>4072</td>
-		<td>+ 5</td>
+		<td>4073</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>102997</td>
-		<td>112</td>
+		<td>103006</td>
+		<td>121</td>
 	</tr>
 </table>
 </sub></sup>
