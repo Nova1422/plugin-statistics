@@ -21,8 +21,8 @@
 		<td>7274</td>
 		<td>7292</td>
 		<td>7310</td>
-		<td>7317</td>
-		<td>+ 7</td>
+		<td>7318</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>106233</td>
-		<td>145</td>
+		<td>106234</td>
+		<td>146</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>7274</td>
 		<td>7292</td>
 		<td>7310</td>
-		<td>7317</td>
-		<td>+ 7</td>
+		<td>7318</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>106233</td>
-		<td>145</td>
+		<td>106234</td>
+		<td>146</td>
 	</tr>
 </table>
 </sub></sup>
