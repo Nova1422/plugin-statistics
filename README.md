@@ -32,8 +32,8 @@
 		<td>6788</td>
 		<td>6814</td>
 		<td>6839</td>
-		<td>6844</td>
-		<td>+ 5</td>
+		<td>6845</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>110456</td>
-		<td>102</td>
+		<td>110457</td>
+		<td>103</td>
 	</tr>
 </table>
 </sub></sup>
@@ -311,8 +311,8 @@
 		<td>6788</td>
 		<td>6814</td>
 		<td>6839</td>
-		<td>6844</td>
-		<td>+ 5</td>
+		<td>6845</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>110456</td>
-		<td>102</td>
+		<td>110457</td>
+		<td>103</td>
 	</tr>
 </table>
 </sub></sup>
