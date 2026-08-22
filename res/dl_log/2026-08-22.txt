@@ -21,7 +21,7 @@ v1.0.3-obtainheron | downloads: 250
 v1.0.2-obtainheron | downloads: 25
 v1.0.1-purchase.bactrian | downloads: 5415
 v1.0.0-quargoutfitter | downloads: 5570
-v1.0.2-aberrant.kahet.outfitter | downloads: 6840
+v1.0.2-aberrant.kahet.outfitter | downloads: 6841
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
 v1.0.3-capture.archons | downloads: 707
 v1.0.2-tributequarg | downloads: 5303
@@ -41,12 +41,12 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 40
-# TOTAL DOWNLOADS: 110456
+# TOTAL DOWNLOADS: 110457
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 1requiredcrew 7533
-aberrant.kahet.outfitter 6844
+aberrant.kahet.outfitter 6845
 avgi.outfitter 266
 bunrodeaoutfitter 6724
 capture.archons 6554
