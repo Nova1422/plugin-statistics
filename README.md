@@ -120,8 +120,8 @@
 		<td>5891</td>
 		<td>5925</td>
 		<td>5949</td>
-		<td>5965</td>
-		<td>+ 16</td>
+		<td>5966</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>map.reveal</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>111933</td>
-		<td>170</td>
+		<td>111934</td>
+		<td>171</td>
 	</tr>
 </table>
 </sub></sup>
@@ -355,8 +355,8 @@
 		<td>5891</td>
 		<td>5925</td>
 		<td>5949</td>
-		<td>5965</td>
-		<td>+ 16</td>
+		<td>5966</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>111933</td>
-		<td>170</td>
+		<td>111934</td>
+		<td>171</td>
 	</tr>
 </table>
 </sub></sup>
