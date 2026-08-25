@@ -25,7 +25,7 @@ v1.0.2-aberrant.kahet.outfitter | downloads: 6932
 v1.0.1-aberrant.kahet.outfitter | downloads: 4
 v1.0.3-capture.archons | downloads: 707
 v1.0.2-tributequarg | downloads: 5360
-v1.0.1-jumpdrive.extended | downloads: 5857
+v1.0.1-jumpdrive.extended | downloads: 5858
 v1.0.0-bunrodeaoutfitter | downloads: 6816
 v1.0.1-tributequarg | downloads: 8
 v1.0.0-tributequarg | downloads: 2
@@ -41,7 +41,7 @@ v1.0.1-capture.archons | downloads: 4
 
 
 # NUMBER OF RELEASES: 40
-# TOTAL DOWNLOADS: 111933
+# TOTAL DOWNLOADS: 111934
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -54,7 +54,7 @@ capture.augen 5427
 capturingpower 6640
 disable.aberrant.blockade 4504
 easier.ground.assault 4468
-jumpdrive.extended 5965
+jumpdrive.extended 5966
 map.reveal 79
 navypirates 5175
 obtainheron 5556
