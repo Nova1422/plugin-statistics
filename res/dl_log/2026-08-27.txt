@@ -1,0 +1,70 @@
+# DOWNLOADS FOR EACH RELEASE:
+v1.0.0-unshrouded | downloads: 152
+v1.0.0-map.reveal | downloads: 80
+v1.0.1-navypirates | downloads: 4278
+v1.0.0-easier.ground.assault | downloads: 4501
+v1.0.0-disable.aberrant.blockade | downloads: 4536
+v1.0.0-avgi.outfitter | downloads: 269
+v1.0.1-reduce.requiredcrew | downloads: 4201
+v1.0.0-reduce.requiredcrew | downloads: 94
+v1.0.0-capture.augen | downloads: 5460
+v1.0.0-zoom.extension | downloads: 4611
+v1.0.0-purchaseable.androids | downloads: 4525
+v1.1.1-capture.archons | downloads: 5617
+v1.1.0-capture.archons | downloads: 125
+v1.0.4-capture.archons | downloads: 127
+v1.0.1-capturingpower | downloads: 5920
+v1.0.0-unlock.hai.reveal | downloads: 4792
+v1.0.4-obtainheron | downloads: 5298
+v1.0.0-navypirates | downloads: 915
+v1.0.3-obtainheron | downloads: 250
+v1.0.2-obtainheron | downloads: 25
+v1.0.1-purchase.bactrian | downloads: 5491
+v1.0.0-quargoutfitter | downloads: 5650
+v1.0.2-aberrant.kahet.outfitter | downloads: 6966
+v1.0.1-aberrant.kahet.outfitter | downloads: 4
+v1.0.3-capture.archons | downloads: 707
+v1.0.2-tributequarg | downloads: 5375
+v1.0.1-jumpdrive.extended | downloads: 5892
+v1.0.0-bunrodeaoutfitter | downloads: 6850
+v1.0.1-tributequarg | downloads: 8
+v1.0.0-tributequarg | downloads: 2
+v1.0.0-purchase.bactrian | downloads: 111
+v1.0.0-capturingpower | downloads: 754
+v1.0.0-1requiredcrew | downloads: 7655
+v1.0.1-unlimited.dfc | downloads: 5107
+v1.0.0-unlimited.dfc | downloads: 271
+v1.0.0-purchaseable.cloakingdevice | downloads: 5591
+v1.0.0-jumpdrive.extended | downloads: 108
+v1.0.2-capture.archons | downloads: 94
+v1.0.1-capture.archons | downloads: 4
+
+
+# NUMBER OF RELEASES: 40
+# TOTAL DOWNLOADS: 112416
+
+
+# TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
+1requiredcrew 7655
+aberrant.kahet.outfitter 6970
+avgi.outfitter 269
+bunrodeaoutfitter 6850
+capture.archons 6674
+capture.augen 5460
+capturingpower 6674
+disable.aberrant.blockade 4536
+easier.ground.assault 4501
+jumpdrive.extended 6000
+map.reveal 80
+navypirates 5193
+obtainheron 5573
+purchase.bactrian 5602
+purchaseable.androids 4525
+purchaseable.cloakingdevice 5591
+quargoutfitter 5650
+reduce.requiredcrew 4295
+tributequarg 5385
+unlimited.dfc 5378
+unlock.hai.reveal 4792
+unshrouded 152
+zoom.extension 4611
