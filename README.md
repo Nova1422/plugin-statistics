@@ -21,8 +21,8 @@
 		<td>7792</td>
 		<td>7803</td>
 		<td>7814</td>
-		<td>7817</td>
-		<td>+ 3</td>
+		<td>7818</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -32,8 +32,8 @@
 		<td>7128</td>
 		<td>7140</td>
 		<td>7152</td>
-		<td>7155</td>
-		<td>+ 3</td>
+		<td>7157</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -54,8 +54,8 @@
 		<td>7001</td>
 		<td>7013</td>
 		<td>7025</td>
-		<td>7028</td>
-		<td>+ 3</td>
+		<td>7030</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -76,8 +76,8 @@
 		<td>5608</td>
 		<td>5623</td>
 		<td>5634</td>
-		<td>5637</td>
-		<td>+ 3</td>
+		<td>5639</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -252,8 +252,8 @@
 		<td>160</td>
 		<td>160</td>
 		<td>161</td>
-		<td>161</td>
-		<td></td>
+		<td>162</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>zoom.extension</td>
@@ -263,8 +263,8 @@
 		<td>4757</td>
 		<td>4768</td>
 		<td>4778</td>
-		<td>4781</td>
-		<td>+ 3</td>
+		<td>4782</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>115827</td>
-		<td>60</td>
+		<td>115836</td>
+		<td>69</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>7792</td>
 		<td>7803</td>
 		<td>7814</td>
-		<td>7817</td>
-		<td>+ 3</td>
+		<td>7818</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -311,8 +311,8 @@
 		<td>7128</td>
 		<td>7140</td>
 		<td>7152</td>
-		<td>7155</td>
-		<td>+ 3</td>
+		<td>7157</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
@@ -322,8 +322,8 @@
 		<td>7001</td>
 		<td>7013</td>
 		<td>7025</td>
-		<td>7028</td>
-		<td>+ 3</td>
+		<td>7030</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
@@ -410,8 +410,8 @@
 		<td>5608</td>
 		<td>5623</td>
 		<td>5634</td>
-		<td>5637</td>
-		<td>+ 3</td>
+		<td>5639</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -465,8 +465,8 @@
 		<td>4757</td>
 		<td>4768</td>
 		<td>4778</td>
-		<td>4781</td>
-		<td>+ 3</td>
+		<td>4782</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -531,8 +531,8 @@
 		<td>160</td>
 		<td>160</td>
 		<td>161</td>
-		<td>161</td>
-		<td></td>
+		<td>162</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>map.reveal</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>115827</td>
-		<td>60</td>
+		<td>115836</td>
+		<td>69</td>
 	</tr>
 </table>
 </sub></sup>
