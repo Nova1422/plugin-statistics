@@ -9,7 +9,7 @@ v1.0.0-disable.aberrant.blockade | downloads: 5208
 v1.0.0-avgi.outfitter | downloads: 309
 v1.0.1-reduce.requiredcrew | downloads: 4861
 v1.0.0-reduce.requiredcrew | downloads: 95
-v1.0.0-capture.augen | downloads: 6184
+v1.0.0-capture.augen | downloads: 6185
 v1.0.0-zoom.extension | downloads: 5321
 v1.0.0-purchaseable.androids | downloads: 5255
 v1.1.1-capture.archons | downloads: 6319
@@ -22,18 +22,18 @@ v1.0.0-navypirates | downloads: 916
 v1.0.3-obtainheron | downloads: 251
 v1.0.2-obtainheron | downloads: 26
 v1.0.1-purchase.bactrian | downloads: 6177
-v1.0.0-quargoutfitter | downloads: 6385
+v1.0.0-quargoutfitter | downloads: 6386
 v1.0.2-aberrant.kahet.outfitter | downloads: 7724
 v1.0.1-aberrant.kahet.outfitter | downloads: 5
 v1.0.3-capture.archons | downloads: 708
 v1.0.2-tributequarg | downloads: 6036
-v1.0.1-jumpdrive.extended | downloads: 6646
+v1.0.1-jumpdrive.extended | downloads: 6647
 v1.0.0-bunrodeaoutfitter | downloads: 7602
 v1.0.1-tributequarg | downloads: 9
 v1.0.0-tributequarg | downloads: 3
 v1.0.0-purchase.bactrian | downloads: 112
 v1.0.0-capturingpower | downloads: 755
-v1.0.0-1requiredcrew | downloads: 8341
+v1.0.0-1requiredcrew | downloads: 8342
 v1.0.1-unlimited.dfc | downloads: 5722
 v1.0.0-unlimited.dfc | downloads: 294
 v1.0.0-purchaseable.cloakingdevice | downloads: 6289
@@ -43,27 +43,27 @@ v1.0.1-capture.archons | downloads: 5
 
 
 # NUMBER OF RELEASES: 42
-# TOTAL DOWNLOADS: 126520
+# TOTAL DOWNLOADS: 126524
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-1requiredcrew 8341
+1requiredcrew 8342
 aberrant.kahet.outfitter 7729
 avgi.outfitter 338
 bunrodeaoutfitter 7602
 capture.archons 7382
-capture.augen 6184
+capture.augen 6185
 capturingpower 7369
 disable.aberrant.blockade 5208
 easier.ground.assault 5153
-jumpdrive.extended 6755
+jumpdrive.extended 6756
 map.reveal 100
 navypirates 5871
 obtainheron 6309
 purchase.bactrian 6289
 purchaseable.androids 5255
 purchaseable.cloakingdevice 6289
-quargoutfitter 6385
+quargoutfitter 6386
 reduce.requiredcrew 4956
 tributequarg 6048
 unlimited.dfc 6016
