@@ -21,8 +21,8 @@
 		<td>8319</td>
 		<td>8324</td>
 		<td>8334</td>
-		<td>8341</td>
-		<td>+ 7</td>
+		<td>8342</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -76,8 +76,8 @@
 		<td>6173</td>
 		<td>6175</td>
 		<td>6180</td>
-		<td>6184</td>
-		<td>+ 4</td>
+		<td>6185</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -120,8 +120,8 @@
 		<td>6739</td>
 		<td>6742</td>
 		<td>6749</td>
-		<td>6755</td>
-		<td>+ 6</td>
+		<td>6756</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>map.reveal</td>
@@ -197,8 +197,8 @@
 		<td>6372</td>
 		<td>6375</td>
 		<td>6380</td>
-		<td>6385</td>
-		<td>+ 5</td>
+		<td>6386</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>126520</td>
-		<td>91</td>
+		<td>126524</td>
+		<td>95</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>8319</td>
 		<td>8324</td>
 		<td>8334</td>
-		<td>8341</td>
-		<td>+ 7</td>
+		<td>8342</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -355,8 +355,8 @@
 		<td>6739</td>
 		<td>6742</td>
 		<td>6749</td>
-		<td>6755</td>
-		<td>+ 6</td>
+		<td>6756</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -366,8 +366,8 @@
 		<td>6372</td>
 		<td>6375</td>
 		<td>6380</td>
-		<td>6385</td>
-		<td>+ 5</td>
+		<td>6386</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -410,8 +410,8 @@
 		<td>6173</td>
 		<td>6175</td>
 		<td>6180</td>
-		<td>6184</td>
-		<td>+ 4</td>
+		<td>6185</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>126520</td>
-		<td>91</td>
+		<td>126524</td>
+		<td>95</td>
 	</tr>
 </table>
 </sub></sup>
