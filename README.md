@@ -21,8 +21,8 @@
 		<td>8334</td>
 		<td>8342</td>
 		<td>8349</td>
-		<td>8351</td>
-		<td>+ 2</td>
+		<td>8353</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -76,8 +76,8 @@
 		<td>6180</td>
 		<td>6185</td>
 		<td>6188</td>
-		<td>6189</td>
-		<td>+ 1</td>
+		<td>6190</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -197,8 +197,8 @@
 		<td>6380</td>
 		<td>6386</td>
 		<td>6389</td>
-		<td>6391</td>
-		<td>+ 2</td>
+		<td>6392</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -208,8 +208,8 @@
 		<td>4950</td>
 		<td>4956</td>
 		<td>4959</td>
-		<td>4960</td>
-		<td>+ 1</td>
+		<td>4961</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -252,8 +252,8 @@
 		<td>203</td>
 		<td>207</td>
 		<td>207</td>
-		<td>207</td>
-		<td></td>
+		<td>208</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>zoom.extension</td>
@@ -263,8 +263,8 @@
 		<td>5317</td>
 		<td>5321</td>
 		<td>5324</td>
-		<td>5327</td>
-		<td>+ 3</td>
+		<td>5329</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>126616</td>
-		<td>25</td>
+		<td>126624</td>
+		<td>33</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>8334</td>
 		<td>8342</td>
 		<td>8349</td>
-		<td>8351</td>
-		<td>+ 2</td>
+		<td>8353</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -366,8 +366,8 @@
 		<td>6380</td>
 		<td>6386</td>
 		<td>6389</td>
-		<td>6391</td>
-		<td>+ 2</td>
+		<td>6392</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -410,8 +410,8 @@
 		<td>6180</td>
 		<td>6185</td>
 		<td>6188</td>
-		<td>6189</td>
-		<td>+ 1</td>
+		<td>6190</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -465,8 +465,8 @@
 		<td>5317</td>
 		<td>5321</td>
 		<td>5324</td>
-		<td>5327</td>
-		<td>+ 3</td>
+		<td>5329</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -509,8 +509,8 @@
 		<td>4950</td>
 		<td>4956</td>
 		<td>4959</td>
-		<td>4960</td>
-		<td>+ 1</td>
+		<td>4961</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
@@ -531,8 +531,8 @@
 		<td>203</td>
 		<td>207</td>
 		<td>207</td>
-		<td>207</td>
-		<td></td>
+		<td>208</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>map.reveal</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>126616</td>
-		<td>25</td>
+		<td>126624</td>
+		<td>33</td>
 	</tr>
 </table>
 </sub></sup>
@@ -562,7 +562,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-10-31</td>
 		<td>2026-11-01</td>
 		<td>2026-11-02</td>
 		<td>2026-11-03</td>
@@ -571,10 +570,10 @@
 		<td>2026-11-06</td>
 		<td>2026-11-07</td>
 		<td>2026-11-08</td>
+		<td>2026-11-09</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>16</td>
 		<td>21</td>
 		<td>9</td>
 		<td>32</td>
@@ -583,10 +582,10 @@
 		<td>8</td>
 		<td>18</td>
 		<td>15</td>
+		<td>7</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>9</td>
 		<td>10</td>
 		<td>8</td>
 		<td>10</td>
@@ -595,6 +594,7 @@
 		<td>3</td>
 		<td>8</td>
 		<td>3</td>
+		<td>5</td>
 	</tr>
 </table>
 <br>
@@ -608,8 +608,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-15</td>
-		<td>7984</td>
-		<td>2673</td>
+		<td>7991</td>
+		<td>2678</td>
 		<td>192</td>
 		<td>21</td>
 	</tr>
@@ -622,8 +622,8 @@
 	</tr>
 	<tr>
 		<td>391</td>
-		<td>20.42</td>
-		<td>6.84</td>
+		<td>20.44</td>
+		<td>6.85</td>
 		<td></td>
 		<td></td>
 	</tr>
