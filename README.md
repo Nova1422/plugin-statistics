@@ -21,8 +21,8 @@
 		<td>8392</td>
 		<td>8398</td>
 		<td>8403</td>
-		<td>8406</td>
-		<td>+ 3</td>
+		<td>8408</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -76,8 +76,8 @@
 		<td>6212</td>
 		<td>6215</td>
 		<td>6216</td>
-		<td>6217</td>
-		<td>+ 1</td>
+		<td>6218</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
@@ -120,8 +120,8 @@
 		<td>6782</td>
 		<td>6787</td>
 		<td>6788</td>
-		<td>6790</td>
-		<td>+ 2</td>
+		<td>6792</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>map.reveal</td>
@@ -153,8 +153,8 @@
 		<td>6337</td>
 		<td>6341</td>
 		<td>6343</td>
-		<td>6346</td>
-		<td>+ 3</td>
+		<td>6347</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -164,8 +164,8 @@
 		<td>6313</td>
 		<td>6318</td>
 		<td>6321</td>
-		<td>6322</td>
-		<td>+ 1</td>
+		<td>6323</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -241,8 +241,8 @@
 		<td>5440</td>
 		<td>5443</td>
 		<td>5446</td>
-		<td>5447</td>
-		<td>+ 1</td>
+		<td>5448</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>unshrouded</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>127221</td>
-		<td>34</td>
+		<td>127229</td>
+		<td>42</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>8392</td>
 		<td>8398</td>
 		<td>8403</td>
-		<td>8406</td>
-		<td>+ 3</td>
+		<td>8408</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -355,8 +355,8 @@
 		<td>6782</td>
 		<td>6787</td>
 		<td>6788</td>
-		<td>6790</td>
-		<td>+ 2</td>
+		<td>6792</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
@@ -377,8 +377,8 @@
 		<td>6337</td>
 		<td>6341</td>
 		<td>6343</td>
-		<td>6346</td>
-		<td>+ 3</td>
+		<td>6347</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -399,8 +399,8 @@
 		<td>6313</td>
 		<td>6318</td>
 		<td>6321</td>
-		<td>6322</td>
-		<td>+ 1</td>
+		<td>6323</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
@@ -410,8 +410,8 @@
 		<td>6212</td>
 		<td>6215</td>
 		<td>6216</td>
-		<td>6217</td>
-		<td>+ 1</td>
+		<td>6218</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
@@ -454,8 +454,8 @@
 		<td>5440</td>
 		<td>5443</td>
 		<td>5446</td>
-		<td>5447</td>
-		<td>+ 1</td>
+		<td>5448</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>zoom.extension</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>127221</td>
-		<td>34</td>
+		<td>127229</td>
+		<td>42</td>
 	</tr>
 </table>
 </sub></sup>
