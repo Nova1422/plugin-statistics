@@ -21,8 +21,8 @@
 		<td>8398</td>
 		<td>8403</td>
 		<td>8408</td>
-		<td>8412</td>
-		<td>+ 4</td>
+		<td>8413</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -153,8 +153,8 @@
 		<td>6341</td>
 		<td>6343</td>
 		<td>6347</td>
-		<td>6350</td>
-		<td>+ 3</td>
+		<td>6351</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>127279</td>
-		<td>50</td>
+		<td>127281</td>
+		<td>52</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>8398</td>
 		<td>8403</td>
 		<td>8408</td>
-		<td>8412</td>
-		<td>+ 4</td>
+		<td>8413</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -377,8 +377,8 @@
 		<td>6341</td>
 		<td>6343</td>
 		<td>6347</td>
-		<td>6350</td>
-		<td>+ 3</td>
+		<td>6351</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>127279</td>
-		<td>50</td>
+		<td>127281</td>
+		<td>52</td>
 	</tr>
 </table>
 </sub></sup>
