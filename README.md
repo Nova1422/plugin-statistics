@@ -21,8 +21,8 @@
 		<td>8403</td>
 		<td>8408</td>
 		<td>8413</td>
-		<td>8422</td>
-		<td>+ 9</td>
+		<td>8423</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -142,8 +142,8 @@
 		<td>5904</td>
 		<td>5906</td>
 		<td>5909</td>
-		<td>5916</td>
-		<td>+ 7</td>
+		<td>5917</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -153,8 +153,8 @@
 		<td>6343</td>
 		<td>6347</td>
 		<td>6351</td>
-		<td>6359</td>
-		<td>+ 8</td>
+		<td>6360</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -175,8 +175,8 @@
 		<td>5291</td>
 		<td>5293</td>
 		<td>5295</td>
-		<td>5302</td>
-		<td>+ 7</td>
+		<td>5303</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -241,8 +241,8 @@
 		<td>5446</td>
 		<td>5448</td>
 		<td>5450</td>
-		<td>5457</td>
-		<td>+ 7</td>
+		<td>5458</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>unshrouded</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>127433</td>
-		<td>152</td>
+		<td>127438</td>
+		<td>157</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>8403</td>
 		<td>8408</td>
 		<td>8413</td>
-		<td>8422</td>
-		<td>+ 9</td>
+		<td>8423</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -377,8 +377,8 @@
 		<td>6343</td>
 		<td>6347</td>
 		<td>6351</td>
-		<td>6359</td>
-		<td>+ 8</td>
+		<td>6360</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -443,8 +443,8 @@
 		<td>5904</td>
 		<td>5906</td>
 		<td>5909</td>
-		<td>5916</td>
-		<td>+ 7</td>
+		<td>5917</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>unlock.hai.reveal</td>
@@ -454,8 +454,8 @@
 		<td>5446</td>
 		<td>5448</td>
 		<td>5450</td>
-		<td>5457</td>
-		<td>+ 7</td>
+		<td>5458</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>zoom.extension</td>
@@ -476,8 +476,8 @@
 		<td>5291</td>
 		<td>5293</td>
 		<td>5295</td>
-		<td>5302</td>
-		<td>+ 7</td>
+		<td>5303</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>127433</td>
-		<td>152</td>
+		<td>127438</td>
+		<td>157</td>
 	</tr>
 </table>
 </sub></sup>
