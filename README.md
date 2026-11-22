@@ -21,8 +21,8 @@
 		<td>8408</td>
 		<td>8413</td>
 		<td>8425</td>
-		<td>8429</td>
-		<td>+ 4</td>
+		<td>8430</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -153,8 +153,8 @@
 		<td>6347</td>
 		<td>6351</td>
 		<td>6361</td>
-		<td>6364</td>
-		<td>+ 3</td>
+		<td>6365</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
@@ -164,8 +164,8 @@
 		<td>6323</td>
 		<td>6325</td>
 		<td>6335</td>
-		<td>6338</td>
-		<td>+ 3</td>
+		<td>6339</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
@@ -197,8 +197,8 @@
 		<td>6423</td>
 		<td>6425</td>
 		<td>6435</td>
-		<td>6437</td>
-		<td>+ 2</td>
+		<td>6438</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
@@ -219,8 +219,8 @@
 		<td>6080</td>
 		<td>6082</td>
 		<td>6090</td>
-		<td>6092</td>
-		<td>+ 2</td>
+		<td>6093</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>127514</td>
-		<td>50</td>
+		<td>127519</td>
+		<td>55</td>
 	</tr>
 </table>
 </sub></sup>
@@ -300,8 +300,8 @@
 		<td>8408</td>
 		<td>8413</td>
 		<td>8425</td>
-		<td>8429</td>
-		<td>+ 4</td>
+		<td>8430</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
@@ -366,8 +366,8 @@
 		<td>6423</td>
 		<td>6425</td>
 		<td>6435</td>
-		<td>6437</td>
-		<td>+ 2</td>
+		<td>6438</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
@@ -377,8 +377,8 @@
 		<td>6347</td>
 		<td>6351</td>
 		<td>6361</td>
-		<td>6364</td>
-		<td>+ 3</td>
+		<td>6365</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
@@ -399,8 +399,8 @@
 		<td>6323</td>
 		<td>6325</td>
 		<td>6335</td>
-		<td>6338</td>
-		<td>+ 3</td>
+		<td>6339</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
@@ -421,8 +421,8 @@
 		<td>6080</td>
 		<td>6082</td>
 		<td>6090</td>
-		<td>6092</td>
-		<td>+ 2</td>
+		<td>6093</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>127514</td>
-		<td>50</td>
+		<td>127519</td>
+		<td>55</td>
 	</tr>
 </table>
 </sub></sup>
