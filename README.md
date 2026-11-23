@@ -4,124 +4,124 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2026-11-16</td>
 		<td>2026-11-17</td>
 		<td>2026-11-18</td>
 		<td>2026-11-19</td>
 		<td>2026-11-20</td>
 		<td>2026-11-21</td>
 		<td>2026-11-22</td>
+		<td>2026-11-23</td>
 		<td>today +</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
-		<td>8392</td>
 		<td>8398</td>
 		<td>8403</td>
 		<td>8408</td>
 		<td>8413</td>
 		<td>8425</td>
 		<td>8430</td>
-		<td>+ 5</td>
+		<td>8432</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
-		<td>7760</td>
 		<td>7763</td>
 		<td>7764</td>
 		<td>7766</td>
 		<td>7769</td>
 		<td>7778</td>
 		<td>7780</td>
+		<td>7782</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
 		<td>340</td>
 		<td>340</td>
-		<td>340</td>
 		<td>341</td>
 		<td>341</td>
+		<td>342</td>
 		<td>342</td>
 		<td>342</td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
-		<td>7629</td>
 		<td>7632</td>
 		<td>7633</td>
 		<td>7635</td>
 		<td>7637</td>
 		<td>7646</td>
 		<td>7648</td>
+		<td>7650</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
-		<td>7407</td>
 		<td>7410</td>
 		<td>7412</td>
 		<td>7413</td>
 		<td>7417</td>
 		<td>7425</td>
 		<td>7428</td>
-		<td>+ 3</td>
+		<td>7429</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
-		<td>6212</td>
 		<td>6215</td>
 		<td>6216</td>
 		<td>6218</td>
 		<td>6221</td>
 		<td>6230</td>
 		<td>6233</td>
-		<td>+ 3</td>
+		<td>6234</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
-		<td>7391</td>
 		<td>7394</td>
 		<td>7395</td>
 		<td>7396</td>
 		<td>7398</td>
 		<td>7406</td>
 		<td>7408</td>
-		<td>+ 2</td>
+		<td>7409</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
-		<td>5229</td>
 		<td>5232</td>
 		<td>5234</td>
 		<td>5235</td>
 		<td>5237</td>
 		<td>5245</td>
 		<td>5247</td>
-		<td>+ 2</td>
+		<td>5248</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>easier.ground.assault</td>
-		<td>5175</td>
 		<td>5178</td>
 		<td>5180</td>
 		<td>5181</td>
 		<td>5183</td>
 		<td>5191</td>
 		<td>5193</td>
+		<td>5195</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
-		<td>6782</td>
 		<td>6787</td>
 		<td>6788</td>
 		<td>6792</td>
 		<td>6794</td>
 		<td>6803</td>
 		<td>6806</td>
-		<td>+ 3</td>
+		<td>6807</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>map.reveal</td>
@@ -129,119 +129,119 @@
 		<td>102</td>
 		<td>102</td>
 		<td>102</td>
-		<td>102</td>
+		<td>103</td>
 		<td>103</td>
 		<td>103</td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>navypirates</td>
-		<td>5898</td>
 		<td>5901</td>
 		<td>5904</td>
 		<td>5906</td>
 		<td>5909</td>
 		<td>5918</td>
 		<td>5920</td>
+		<td>5922</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
-		<td>6337</td>
 		<td>6341</td>
 		<td>6343</td>
 		<td>6347</td>
 		<td>6351</td>
 		<td>6361</td>
 		<td>6365</td>
-		<td>+ 4</td>
+		<td>6366</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
-		<td>6313</td>
 		<td>6318</td>
 		<td>6321</td>
 		<td>6323</td>
 		<td>6325</td>
 		<td>6335</td>
 		<td>6339</td>
-		<td>+ 4</td>
+		<td>6340</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
-		<td>5285</td>
 		<td>5288</td>
 		<td>5291</td>
 		<td>5293</td>
 		<td>5295</td>
 		<td>5305</td>
 		<td>5308</td>
-		<td>+ 3</td>
+		<td>5309</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
-		<td>6317</td>
 		<td>6322</td>
 		<td>6324</td>
 		<td>6326</td>
 		<td>6328</td>
 		<td>6336</td>
 		<td>6339</td>
-		<td>+ 3</td>
+		<td>6340</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
-		<td>6416</td>
 		<td>6419</td>
 		<td>6421</td>
 		<td>6423</td>
 		<td>6425</td>
 		<td>6435</td>
 		<td>6438</td>
-		<td>+ 3</td>
+		<td>6440</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
-		<td>4977</td>
 		<td>4980</td>
 		<td>4981</td>
 		<td>4982</td>
 		<td>4984</td>
 		<td>4992</td>
 		<td>4995</td>
-		<td>+ 3</td>
+		<td>4996</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
-		<td>6073</td>
 		<td>6076</td>
 		<td>6078</td>
 		<td>6080</td>
 		<td>6082</td>
 		<td>6090</td>
 		<td>6093</td>
-		<td>+ 3</td>
+		<td>6094</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
-		<td>6038</td>
 		<td>6041</td>
 		<td>6043</td>
 		<td>6044</td>
 		<td>6046</td>
 		<td>6054</td>
 		<td>6056</td>
-		<td>+ 2</td>
+		<td>6057</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>unlock.hai.reveal</td>
-		<td>5440</td>
 		<td>5443</td>
 		<td>5446</td>
 		<td>5448</td>
 		<td>5450</td>
 		<td>5459</td>
 		<td>5461</td>
+		<td>5463</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
@@ -252,18 +252,18 @@
 		<td>210</td>
 		<td>210</td>
 		<td>210</td>
-		<td>210</td>
-		<td></td>
+		<td>211</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>zoom.extension</td>
-		<td>5351</td>
 		<td>5356</td>
 		<td>5358</td>
 		<td>5360</td>
 		<td>5364</td>
 		<td>5375</td>
 		<td>5377</td>
+		<td>5379</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
@@ -274,8 +274,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>127519</td>
-		<td>55</td>
+		<td>127548</td>
+		<td>29</td>
 	</tr>
 </table>
 </sub></sup>
@@ -283,242 +283,242 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2026-11-16</td>
 		<td>2026-11-17</td>
 		<td>2026-11-18</td>
 		<td>2026-11-19</td>
 		<td>2026-11-20</td>
 		<td>2026-11-21</td>
 		<td>2026-11-22</td>
+		<td>2026-11-23</td>
 		<td>today +</td>
 	</tr>
 	<tr>
 		<td>1requiredcrew</td>
-		<td>8392</td>
 		<td>8398</td>
 		<td>8403</td>
 		<td>8408</td>
 		<td>8413</td>
 		<td>8425</td>
 		<td>8430</td>
-		<td>+ 5</td>
+		<td>8432</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>aberrant.kahet.outfitter</td>
-		<td>7760</td>
 		<td>7763</td>
 		<td>7764</td>
 		<td>7766</td>
 		<td>7769</td>
 		<td>7778</td>
 		<td>7780</td>
+		<td>7782</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodeaoutfitter</td>
-		<td>7629</td>
 		<td>7632</td>
 		<td>7633</td>
 		<td>7635</td>
 		<td>7637</td>
 		<td>7646</td>
 		<td>7648</td>
+		<td>7650</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>capture.archons</td>
-		<td>7407</td>
 		<td>7410</td>
 		<td>7412</td>
 		<td>7413</td>
 		<td>7417</td>
 		<td>7425</td>
 		<td>7428</td>
-		<td>+ 3</td>
+		<td>7429</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>capturingpower</td>
-		<td>7391</td>
 		<td>7394</td>
 		<td>7395</td>
 		<td>7396</td>
 		<td>7398</td>
 		<td>7406</td>
 		<td>7408</td>
-		<td>+ 2</td>
+		<td>7409</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>jumpdrive.extended</td>
-		<td>6782</td>
 		<td>6787</td>
 		<td>6788</td>
 		<td>6792</td>
 		<td>6794</td>
 		<td>6803</td>
 		<td>6806</td>
-		<td>+ 3</td>
+		<td>6807</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>quargoutfitter</td>
-		<td>6416</td>
 		<td>6419</td>
 		<td>6421</td>
 		<td>6423</td>
 		<td>6425</td>
 		<td>6435</td>
 		<td>6438</td>
-		<td>+ 3</td>
+		<td>6440</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>obtainheron</td>
-		<td>6337</td>
 		<td>6341</td>
 		<td>6343</td>
 		<td>6347</td>
 		<td>6351</td>
 		<td>6361</td>
 		<td>6365</td>
-		<td>+ 4</td>
+		<td>6366</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>purchaseable.cloakingdevice</td>
-		<td>6317</td>
 		<td>6322</td>
 		<td>6324</td>
 		<td>6326</td>
 		<td>6328</td>
 		<td>6336</td>
 		<td>6339</td>
-		<td>+ 3</td>
+		<td>6340</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>purchase.bactrian</td>
-		<td>6313</td>
 		<td>6318</td>
 		<td>6321</td>
 		<td>6323</td>
 		<td>6325</td>
 		<td>6335</td>
 		<td>6339</td>
-		<td>+ 4</td>
+		<td>6340</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>capture.augen</td>
-		<td>6212</td>
 		<td>6215</td>
 		<td>6216</td>
 		<td>6218</td>
 		<td>6221</td>
 		<td>6230</td>
 		<td>6233</td>
-		<td>+ 3</td>
+		<td>6234</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>tributequarg</td>
-		<td>6073</td>
 		<td>6076</td>
 		<td>6078</td>
 		<td>6080</td>
 		<td>6082</td>
 		<td>6090</td>
 		<td>6093</td>
-		<td>+ 3</td>
+		<td>6094</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>unlimited.dfc</td>
-		<td>6038</td>
 		<td>6041</td>
 		<td>6043</td>
 		<td>6044</td>
 		<td>6046</td>
 		<td>6054</td>
 		<td>6056</td>
-		<td>+ 2</td>
+		<td>6057</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>navypirates</td>
-		<td>5898</td>
 		<td>5901</td>
 		<td>5904</td>
 		<td>5906</td>
 		<td>5909</td>
 		<td>5918</td>
 		<td>5920</td>
+		<td>5922</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>unlock.hai.reveal</td>
-		<td>5440</td>
 		<td>5443</td>
 		<td>5446</td>
 		<td>5448</td>
 		<td>5450</td>
 		<td>5459</td>
 		<td>5461</td>
+		<td>5463</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>zoom.extension</td>
-		<td>5351</td>
 		<td>5356</td>
 		<td>5358</td>
 		<td>5360</td>
 		<td>5364</td>
 		<td>5375</td>
 		<td>5377</td>
+		<td>5379</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>purchaseable.androids</td>
-		<td>5285</td>
 		<td>5288</td>
 		<td>5291</td>
 		<td>5293</td>
 		<td>5295</td>
 		<td>5305</td>
 		<td>5308</td>
-		<td>+ 3</td>
+		<td>5309</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>disable.aberrant.blockade</td>
-		<td>5229</td>
 		<td>5232</td>
 		<td>5234</td>
 		<td>5235</td>
 		<td>5237</td>
 		<td>5245</td>
 		<td>5247</td>
-		<td>+ 2</td>
+		<td>5248</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>easier.ground.assault</td>
-		<td>5175</td>
 		<td>5178</td>
 		<td>5180</td>
 		<td>5181</td>
 		<td>5183</td>
 		<td>5191</td>
 		<td>5193</td>
+		<td>5195</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>reduce.requiredcrew</td>
-		<td>4977</td>
 		<td>4980</td>
 		<td>4981</td>
 		<td>4982</td>
 		<td>4984</td>
 		<td>4992</td>
 		<td>4995</td>
-		<td>+ 3</td>
+		<td>4996</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>avgi.outfitter</td>
 		<td>340</td>
 		<td>340</td>
-		<td>340</td>
 		<td>341</td>
 		<td>341</td>
+		<td>342</td>
 		<td>342</td>
 		<td>342</td>
 		<td></td>
@@ -531,8 +531,8 @@
 		<td>210</td>
 		<td>210</td>
 		<td>210</td>
-		<td>210</td>
-		<td></td>
+		<td>211</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>map.reveal</td>
@@ -540,7 +540,7 @@
 		<td>102</td>
 		<td>102</td>
 		<td>102</td>
-		<td>102</td>
+		<td>103</td>
 		<td>103</td>
 		<td>103</td>
 		<td></td>
@@ -553,8 +553,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>127519</td>
-		<td>55</td>
+		<td>127548</td>
+		<td>29</td>
 	</tr>
 </table>
 </sub></sup>
@@ -621,9 +621,9 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>403</td>
-		<td>20.37</td>
-		<td>6.87</td>
+		<td>404</td>
+		<td>20.32</td>
+		<td>6.85</td>
 		<td></td>
 		<td></td>
 	</tr>
